@@ -4,3 +4,13 @@
 
 layout: home
 ---
+<h1>proof of concept</h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a><br>
+      {{post.date | date: '%B %d, %Y'}}<br>
+      {{post.excerpt | strip_html | truncatewords:35 }}
+    </li>
+  {% endfor %}
+</ul>
