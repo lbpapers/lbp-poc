@@ -236,9 +236,9 @@ ol.references > li{
 }
 
 .margintop30{ margin-top: 30px }
-.maxwidth33{ calc( var(--maxwidth)*.33 ) }  /* 198px (assumming max-width is 600px) */
-.maxwidth42{ calc( var(--maxwidth)*.42 ) }  /* 252px (assumming max-width is 600px) */
-.maxwidth66{ calc( var(--maxwidth)*.66 ) }  /* 396px (assumming max-width is 600px) */
+.maxwidth33{ max-width: calc( var(--maxwidth)*.33 ) }  /* 198px (assumming max-width is 600px) */
+.maxwidth42{ max-width: calc( var(--maxwidth)*.42 ) }  /* 252px (assumming max-width is 600px) */
+.maxwidth66{ max-width: calc( var(--maxwidth)*.66 ) }  /* 396px (assumming max-width is 600px) */
 
 
 footer{
