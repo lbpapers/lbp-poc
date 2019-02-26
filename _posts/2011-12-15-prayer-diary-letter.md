@@ -31,7 +31,7 @@
             background-color: #26ABE2;
             padding: 10px;
         }
-        
+
         aside > img{
         		max-width: 40px;
         }
@@ -46,26 +46,26 @@
         article{
             margin-left: 60px;
         }
-        
+
         @media only screen and (max-width: 600px){
 	         #newsletter{
 	            max-width: 600px;
 	            padding: 0px;
 	        }
-	
+
 	        aside{
 	            max-width: 40px;
 	            padding: 5px;
 	        }
-	        
+
 	        aside > img{
 	        		max-width: 20px;
 	        }
-	
+
 	        header{
 	            margin-left: 20px;
 	        }
-	
+
 	        article{
 	            margin-left: 20px;
 	        }       	
@@ -77,10 +77,10 @@
 <body>
     <div id="newsletter">
         <aside>
-			<img src="images/icon_envelope.png">
+			<img src="/assets/newsletters/images/2011/12/15/icon_envelope.png">
 		</aside>
         <header>
-			<img alt="4/14 Window" src="images/web_logo_v4_alternative.1.png">
+			<img alt="4/14 Window" src="/assets/newsletters/images/2011/12/15/web_logo_v4_alternative.1.png">
 		</header>
         <article>
 			<p id="first-paragraph"><time datetime="2011-12">December 2011</time></p>

@@ -24,7 +24,7 @@
 <body>
 	<div id="newsletter">
 		<header>
-			<img id="tw-header" alt="Transform World Vision 2020" src="images/header-tw2020-ihopkc.png">
+			<img id="tw-header" alt="Transform World Vision 2020" src="/assets/newsletters/images/2013/02/04/header-tw2020-ihopkc.png">
 		</header>
 		<article>
 		    <h1>Transform World Vision 2020</h1>

@@ -17,7 +17,7 @@
 	<title>2012 Fiji Prayer Convention Report</title>
 	<link rel="stylesheet" href="/newsletters/css/main.css">
 	<style>
-		h3{ 
+		h3{
 			color: #202020;
 			font-family: Georgia;
 			font-size: 18px;
@@ -33,7 +33,7 @@
 <body>
 	<div id="newsletter">
 		<header>
-			<img id="tw-header" alt="Transfrom World e-newsletter header" src="images/tw07_header1.jpg">
+			<img id="tw-header" alt="Transfrom World e-newsletter header" src="/assets/newsletters/images/2012/07/30/tw07_header1.jpg">
 		</header>
 		<article>
 		    <h1>2012 Fiji Prayer Convention Report</h1>
@@ -75,8 +75,8 @@
 			<p>The final message came from Inosi Vono who called for the grace of forgiveness to be exercised by all present towards anyone who had caused them offense. In conclusion he asked all the Pastors present to come on to the stage and kneel and repent of denominationalism and pride that had been separating Gods family. This was a blessed place to bring the Fiji International Prayer Convention to a conclusion. Let me conclude this report with the words of Psalm 107:15:</p>
 			<p><em>Let them give thanks to the LORD for his unfailing love and his wondrous deeds for men, for he breaks down gates of bronze and cuts through bars of iron.</em></p>
 			<p><a href="files/Link8.pdf">Special thanks to contributors of this report.</a><sup>8</sup></p>
-			
-			<img id="tw-footer" src="images/tw-footer.jpg">
+
+			<img id="tw-footer" src="/assets/newsletters/images/2012/07/30/tw-footer.jpg">
 
 
 			<h2 id="References">References</h2>

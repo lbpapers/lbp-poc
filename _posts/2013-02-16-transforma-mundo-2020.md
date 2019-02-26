@@ -24,7 +24,7 @@
 <body>
 	<div id="newsletter">
 		<header>
-			<img id="tw-header" alt="Transform World Vision 2020" src="images/header-transforma2.png">
+			<img id="tw-header" alt="Transform World Vision 2020" src="/assets/newsletters/images/2013/02/16/header-transforma2.png">
 		</header>
 		<article>
 		    <h1>Sé uno de los 100,000 anfitriones de oración de Transforma Mundo 2020</h1>
@@ -83,12 +83,12 @@ Estamos viviendo un momento  crítico en la historia mundial. A medida que las n
 			<p id="author">Mike Bickle<br>
 			<span class="authors-title">Casa de Oración Internacional</span><br>
 			<span class="authors-title">Kansas City, Missouri</span></p>
-			
+
 			<p><strong>Vuélvete un anfitrión de las reuniones de oración</strong></p>
 			<p> !Estás invitado! Vuélvete uno de los <strong>100,000 anfitriones</strong> que le estamos pidiendo a Dios. ¡Con 100,000 reuniones de oración participando por internet, tendremos casi 5 millones de guerreros unidos juntos en oración, peleando por victoria espiritual por alrededor de 70 horas! Al volverte un anfitrión de reuniones de oración tu adorarás, entrarás en acuerdo en intercesión, y recibirás valiosa información de líderes clave mientras nos enfocamos en los 7 retos  primarias que la iglesia está enfrentando hoy en día.</p>
-			
+
 			<p><strong><a href="http://prayerhostregistrationspanish.eventbrite.com/">Regístrese Aquí</a></strong><sup>7</sup></p>
-			
+
 			<p><strong>Esto es lo que harás como anfitrión de las reuniones de oración</strong></p>
 			<ul>
 				<li>Comprometerte a unirte a nosotros via web stream por un mínimo de una de las sesiones de 2 horas, en donde cada grupo podrá escuchar la exhortación de uno de los conferencistas y participar con nosotros en oración por el enfoque de esa sesión.</li>

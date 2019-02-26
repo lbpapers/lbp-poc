@@ -24,7 +24,7 @@
 <body>
 	<div id="newsletter">
 		<header>
-			<img id="tw-header" alt="Transform World Global Challenges Summit 2012" src="images/header-tw-global-challenge-2012.jpg">
+			<img id="tw-header" alt="Transform World Global Challenges Summit 2012" src="/assets/newsletters/images/2012/09/24/header-tw-global-challenge-2012.jpg">
 		</header>
 		<article>
 		    <h1>Invitation to Special Conference Call for Transform World Global Challenges Summit 2012</h1>

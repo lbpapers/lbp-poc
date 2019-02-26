@@ -43,7 +43,7 @@
 			<p>The Francophone gathering in Ouagadougou is a <strong>historic moment and a turning point for the continent</strong>. The conference went beyond our expectation. God has surprised us with His abundant grace. We did not expect such a response from the leaders and children’s ministry workers. The number of participants has more than doubled and delegates came from Benin, Togo, Ivory Coast, Guinea Conakry, Chad, Mali, Democratic Republic of Congo, Central African Republic, Mauritius, Madagascar, Senegal, Niger, and Burkina Faso.</p>
 			<p>To God be the glory.</p>
 			<figure class="align-left" id="pic1">
-				<img  src="images/Francaphone_1.jpg">
+				<img  src="/assets/newsletters/images/2012/03/10/Francaphone_1.jpg">
 				<figcaption>Dr. Luis Bush, his wife Doris and granddaughter, Sophia, Rev Nam Soo Kim and a team from the Promise Church came to support the launching of the Francophone 4/14 window. Pictured to the left are Sophia, Doris and the other participants.</figcaption>
 			</figure>
 			<p>As a chairman of the conference, I expect all participants to take back to their countries the vision for the 4/14 generation. The conference is a total success. As the potential to reach this generation is in our hands, I exhort all the participants to keep the light shining in their respective countries.</p>
@@ -51,7 +51,7 @@
 			<p>I also recommend that all church leaders or church organizations leaders get deeply involved in making children and youth reaching their top priority.</p>
 			<p>I also recommend that decision we have made together be a solid foundation so that we can reach the children and youth.</p>
 			<figure class="align-right" id="pic2">
-				<img src="images/Francaphone_2.jpg">
+				<img src="/assets/newsletters/images/2012/03/10/Francaphone_2.jpg">
 				<figcaption>Jean-Baptist in the suit with his wife and some of the participants</figcaption>
 			</figure>
 			<p>The conference has allowed the participants to get involved in spreading the movement. As the chairman of the conference, I exhort all the participants to be ambassadors of the 4/14 Window Movement in their countries, communities, churches and society. The goal of organizing such a conference has been reached. We have launched the movement and the participants have to spread it. The movement is of God and our responsibility is to keep it alive.</p>
@@ -59,7 +59,7 @@
 </p>
 			<p>Harry Bryans, 4/14 Window Movement Facilitator for Western Europe, views this as a turning point not only for French-speaking Africa but also the French speaking world.</p>
 			<figure class="align-left" id="pic3">
-				<img  src="images/Francaphone_3.jpg">
+				<img  src="/assets/newsletters/images/2012/03/10/Francaphone_3.jpg">
 				<figcaption>Harry Bryans from Belgium on left with the conference facilitator Jonas Sawadogo</figcaption>
 			</figure>
 			<p>This first 4/14 Window Conference for Francophone Africa <strong>marks a decisive turning point in the history of the church, not just in this continent but also in the French speaking world!</strong> What some refer to as the "sleeping giant" of Africa is waking up to a new awareness of God’s heart for the children and the urgent need to make them a vital and permanent focus of the Church’s prayers and action. Over 2/3 of the French speaking countries are in Africa and following this gathering the francophone church will never be the same again! Fresh fires of vision and dedication have been lit here and the torches will be carried back to the many countries represented and beyond. As Western European Facilitator, I have been greatly inspired and encouraged. The Lord is opening new doors of relationship and partnership with francophone Europe that will also multiply His blessing to the churches and the children there.</p>
