@@ -2,7 +2,7 @@
 layout: default-newsletters-en
 title: "4/14 Window Movement in Paraguay and Puerto Rico"
 date: 2011-11-05
-categories: newsletters
+category: newsletters
 lang: en
 ---
 <div id="newsletter">

@@ -236,9 +236,21 @@ ol.references > li{
 }
 
 .margintop30{ margin-top: 30px }
+.maxwidth17{ max-width: calc( var(--maxwidth)*.17 ) }  /* 102px (assumming max-width is 600px) */
+.maxwidth25{ max-width: calc( var(--maxwidth)*.25 ) }  /* 150px (assumming max-width is 600px) */
+.maxwidth30{ max-width: calc( var(--maxwidth)*.30 ) }  /* 180px (assumming max-width is 600px) */
 .maxwidth33{ max-width: calc( var(--maxwidth)*.33 ) }  /* 198px (assumming max-width is 600px) */
+.maxwidth35{ max-width: calc( var(--maxwidth)*.35 ) }  /* 210px (assumming max-width is 600px) */
 .maxwidth42{ max-width: calc( var(--maxwidth)*.42 ) }  /* 252px (assumming max-width is 600px) */
+.maxwidth45{ max-width: calc( var(--maxwidth)*.45 ) }  /* 270px (assumming max-width is 600px) */
+.maxwidth50{ max-width: calc( var(--maxwidth)*.50 ) }  /* 300px (assumming max-width is 600px) */
+.maxwidth55{ max-width: calc( var(--maxwidth)*.55 ) }  /* 330px (assumming max-width is 600px) */
+.maxwidth60{ max-width: calc( var(--maxwidth)*.60 ) }  /* 360px (assumming max-width is 600px) */
 .maxwidth66{ max-width: calc( var(--maxwidth)*.66 ) }  /* 396px (assumming max-width is 600px) */
+.maxwidth70{ max-width: calc( var(--maxwidth)*.70 ) }  /* 420px (assumming max-width is 600px) */
+.maxwidth80{ max-width: calc( var(--maxwidth)*.80 ) }  /* 480px (assumming max-width is 600px) */
+.maxwidth90{ max-width: calc( var(--maxwidth)*.90 ) }  /* 540px (assumming max-width is 600px) */
+.maxwidth100{ max-width: calc( var(--maxwidth) ) }     /* 600px (assumming max-width is 600px) */
 
 
 footer{

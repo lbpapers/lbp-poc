@@ -2,16 +2,11 @@
 layout: default-newsletters-es
 title: "Movimiento 4/14 en Paraguay y Puerto Rico"
 date: 2011-11-05
-categories: newsletters
+category: newsletters
 lang: es
 ---
 <div id="newsletter">
-	<header>
-		<figure>
-			<img alt="Luis y Doris" src="/newsletters/images/luis-and-doris-300px.png">
-			<figcaption style="font-weight: normal">Sirviendo | Catalizando | Facilitando</figcaption>
-		</figure>
-	</header>
+{% include newsletter-header-es.html %}
 	<article>
 	    <h1>Movimiento 4/14 en Paraguay y Puerto Rico</h1>
 		<h2 id="article-date"><time datetime="2011-11-05">5 de Noviembre de 2011</time></h2>
@@ -33,5 +28,5 @@ lang: es
 			<li>and with Ministry of Education of Macau offical representative to review proposal for a research, consulting and training project.</li>
 		</ul>
 	</article>
-	{% include newsletter-footer-en.html %}
+	{% include newsletter-footer-es.html %}
 </div>

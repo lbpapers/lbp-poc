@@ -1,59 +1,35 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-	<link rel="icon" type="image/x-icon" href="/favicon.ico">
-	<link rel="manifest" href="/site.webmanifest">
-	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-	<meta name="msapplication-TileColor" content="#da532c">
-	<meta name="theme-color" content="#ffffff">
+---
+layout: default-newsletters-en
+title: "Christian Worldview Coalition USA Kickoff"
+date: 2012-04-03
+category: newsletters
+lang: en
+---
+<div id="newsletter">
+{% include newsletter-header-en.html %}
+	<article>
+	    <h1>Christian Worldview Coalition USA Kickoff</h1>
+		<h2 id="article-date"><time datetime="2011-04-03">April 3, 2011</time></h2>
+		<p id="first-paragraph"><em>"God Almighty has set before me two great objects: the suppression of the slave trade and the Reformation of society"</em> wrote William Wilberforce in the late 18th century in London.  God Almighty has set three great objects before Chuck Colson in the early 21stcentury in Lansdowne, near Washington DC; the sanctity of human life, the dignity of traditional marriage and religious liberty.  In his day Wilberforce and like-minded people formed the Clapham Circle. In our day, a group of fifty five like-minded US citizens met to form the Christian Worldview Coalition.   Both then and now the initiatives focused on renewing the culture of the day.</p>
+		<p>In his letter of invitation written January 20, 2012 Chuck Colson wrote: "We desire a coalition seeking God to give a spark that will make a movement of His people possible." Recognizing that prayer plays a central role in the coalition, one of the goals of the coalition is to partner with prayer ministries. One of the people sitting at the table was Billy Wilson who represented one of those prayer initiatives in the U.S. called  Awakening America Alliance, with the expressed purpose of increasing awareness of the deep spiritual need in today's America and to pursue a new Christ awakening in our nation that will impact our world.</p>
+		<p>The timing of the meeting to form the Christian Worldview Coalition on March 30 coincided with the presentation of the Manhattan Declaration, signed by over 550,000 like-minded Americans to the U.S. President three days later on April 2nd. The Manhattan Declaration is a non-partisan statement of conscience affirmed by spiritual leaders of Christ followers in the U.S. in defense of human life, traditional marriage and religious freedom. It represents a "line in the sand" – a statement by the people who signed it – that we are happy to give to Caesar what belongs to Caesar, but under no condition will we give to Caesar what belongs to God.</p>
+		<p>At the same time, the Christian Worldview Coalition does not seek to advocate a specific political agenda or ideology and will not endorse any particular party or candidate. Nor is there intention to create another organization but rather start as an informal network in the hope that it leads to a movement of God's people committed to living and defending the Christian worldview. The vision of the Coalition is of revived believers serving in renewed churches for the greater awakening of their neighbors, our culture, and society to the Good News of the Kingdom of God.  The Good News of the Kingdom of God is what the Coalition seeks – as drafted by T.M. Moore – in a document titled: <a href="/newsletters/resources/pdf/2012/What_We_Seek_a_Kingdom_Manifesto_by_T.M._Moore.pdf">What We Seek: A Kingdom Manifesto</a>.</p>
+		<img class="maxwidth100 align-center" src="/assets/newsletters/images/2012/04/03/Luis_001.jpg">
+		<p>The goal of the Coalition is not to impose policy or direction of the members but rather seek to propose ways to work together, encourage each other, share best practices and amplify the impact that any of us can have working alone.  The activities include prayer, consensus seeking on key issues in culture, collaboration in each sphere of cultural influence, establishing a technology platform and indicators of progress.  The values of the coalition are first of all prayerful – this must be God's will not ours; second, collaborative – not competing; third, winsome – not shrill; fourth, humble – servant leadership and fifth, respectful – each has our own gifts and calling.</p>
+		<img class="maxwidth60 align-right" src="/assets/newsletters/images/2012/04/03/Luis_002.jpg">
+		<p>During an interactive session of the meeting on March 30 the participants were polled on the approach to implementation of the Christian Worldview Coalition. For each of the four options it was like a balancing act (see figure on the right). The group was inclined toward unstructured versus structured, long-term strategic versus short-term tactical, broad focus versus narrow focus and even on prayer versus activism. The comprehensive conviction of the group was to form a broad based, long-term, loosely designed coalition. The question arose, could this kind of coalition function without strong leadership at the top?</p>
+		<p>The need for a long-term strategic focus caused me to think about the importance of a priority focus on the 4/14 Window during their formation years. George Barna notes that: "By the time most Americans reach the age of 13 or 14, they think they pretty much know everything of value the Bible has to teach and they are no longer interested in learning more scriptural content. It requires increasingly concise, creative, reinforced, and personally relevant efforts to penetrate people's minds with new or more accurate insights into genuinely biblical principles."<sup>1</sup></p>
+		<p>The closest analogy for the Christian Worldview Coalition is the movement related to the Clapham Circle formed by William Wilberforce and many others in late 18th century London. It is a model for engaging secularism and transforming the world which was accomplished at that time by catalyzing the abolition of the slave trade in the British Empire with the Slave Trade Act of 1807.  Even then there were still white slaves in England – referring to the children who were made to work twelve hours a day or longer in the mills and sweatshops in London – which continued until this was stopped by acts of parliament in 1875. It was thanks to the long term strategic focus of Robert Raikes to raise up a new generation from the 4/14 Window to transform the nation. Robert Raikes, a newspaper proprietor, started schools on Sunday that launched the Sunday School Movement for those from outside of the church. "Robert knew that the future was grim for these children who had to work all the time with no hope of an education. "Worse yet, with no one to teach them the good news of the Gospel or how to live God's way."<sup>2</sup> Raikes decided to do something about the challenges faced in the UK by setting up schools for children. The transformation of Britain had begun, and it was to continue right through the 19th Century. It would transform the spiritual condition of the country. By the end of 1900 85% of the children in the UK attended Sunday School.</p>
+		<p>Chuck Colson has recognized the need and opportunity for a long term strategic focus on the 4/14 generation. "The great need of our day is to fuel a movement to equip believers to nurture Christian transformation in minds, lives, relationships, ministries, and spheres of influence around the world. And who should be at the forefront of that movement? The leaders of tomorrow – orthodox believers ages 4-14 firmly rooted in a faith that propels them to be the hands and feet of Christ. … it's more critical than ever to focus our efforts on reaching this generation."<sup>3</sup></p>
+		<p>We agree with the summary statement of January 28, 2012 for the proposed Christian Worldview Coalition. "There is an urgent need for revival and renewal in our world today. The Church has been cowed into a Spiral of Silence – we need to stand up and speak out to break the spiral. We are proposing to work together to bring about the vision of revived believers serving in renewed churches for the greater awakening of their neighbors, our culture, and society to the Good News of the Kingdom of God. The time is now."</p>
 
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Newsletter from Luis Bush">
-	<meta name="author" content="Luis Bush">
-	<meta name="keywords" content="Christian Worldview Coalition, Kingdom Manifesto">
-	<title>Christian Worldview Coalition USA Kickoff</title>
-	<link rel="stylesheet" href="/newsletters/css/main.css">
-	<style>
-		#pic1{ max-width: 100% }
-		#pic2{ max-width: 60% }
-	</style></head>
-<body>
-	<div id="newsletter">
-		<header>
-			<figure>
-				<img alt="Luis and Doris" src="/newsletters/images/luis-and-doris-300px.png">
-				<figcaption>Serving | Catalyzing | Facilitating</figcaption>
-			</figure>
-		</header>
-		<article>
-		    <h1>Christian Worldview Coalition USA Kickoff</h1>
-			<h2 id="article-date"><time datetime="2011-04-03">April 3, 2011</time></h2>
-			<p id="first-paragraph"><em>"God Almighty has set before me two great objects: the suppression of the slave trade and the Reformation of society"</em> wrote William Wilberforce in the late 18th century in London.  God Almighty has set three great objects before Chuck Colson in the early 21stcentury in Lansdowne, near Washington DC; the sanctity of human life, the dignity of traditional marriage and religious liberty.  In his day Wilberforce and like-minded people formed the Clapham Circle. In our day, a group of fifty five like-minded US citizens met to form the Christian Worldview Coalition.   Both then and now the initiatives focused on renewing the culture of the day.</p>
-			<p>In his letter of invitation written January 20, 2012 Chuck Colson wrote: "We desire a coalition seeking God to give a spark that will make a movement of His people possible." Recognizing that prayer plays a central role in the coalition, one of the goals of the coalition is to partner with prayer ministries. One of the people sitting at the table was Billy Wilson who represented one of those prayer initiatives in the U.S. called  Awakening America Alliance, with the expressed purpose of increasing awareness of the deep spiritual need in today's America and to pursue a new Christ awakening in our nation that will impact our world.</p>
-			<p>The timing of the meeting to form the Christian Worldview Coalition on March 30 coincided with the presentation of the Manhattan Declaration, signed by over 550,000 like-minded Americans to the U.S. President three days later on April 2nd. The Manhattan Declaration is a non-partisan statement of conscience affirmed by spiritual leaders of Christ followers in the U.S. in defense of human life, traditional marriage and religious freedom. It represents a "line in the sand" – a statement by the people who signed it – that we are happy to give to Caesar what belongs to Caesar, but under no condition will we give to Caesar what belongs to God.</p>
-			<p>At the same time, the Christian Worldview Coalition does not seek to advocate a specific political agenda or ideology and will not endorse any particular party or candidate. Nor is there intention to create another organization but rather start as an informal network in the hope that it leads to a movement of God's people committed to living and defending the Christian worldview. The vision of the Coalition is of revived believers serving in renewed churches for the greater awakening of their neighbors, our culture, and society to the Good News of the Kingdom of God.  The Good News of the Kingdom of God is what the Coalition seeks – as drafted by T.M. Moore – in a document titled: <a href="/newsletters/resources/pdf/2012/What_We_Seek_a_Kingdom_Manifesto_by_T.M._Moore.pdf">What We Seek: A Kingdom Manifesto</a>.</p>
-			<img id="pic1" class="align-center" src="/assets/newsletters/images/2012/04/03/Luis_001.jpg">
-			<p>The goal of the Coalition is not to impose policy or direction of the members but rather seek to propose ways to work together, encourage each other, share best practices and amplify the impact that any of us can have working alone.  The activities include prayer, consensus seeking on key issues in culture, collaboration in each sphere of cultural influence, establishing a technology platform and indicators of progress.  The values of the coalition are first of all prayerful – this must be God's will not ours; second, collaborative – not competing; third, winsome – not shrill; fourth, humble – servant leadership and fifth, respectful – each has our own gifts and calling.</p>
-			<img id="pic2" class="align-right" src="/assets/newsletters/images/2012/04/03/Luis_002.jpg">
-			<p>During an interactive session of the meeting on March 30 the participants were polled on the approach to implementation of the Christian Worldview Coalition. For each of the four options it was like a balancing act (see figure on the right). The group was inclined toward unstructured versus structured, long-term strategic versus short-term tactical, broad focus versus narrow focus and even on prayer versus activism. The comprehensive conviction of the group was to form a broad based, long-term, loosely designed coalition. The question arose, could this kind of coalition function without strong leadership at the top?</p>
-			<p>The need for a long-term strategic focus caused me to think about the importance of a priority focus on the 4/14 Window during their formation years. George Barna notes that: "By the time most Americans reach the age of 13 or 14, they think they pretty much know everything of value the Bible has to teach and they are no longer interested in learning more scriptural content. It requires increasingly concise, creative, reinforced, and personally relevant efforts to penetrate people's minds with new or more accurate insights into genuinely biblical principles."<sup>1</sup></p>
-			<p>The closest analogy for the Christian Worldview Coalition is the movement related to the Clapham Circle formed by William Wilberforce and many others in late 18th century London. It is a model for engaging secularism and transforming the world which was accomplished at that time by catalyzing the abolition of the slave trade in the British Empire with the Slave Trade Act of 1807.  Even then there were still white slaves in England – referring to the children who were made to work twelve hours a day or longer in the mills and sweatshops in London – which continued until this was stopped by acts of parliament in 1875. It was thanks to the long term strategic focus of Robert Raikes to raise up a new generation from the 4/14 Window to transform the nation. Robert Raikes, a newspaper proprietor, started schools on Sunday that launched the Sunday School Movement for those from outside of the church. "Robert knew that the future was grim for these children who had to work all the time with no hope of an education. "Worse yet, with no one to teach them the good news of the Gospel or how to live God's way."<sup>2</sup> Raikes decided to do something about the challenges faced in the UK by setting up schools for children. The transformation of Britain had begun, and it was to continue right through the 19th Century. It would transform the spiritual condition of the country. By the end of 1900 85% of the children in the UK attended Sunday School.</p>
-			<p>Chuck Colson has recognized the need and opportunity for a long term strategic focus on the 4/14 generation. "The great need of our day is to fuel a movement to equip believers to nurture Christian transformation in minds, lives, relationships, ministries, and spheres of influence around the world. And who should be at the forefront of that movement? The leaders of tomorrow – orthodox believers ages 4-14 firmly rooted in a faith that propels them to be the hands and feet of Christ. … it's more critical than ever to focus our efforts on reaching this generation."<sup>3</sup></p>
-			<p>We agree with the summary statement of January 28, 2012 for the proposed Christian Worldview Coalition. "There is an urgent need for revival and renewal in our world today. The Church has been cowed into a Spiral of Silence – we need to stand up and speak out to break the spiral. We are proposing to work together to bring about the vision of revived believers serving in renewed churches for the greater awakening of their neighbors, our culture, and society to the Good News of the Kingdom of God. The time is now."</p>
+		<h2 id="References">References</h2>
 
-			<h2 id="References">References</h2>
-
-			<ol class="references">
-				<li><a href="http://www.barna.org/barna-update/article/12-faithspirituality/325-barna-studies-the-research-offers-a-year-in-review-perspective">http://www.barna.org/barna-update/article/12-faithspirituality/325-barna-studies-the-research-offers-a-year-in-review-perspective</a></li>
-				<li><a href="http://www.christianity.com/churchhistory/11635043/">http://www.christianity.com/churchhistory/11635043/</a></li>
-				<li>The 4/14 Window: Raising up a New Generation to Transform the World. <a href="http://www.amazon.com/The-14-Window-Generation-Transform/dp/0984116907">http://www.amazon.com/The-14-Window-Generation-Transform/dp/0984116907</a></li>
-			</ol>
-		</article>
-		<footer></footer>
-	</div>
-</body>
-</html>
+		<ol class="references">
+			<li><a href="http://www.barna.org/barna-update/article/12-faithspirituality/325-barna-studies-the-research-offers-a-year-in-review-perspective">http://www.barna.org/barna-update/article/12-faithspirituality/325-barna-studies-the-research-offers-a-year-in-review-perspective</a></li>
+			<li><a href="http://www.christianity.com/churchhistory/11635043/">http://www.christianity.com/churchhistory/11635043/</a></li>
+			<li>The 4/14 Window: Raising up a New Generation to Transform the World. <a href="http://www.amazon.com/The-14-Window-Generation-Transform/dp/0984116907">http://www.amazon.com/The-14-Window-Generation-Transform/dp/0984116907</a></li>
+		</ol>
+	</article>
+	{% include newsletter-footer-en.html %}
+</div>
