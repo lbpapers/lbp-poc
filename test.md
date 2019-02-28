@@ -3,7 +3,7 @@ layout: home
 title: Test
 permalink: /test/
 ---
-<h1>test</h1>
+<h1>this is test page</h1>
 <ul>
   {% for post in site.html_pages %}
     <li>
