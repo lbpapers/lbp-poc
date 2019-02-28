@@ -8,7 +8,7 @@ permalink: /1040window/
   {% for post in site.posts %}
     {% assign category = post.category | downcase %}{% if category == '1040window' %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a><br>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
         Author: {{ post.author }}<br>
         {{post.date | date: '%B %d, %Y'}}<br>
         {{post.excerpt | strip_html | truncatewords:35 }}
