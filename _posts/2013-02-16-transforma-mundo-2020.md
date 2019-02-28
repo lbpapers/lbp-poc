@@ -7,7 +7,7 @@ lang: es
 ---
 <div id="newsletter">
 	<header style="padding: 0px; text-align: center;">
-		<img style="max-width: 100%;" alt="Transform World Vision 2020" src="/assets/newsletters/images/2013/02/16/header-transforma2.png">
+		<img style="max-width: 100%;" alt="Transform World Vision 2020" src="{{ site.baseurl }}/assets/newsletters/images/2013/02/16/header-transforma2.png">
 	</header>
 	<article>
 	    <h1>Sé uno de los 100,000 anfitriones de oración de Transforma Mundo 2020</h1>

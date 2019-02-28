@@ -7,7 +7,7 @@ lang: en
 ---
 <div id="newsletter">
 	<header style="padding: 0px; text-align: center;">
-		<img style="max-width: 100%;" alt="Transform World Vision 2020" src="/assets/newsletters/images/2013/02/04/header-tw2020-ihopkc.png">
+		<img style="max-width: 100%;" alt="Transform World Vision 2020" src="{{ site.baseurl }}/assets/newsletters/images/2013/02/04/header-tw2020-ihopkc.png">
 	</header>
 	<article>
 	    <h1>Transform World Vision 2020</h1>

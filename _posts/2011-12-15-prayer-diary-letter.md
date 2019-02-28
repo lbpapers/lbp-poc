@@ -7,10 +7,10 @@ lang: en
 ---
 <div id="newsletter">
 <aside>
-	<img src="/assets/newsletters/images/2011/12/15/icon_envelope.png">
+	<img src="{{ site.baseurl }}/assets/newsletters/images/2011/12/15/icon_envelope.png">
 </aside>
 <header>
-	<img alt="4/14 Window" src="/assets/newsletters/images/2011/12/15/web_logo_v4_alternative.1.png">
+	<img alt="4/14 Window" src="{{ site.baseurl }}/assets/newsletters/images/2011/12/15/web_logo_v4_alternative.1.png">
 </header>
 <article>
 	<p id="first-paragraph"><time datetime="2011-12">December 2011</time></p>

@@ -7,7 +7,7 @@ lang: en
 ---
 <div id="newsletter">
 	<header style="padding: 0x; text-align: center;">
-		<img style="max-width: 100%" alt="Transform World Global Challenges Summit 2012" src="/assets/newsletters/images/2012/09/24/header-tw-global-challenge-2012.jpg">
+		<img style="max-width: 100%" alt="Transform World Global Challenges Summit 2012" src="{{ site.baseurl }}/assets/newsletters/images/2012/09/24/header-tw-global-challenge-2012.jpg">
 	</header>
 	<article>
 	    <h1>Invitation to Special Conference Call for Transform World Global Challenges Summit 2012</h1>

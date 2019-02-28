@@ -7,7 +7,7 @@ lang: en
 ---
 <div id="newsletter">
 	<header>
-		<img style="max-width: 100%" alt="Transfrom World e-newsletter header" src="/assets/newsletters/images/2012/07/30/tw07_header1.jpg">
+		<img style="max-width: 100%" alt="Transfrom World e-newsletter header" src="{{ site.baseurl }}/assets/newsletters/images/2012/07/30/tw07_header1.jpg">
 	</header>
 	<article>
 	    <h1>2012 Fiji Prayer Convention Report</h1>
@@ -50,7 +50,7 @@ lang: en
 		<p><em>Let them give thanks to the LORD for his unfailing love and his wondrous deeds for men, for he breaks down gates of bronze and cuts through bars of iron.</em></p>
 		<p><a href="files/Link8.pdf">Special thanks to contributors of this report.</a><sup>8</sup></p>
 
-		<img style="max-width: 100%" src="/assets/newsletters/images/2012/07/30/tw-footer.jpg">
+		<img style="max-width: 100%" src="{{ site.baseurl }}/assets/newsletters/images/2012/07/30/tw-footer.jpg">
 
 
 		<h2 id="References">References</h2>

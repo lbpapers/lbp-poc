@@ -6,27 +6,22 @@ category: newsletters
 lang: en
 ---
 <div id="newsletter">
-	<header>
-		<figure>
-			<img alt="Luis and Doris" src="/newsletters/images/luis-and-doris-300px.png">
-			<figcaption>Serving | Catalyzing | Facilitating</figcaption>
-		</figure>
-	</header>
+{% include newsletter-header-en.html %}
 	<article>
 	    <h1>4/14 Window Movement <br>in Paraguay &amp; Puerto Rico</h1>
 		<h2 id="article-date"><time datetime="2011-11-05">November 5, 2011</time></h2>
-		<img class="maxwidth33 margintop30 align-left" src="/assets/newsletters/images/2011/11/05/boletin002.jpg">
+		<img class="maxwidth33 margintop30 align-left" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/05/boletin002.jpg">
 	    <p id="first-paragraph"><strong>Paraguay:</strong> The challenge of Raising up a New Generation of Latin American Christian Communicators from the 4/14 Window to Transform Iberoamerica was presented at COICOM 2011 in Paraguay on 19<sup>th</sup> October.</p>
 		<p>Arnold Enns, COICOM  director of this largest annual event with more than 7000 participants, prayed for a representative group of 4/14ers at the conclusion of the session.</p>
 
-		<img class="maxwidth66 align-center" src="/assets/newsletters/images/2011/11/05/auditorium.png">
+		<img class="maxwidth66 align-center" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/05/auditorium.png">
 		<br>
-		<img class="maxwidth33 align-left" src="/assets/newsletters/images/2011/11/05/with_PR_facilitation_team.2.jpg">
+		<img class="maxwidth33 align-left" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/05/with_PR_facilitation_team.2.jpg">
 		<p><strong>Puerto Rico:</strong><br>Pre-Summit meeting to approve follow up 4/14 Puerto Rico plan in each major region initiative with five 4/14 tracks.</p>
-	    <img class="maxwidth66 align-right" src="/assets/newsletters/images/2011/11/05/Desayuno.1.png">
+	    <img class="maxwidth66 align-right" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/05/Desayuno.1.png">
 	    <p>300 Pastors participated in breakfast session. Doris and Jose Gonzalez enjoy conversing with Pastor Nam Soo Kim and Puerto Rico 4/14 Steering Committee Chairman Angel Esteban Martinez and his wife Carmen Yadira.</p>
 		<p>Yarley Nino (far left) served as facilitator for the Puerto Rico 4/14 event. She directs YWAM and Kings Kids in the 22 countries of the Caribbean. 700 people joined the 4/14 Summit. Speakers included Darrow Miller, Jose Gonzalez. <em>Heart of the Harvest </em>4/14 Window video and song by John Ray became an instant hit with participants, young and old.  It tells the story of children becoming Christ followers, being raised up and released into the different spheres of cultural influence in society where they are seen making a difference.</p>
-		<img class="maxwidth33 align-left" src="/assets/newsletters/images/2011/11/05/with_Yarley.1.jpg">
+		<img class="maxwidth33 align-left" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/05/with_Yarley.1.jpg">
 		<p>Thanks for joining us and many in raising up a new generation from the 4/14 Window to transform the world.</p>
 		<p id="author">Luis and Doris</p>
 

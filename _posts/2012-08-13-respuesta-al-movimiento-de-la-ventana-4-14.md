@@ -6,12 +6,7 @@ category: newsletters
 lang: es
 ---
 <div id="newsletter">
-	<header>
-		<figure>
-			<img alt="Luis and Doris" src="/newsletters/images/luis-and-doris-300px.png">
-			<figcaption style="font-weight: normal">Sirviendo | Catalizando | Facilitando</figcaption>
-		</figure>
-	</header>
+{% include newsletter-header-es.html %}
 	<article>
 	    <h1>Respuesta Al Movimiento de La Ventana 4/14</h1>
 		<h2 id="article-date"><time datetime="2012-08-13">13 de Augusto de 2012</time></h2>
@@ -20,7 +15,7 @@ lang: es
 Por David Ramirez &lt;davidramirezs@me.com&gt;</p>
 		<p>POR CUANTO, la Biblia afirma con valentía que los niños son un regalo de Dios y desea que vengan a él; y</p>
 		<p>POR CUANTO, la Biblia establece que los niños deben crecer en un ambiente protegido, con buenos consejos, una disciplina tierna y amor incondicional; y</p>
-		<img class="maxwidth90 align-right" src="/assets/newsletters/images/2012/08/13/Pastor_Pic.png">
+		<img class="maxwidth90 align-right" src="{{ site.baseurl }}/assets/newsletters/images/2012/08/13/Pastor_Pic.png">
 		<p>POR CUANTO, la realidad de nuestros días es que a menudo los niños son maltratados y marginados; y,</p>
 		<p>POR CUANTO, la iglesia tiene la responsabilidad de equipar, adiestrar y velar que la familia cumpla su papel en la crianza de los niños y a veces ha descuidado este objetivo; yv</p>
 		<p>POR CUANTO, la patente debilidad en el manejo y cuidado de los niños como una comunidad mundial los ha convertido en víctimas de nuestra negligencia;</p>
