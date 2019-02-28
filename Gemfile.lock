@@ -33,7 +33,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
-    just-the-docs (0.2.1)
+    just-the-docs (0.2.3)
       jekyll (~> 3.8.5)
       rake (~> 12.3.1)
     kramdown (1.17.0)
@@ -69,4 +69,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   1.17.3
+   2.0.1
