@@ -3,6 +3,7 @@ layout: default-newsletters-es
 title: "Respuesta Al Movimiento de La Ventana 4/14"
 date: 2012-08-13
 category: newsletters
+author: Luis Bush
 lang: es
 ---
 <div id="newsletter">

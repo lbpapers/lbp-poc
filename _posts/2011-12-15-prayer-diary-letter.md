@@ -3,6 +3,7 @@ layout: 2012-12-15-prayer-diary-letter
 title: "2012 Prayer Diary Letter"
 date: 2011-12-15
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

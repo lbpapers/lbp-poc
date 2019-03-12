@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "Christian Worldview Coalition USA Kickoff"
 date: 2012-04-03
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

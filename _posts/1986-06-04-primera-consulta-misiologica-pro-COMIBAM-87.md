@@ -4,6 +4,7 @@ title: "Primera Consulta Misiologica pro COMIBAM '87"
 date: 1986-06-04
 category: COMIBAM
 lang: es
+author: Luis Bush
 ---
 <h1>Primera Consulta Misiologica pro COMIBAM '87</h1>
 <p>LA MISIÓN DE LA IGLESIA Y LAS MISIONES MUNDIALES</p>

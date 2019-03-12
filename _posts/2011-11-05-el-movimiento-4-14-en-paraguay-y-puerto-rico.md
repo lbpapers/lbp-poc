@@ -3,6 +3,7 @@ layout: default-newsletters-es
 title: "Movimiento 4/14 en Paraguay y Puerto Rico"
 date: 2011-11-05
 category: newsletters
+author: Luis Bush
 lang: es
 ---
 <div id="newsletter">

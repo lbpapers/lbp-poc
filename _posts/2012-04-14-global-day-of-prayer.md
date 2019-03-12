@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "Press Release"
 date: 2012-04-14
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

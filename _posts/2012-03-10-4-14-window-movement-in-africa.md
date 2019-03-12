@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "4/14 Window Movement in Africa"
 date: 2012-03-10
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

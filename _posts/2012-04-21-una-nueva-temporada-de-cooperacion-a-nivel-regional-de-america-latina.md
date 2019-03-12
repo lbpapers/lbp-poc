@@ -3,6 +3,7 @@ layout: default-newsletters-es
 title: "Una nueva temporada de cooperación a nivel regional de América Latina inicia en la Conferencia ventana 4/14"
 date: 2012-04-21
 category: newsletters
+author: Luis Bush
 lang: es
 ---
 <div id="newsletter">

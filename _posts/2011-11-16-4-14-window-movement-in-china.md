@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "4/14 Window Movement in China"
 date: 2011-11-16
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

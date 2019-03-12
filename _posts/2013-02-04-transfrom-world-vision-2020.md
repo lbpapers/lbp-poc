@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "Transform World Vision 2020"
 date: 2013-02-04
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

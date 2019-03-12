@@ -3,6 +3,7 @@ layout: default-newsletters-es
 title: "El Movimiento 4/14 en China"
 date: 2011-11-16
 category: newsletters
+author: Luis Bush
 lang: es
 ---
 <div id="newsletter">

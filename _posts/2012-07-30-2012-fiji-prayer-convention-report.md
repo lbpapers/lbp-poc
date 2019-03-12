@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "2012 Fiji Prayer Convention Report"
 date: 2012-07-30
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

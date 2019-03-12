@@ -3,6 +3,7 @@ layout: default-newsletters-es
 title: "Transforma Chile en Contexto de la Visión de la Ventana 4/14 en Debate en Chile por la Vida del Niño no Nacido"
 date: 2011-11-22
 category: newsletters
+author: Luis Bush
 lang: es
 ---
 <div id="newsletter">

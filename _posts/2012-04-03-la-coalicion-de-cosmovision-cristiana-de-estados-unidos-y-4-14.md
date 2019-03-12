@@ -3,6 +3,7 @@ layout: default-newsletters-es
 title: "Comienzo de la Coalición de Cosmovisión Cristiana de Estados Unidos Y La Ventana 4/14"
 date: 2012-04-03
 category: newsletters
+author: Luis Bush
 lang: es
 ---
 <div id="newsletter">

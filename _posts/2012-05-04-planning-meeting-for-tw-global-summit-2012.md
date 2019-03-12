@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "Planning Meeting for Transform World Global Summit 2012"
 date: 2012-05-04
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

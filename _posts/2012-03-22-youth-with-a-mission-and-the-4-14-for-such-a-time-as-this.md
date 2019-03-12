@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "Youth With A Mission and the 4-14 For Such A Time As This"
 date: 2012-03-22
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

@@ -3,6 +3,7 @@ layout: default
 title: "Great Commission Manifesto"
 date: 1989-01-08
 category: AD2000
+author: Luis Bush
 lang: en
 ---
 <h1>Great Commission Manifesto</h1>

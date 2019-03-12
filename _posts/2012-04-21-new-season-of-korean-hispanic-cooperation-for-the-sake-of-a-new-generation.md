@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "A New Season of Korean-Hispanic Cooperation for the Sake of a New Generation"
 date: 2012-04-21
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

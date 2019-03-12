@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "Prayer Request for Chuck Colson"
 date: 2012-04-04
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

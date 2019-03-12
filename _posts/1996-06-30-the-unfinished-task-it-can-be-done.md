@@ -3,6 +3,7 @@ layout: default
 title: "The Unfinished Task, It Can be Done"
 date: 1996-06-30
 category: AD2000
+author: Luis Bush
 lang: en
 ---
 <h1>The Unfinished Task</h1>

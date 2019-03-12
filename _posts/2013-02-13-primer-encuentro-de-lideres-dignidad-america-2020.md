@@ -3,6 +3,7 @@ layout: default-newsletters-es
 title: "Primer Encuentro de Líderes: Dignidad América 2020 Bogotá, Colombia, febrero 4 y 5 2013"
 date: 2013-02-13
 category: newsletters
+author: Luis Bush
 lang: es
 ---
 <div id="newsletter">

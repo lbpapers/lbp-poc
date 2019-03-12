@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "Invitation to Special Conference Call for Transform World Global Challenges Summit 2012"
 date: 2012-09-24
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">

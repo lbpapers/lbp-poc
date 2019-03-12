@@ -3,6 +3,7 @@ layout: default-newsletters-en
 title: "Report of the First Leadership Encounter of \"Dignidad América 2020\""
 date: 2013-02-13
 category: newsletters
+author: Luis Bush
 lang: en
 ---
 <div id="newsletter">
