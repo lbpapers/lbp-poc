@@ -50,5 +50,5 @@ Singapore</p>
   <li>Establish a Christian community of worship, instruction in the word, healing, fellowship. prayer, disciple making, evangelism, and missionary concern in every human community.</li>
 </ul>
 
-<p>PDF: <a href="{{ site.baseurl }}/assets/pdf/1989/01/08/Great-Commission-Manifesto.pdf">Great-Commission-Manifesto.pdf</a></p>
+<p>PDF: <a href="{{ site.baseurl }}/assets/pdf/1989-01-08/Great-Commission-Manifesto.pdf">Great-Commission-Manifesto.pdf</a></p>
 <p>Article source: <a href="http://www.ad2000.org/handbook/gcmanif.htm">http://www.ad2000.org/handbook/gcmanif.htm</a></p>

@@ -79,5 +79,5 @@ our goals.”</p>
 
 <p>...</p>
 
-<p>Download PDF for full article: <a href="{{ site.baseurl }}/assets/pdf/1996/06/30/The-Unfinished-Task.pdf">The-Unfinished-Task.pdf</a></p>
+<p>Download PDF for full article: <a href="{{ site.baseurl }}/assets/pdf/1996-06-30/The-Unfinished-Task.pdf">The-Unfinished-Task.pdf</a></p>
 <p>External source: The International Journal of Frontier Missiology (IJFM) <a href="https://www.ijfm.org/PDFs_IJFM/13_2_PDFs/01_Bush.pdf">https://www.ijfm.org/PDFs_IJFM/13_2_PDFs/01_Bush.pdf</a></p>

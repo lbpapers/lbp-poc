@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The 10/40 Window - What you can do"
-date: 1996-10-20
+date: 1996-10-22
 category: 1040window
 author: Luis Bush
 lang: en
