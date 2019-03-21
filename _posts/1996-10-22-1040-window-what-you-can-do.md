@@ -1,13 +1,14 @@
 ---
 layout: default
-title: "The 10/40 Window - What you can do"
+title: "The 10/40 Window - What You Can Do"
 date: 1996-10-22
 category: 1040window
 author: Luis Bush
 lang: en
 tags: AD2000 "10/40 Window"
+excerpt: There are several important ways in which your church or prayer group can become involved in advancing the AD2000 & Beyond Movement and focusing attention on The 10/40 Window. Consider these possibilities...
 ---
-<h1>The 10/40 Window - What you can do</h1>
+<h1>The 10/40 Window - What You Can Do</h1>
 
 <p>There are several important ways in which your church or prayer group can become involved in advancing the AD2000 & Beyond Movement and focusing attention on The 10/40 Window. Consider these possibilities:</p>
 

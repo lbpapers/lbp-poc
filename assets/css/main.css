@@ -10,13 +10,27 @@
 
 
 body{
-  font-family: "Merriweather", serif;
+  font-family: "Merriweather", Georgia, serif;
   color: #3b3b3b;
   line-height: 1.9;
   vertical-align: baseline;
   text-rendering: optimizeLegibility;
 }
 
+h1.category-title{
+  font-family: "Merriweather", Georgia, serif;
+  font-weight: 900;
+}
+
+li.article-list{
+  margin: 1.25em 0;
+}
+
+div.author, div.publication-date, div.excerpt{
+  font-size: 75%;
+  margin: 0.25em 1.25em;
+  line-height: 1.5em;
+}
 
 @media only screen and (max-width: 600px){
 

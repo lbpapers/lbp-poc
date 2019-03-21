@@ -5,6 +5,7 @@ date: 1996-03-02
 category: 1040window
 author: Luis Bush, Beverly Pegues
 lang: en
+excerpt: An up-to-date report of the manifestations of the work of the Holy Spirit in the 10/40 Window -a compelling and inspirational collection of field reports, verified via primary sources.
 ---
 <h1>The Move of the Holy Spirit in the 10/40 Window</h1>
 <p>by Luis Bush / AD2000 & Beyond Movement<br>
