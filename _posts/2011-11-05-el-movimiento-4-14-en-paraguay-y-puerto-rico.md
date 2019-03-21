@@ -5,13 +5,14 @@ date: 2011-11-05
 category: newsletters
 author: Luis Bush
 lang: es
+excerpt: El desafío de levantar una nueva generación de comunicadores desde América Latina de la Ventana 4/14 para transformar Iberoamérica fue presentado en COICOM 2011 en Paraguay el 19 de Octubre. Arnold Enns, el Director Ejecutivo, oró por un grupo representando la Ventana 4/14 en la conclusión de la sesión.
 ---
 <div id="newsletter">
 {% include newsletter-header-es.html %}
 	<article>
 	    <h1>Movimiento 4/14 en Paraguay y Puerto Rico</h1>
 		<h2 id="article-date"><time datetime="2011-11-05">5 de Noviembre de 2011</time></h2>
-	    <p id="first-paragraph"><strong>Paraguay:</strong> El desafío de levantar una nueva generación de comunicadores desde América Latina de la Ventana 4/14 para transformar Iberoamérica fue presentado en COICOM 2011 en Paraguay el 19 de Octubre.  Arnold Enns,  el Director Ejecutivo,  oró por un grupo representando la Ventana 4/14 en la conclusión de la sesión.</p>
+	    <p id="first-paragraph"><strong>Paraguay:</strong> El desafío de levantar una nueva generación de comunicadores desde América Latina de la Ventana 4/14 para transformar Iberoamérica fue presentado en COICOM 2011 en Paraguay el 19 de Octubre. Arnold Enns, el Director Ejecutivo, oró por un grupo representando la Ventana 4/14 en la conclusión de la sesión.</p>
 
 		<img class="maxwidth66 align-center" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/05/auditorium.png"><br>
 		<img class="maxwidth33 align-left" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/05/with_PR_facilitation_team.2.jpg">

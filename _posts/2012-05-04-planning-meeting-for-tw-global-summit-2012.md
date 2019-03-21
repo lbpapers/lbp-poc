@@ -5,6 +5,7 @@ date: 2012-05-04
 category: newsletters
 author: Luis Bush
 lang: en
+excerpt: We gather on May 18 through 20 to plan Transform World Global Challenges Summit 2012 (TW 2012). I am writing to you as one of the leaders in the challenges, spheres of Cultural influence, Regions of the world, Steering Committee, Pre-Conference Committee and Host Committee for the upcoming Transform World Global Summit 2012. We are gathering for a planning meeting in Jakarta May 18 to 20 and have prepared the agenda for the planning meeting, a prospectus for TW 2012, and logistical information related to the event.
 ---
 <div id="newsletter">
 {% include newsletter-header-en.html %}

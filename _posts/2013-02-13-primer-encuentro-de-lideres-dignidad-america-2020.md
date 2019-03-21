@@ -5,6 +5,7 @@ date: 2013-02-13
 category: newsletters
 author: Luis Bush
 lang: es
+excerpt: En lo que fue realmente un “Primer Encuentro Latinoamericano de Líderes (cristianos)” del Siglo XXI, 230 líderes cristianos de casi todas las naciones de Latinoamérica y de 30 ciudades colombianas se dieron cita en Bogotá para abocar juntos la tarea de transformar sus naciones.
 ---
 <div id="newsletter">
 {% include newsletter-header-es.html %}

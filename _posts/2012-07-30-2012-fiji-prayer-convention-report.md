@@ -5,6 +5,7 @@ date: 2012-07-30
 category: newsletters
 author: Luis Bush
 lang: en
+excerpt: This final report on the 2012 Fiji Prayer Convention has been prepared by Lilian Schmid, it draws on a number of resources, past and current, including Dr Geoff Waugh's book South Pacific Revivals, Community and Ecological Transformation and notes from Ps. Inosi Vono. Rev. Geoff Armitage also contributed a comprehensive chronology of the events during the Convention and this has been merged into the main body of the report.
 ---
 <div id="newsletter">
 	<header>
@@ -14,7 +15,7 @@ lang: en
 	    <h1>2012 Fiji Prayer Convention Report</h1>
 		<h2 id="article-date"><time datetime="2012-07-30">July 30, 2012</time></h2>
 		<h3 style="color: #202020; font-family: Georgia; font-size: 18px; font-weight: bold; margin-top: 2em; text-align: left;">Acknowledgements</h3>
-		<p>This final report on the 2012 Fiji Prayer Convention has been prepared by Lilian Schmid, it draws on a number of resources, past and current, including Dr Geoff Waugh's book South Pacific Revivals, Community and Ecological Transformation and notes from Ps. Inosi Vono. Rev. Geoff Armitage also contributed a comprehensive chronology of the events during the Convention and this has been merged into the main body of the report.</p>
+		<p>This final report on the 2012 Fiji Prayer Convention has been prepared by Lilian Schmid, it draws on a number of resources, past and current, including Dr Geoff Waugh's book South Pacific Revivals, Community and Ecological Transformation and notes from Ps. Inosi Vono. Rev. Geoff Armitage also contributed a comprehensive chronology of the events during the Convention and this has been merged into the main body of the report.</p>
 		<h3 style="color: #202020; font-family: Georgia; font-size: 18px; font-weight: bold; margin-top: 2em; text-align: left;">Background and History</h3>
 		<p><strong>Revival on the Fiji Islands</strong><br>
 (The report below is reproduced from the website of Fusion Ministries Inc. &copy; 2007-2010 <a href="http://www.fusionministry.com/fijivideo.php?page=1">http://www.fusionministry.com/fijivideo.php?page=1</a>)</p>

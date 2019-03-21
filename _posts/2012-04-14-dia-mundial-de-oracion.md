@@ -5,6 +5,7 @@ date: 2012-04-14
 category: newsletters
 author: Luis Bush
 lang: es
+excerpt: En este día 14 del 4 mes de 2012 el pueblo de Dios en todo el mundo han sido llamados a afrontar el reto de la Ventana 4/14 a través de la oración unida, ferviente, centrado y a través del ayuno. Tenemos tanto sobre la mesa. Vamos a venir a la mesa juntos desde donde estemos cuando unimos nuestros corazones con el corazón de Dios a favor de los niños del mundo.
 ---
 <div id="newsletter">
 {% include newsletter-header-es.html %}

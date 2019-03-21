@@ -5,6 +5,7 @@ date: 1989-07-20
 category: AD2000
 author: John Stott
 lang: en
+excerpt: In July 1974 the International Congress on World Evangelization was held in Lausanne, Switzerland, and issued the Lausanne Covenant. Now in July 1989 over 3,000 of us from about 170 countries have met in Manila for the same purpose, and have issued the Manila Manifesto.
 ---
 <h1>Lausanne Manila Manifesto</h1>
 <p>(AD 2000 Section)<br>

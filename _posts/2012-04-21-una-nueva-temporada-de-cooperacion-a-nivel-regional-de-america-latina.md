@@ -5,6 +5,7 @@ date: 2012-04-21
 category: newsletters
 author: Luis Bush
 lang: es
+excerpt: Este es un momento histórico. Estamos experimentando un nuevo nivel de energía en la Iniciativa de 4/14 como resultado de la sinergia de los latinoamericanos y los coreanos que resulta de una alianza de Corea del 4/14 Ventana, dijo el pastor de Kim Nam Soo, el anfitrión de las dos primeras Cumbres mundiales 4.14 Ventana.
 ---
 <div id="newsletter">
 {% include newsletter-header-es.html %}

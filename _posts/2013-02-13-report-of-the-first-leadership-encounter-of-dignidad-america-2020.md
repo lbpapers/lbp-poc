@@ -5,6 +5,7 @@ date: 2013-02-13
 category: newsletters
 author: Luis Bush
 lang: en
+excerpt: This meeting was aptly named the “first Latin American (Christian) leadership encounter” of the present century.  Two hundred and thirty top Christian leaders of practically every nation and of 30 Colombian cities gathered in Bogota to face together the task of transforming their nations. The meeting was convened by two continental leaders, the preeminent Latin American evangelist Alberto Mottesi and Luis Bush, author of several international transformation initiatives. They were joined by the Colombian founders of  “Proyecto Dignidad,” Ricardo Arias, a Christian statesman who directs the National Savings Fund and Pastor Eduardo Gómez, head of Latinoamérica Nueva.
 ---
 <div id="newsletter">
 {% include newsletter-header-en.html %}

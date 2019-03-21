@@ -5,6 +5,7 @@ date: 2012-04-04
 category: newsletters
 author: Luis Bush
 lang: en
+excerpt: Thank you for taking time to open our news on the Christian Worldview Coalition USA Kickoff. We just got news from Chuck Colson's secretary and greatly appreciate your prayers on his behalf and for his wife Patty at this time. Bonnie Knapton wrote...
 ---
 <div id="newsletter">
 {% include newsletter-header-en.html %}

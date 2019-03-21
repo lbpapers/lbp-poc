@@ -5,6 +5,7 @@ date: 2011-11-16
 category: newsletters
 author: Luis Bush
 lang: en
+excerpt: he purpose of the trip to China was to encourage the raising up of a new generation from the 4/14 Window to transform China and beyond. A pastor observed that "many Chinese people's hearts are empty. In the past 30 years, the moral standard has been getting worse." The 4/14ers are desperate. A survey taken four months ago of 4500 thirteen to eighteen year olds from 12 cities indicated that 41% of those who took the survey had thought of committing suicide in the previous three months and 34% had tried to do so.
 ---
 <div id="newsletter">
 {% include newsletter-header-en.html %}

@@ -5,6 +5,7 @@ date: 2012-03-14
 category: newsletters
 author: Luis Bush
 lang: en
+excerpt: The first words uttered following dinner at a meeting of the Board of the Association of Evangelicals in Africa (AEA) and the 4/14 Window facilitators and servant catalysts by Chairman Samuel Yameogo were about the 4/14 Movement and the Awakening of the Sleeping Giant of French Speaking Africa. Over the next four days 750 participants gathered from Burkina Faso and fourteen of the twenty six countries in French speaking Africa the unfolding drama of an awakening giant became evident to the delegates in four scenes during our time together at the regional 4/14 Window conference for Francophone Africa.
 ---
 <div id="newsletter">
 {% include newsletter-header-en.html %}

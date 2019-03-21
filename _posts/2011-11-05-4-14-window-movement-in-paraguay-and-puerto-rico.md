@@ -5,6 +5,7 @@ date: 2011-11-05
 category: newsletters
 author: Luis Bush
 lang: en
+excerpt: The challenge of Raising up a New Generation of Latin American Christian Communicators from the 4/14 Window to Transform Iberoamerica was presented at COICOM 2011 in Paraguay on 19th October.
 ---
 <div id="newsletter">
 {% include newsletter-header-en.html %}
