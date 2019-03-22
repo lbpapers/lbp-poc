@@ -2,6 +2,7 @@
 layout: default
 title: "10/40 Window"
 permalink: /1040window/
+nav_order: 400
 ---
 <h1 class="category-title">10/40 Window</h1>
 <ul>

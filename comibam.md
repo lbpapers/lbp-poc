@@ -2,6 +2,7 @@
 layout: default
 title: COMIBAM
 permalink: /comibam/
+nav_order: 100
 ---
 <h1 class="category-title">COMIBAM</h1>
 <ul>

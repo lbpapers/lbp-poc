@@ -2,6 +2,7 @@
 layout: default
 title: GCOWE
 permalink: /gcowe/
+nav_order: 200
 ---
 <h1 class="category-title">GCOWE</h1>
 <ul>

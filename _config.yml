@@ -51,3 +51,4 @@ color_scheme: nil   # or dark
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#exclude: [dir1, dir2, file1, file2]

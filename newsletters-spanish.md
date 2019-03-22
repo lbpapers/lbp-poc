@@ -2,6 +2,7 @@
 layout: default
 title: Newsletters(Español)
 permalink: /newsletters-spanish/
+nav_order: 1000
 ---
 <h1 class="category-title">Newsletters (Español)</h1>
 <ul>
