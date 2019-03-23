@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "<em>The 10/40 Window</em> - Getting to the Core of the Core"
+title: "The 10/40 Window - Getting to the Core of the Core"
 date: 1996-10-22
 category: 1040window
 author: Luis Bush
