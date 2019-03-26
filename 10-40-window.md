@@ -5,6 +5,7 @@ permalink: /1040window/
 nav_order: 400
 ---
 <h1 class="category-title">10/40 Window</h1>
+<p>The 10/40 Window is the rectangular area of North Africa, the Middle East and Asia approximately between 10 degrees north and 40 degrees north latitude. The 10/40 Window is often called "The Resistant Belt" and includes the majority of the world's Muslims, Hindus, and Buddhists.</p>
 <ul>
   {% for post in site.posts %}
     {% assign category = post.category | downcase %}{% if category == '1040window' %}

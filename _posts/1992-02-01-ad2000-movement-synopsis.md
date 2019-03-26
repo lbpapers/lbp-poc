@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "AD2000 Movement Synopsis"
-date: 2019-03-22
+date: 1992-02-01
 category: AD2000
-author: Luis Bush
+author: Rick Wood
 lang: en
 tags: AD2000
 excerpt: The AD 2000 and Beyond Movement grew out of a desire to respond both to the imperative of the Great Commission and to the unique opportunity to mobilize all of God's people to reach the unreached by the year 2000, as God's people everywhere have established unprecedented faith goals for AD 2000. The intention was to encourage cooperation among existing churches, movements and structures to work together towards this same vision. The expected result was the establishment of a mission-minded church planting movement within every unreached and unevangelized people and city by AD 2000, so that all people might have a valid opportunity to experience the love, truth and saving power of Jesus Christ in fellowship with other believers.
@@ -64,5 +64,5 @@ excerpt: The AD 2000 and Beyond Movement grew out of a desire to respond both to
 <p>The AD 2000 Movement is a dynamic institution tailor made to meet the latest trends in missions. It is tapping into the tremendous surge of interest around the world in giving all people everywhere the opportunity to receive Christ as savior by AD 2000. It is also a movement that is raising up international leadership from dozens of countries. AD 2000 is a unique global mission enterprise motivated and carried forward at the initiative of thousands of people from all over the world who have God's heart to see all peoples reached.</p>
 
 <ul>
-  <li>Download PDF: <a href="{{ site.baseurl }}/assets/pdf/2019-03-22/The-AD2000-Movement-Synopsis.pdf">The-AD2000-Movement-Synopsis.pdf</a></li>
+  <li>Download PDF: <a href="{{ site.baseurl }}/assets/pdf/1992-02-01/The-AD2000-Movement-Synopsis.pdf">The-AD2000-Movement-Synopsis.pdf</a></li>
 </ul>
