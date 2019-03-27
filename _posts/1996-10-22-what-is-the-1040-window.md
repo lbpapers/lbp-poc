@@ -21,7 +21,7 @@ excerpt: The 10/40 Window is the rectangular area of North Africa, the Middle Ea
 <blockquote>The 10/40 Window is home to some of the largest unreached people groups in the world.</blockquote>
 <p>The 10/40 Window has several important considerations: first, the historical and Biblical significance; second, the least evangelized countries; third, the unreached people groups and cities; fourth, the dominance of three religious blocs; fifth, the preponderance of the poor; sixth, the strongholds of Satan within the 10/40 Window.</p>
 
-<img src="{{ site.baseurl }}/assets/images/1996-10-22/1040window_map.gif">
+<figure><img src="{{ site.baseurl }}/assets/images/1996-10-22/1040window_map.gif"></figure>
 
 <h3>The 10/40 Window: Historical and Biblical Significance</h3>
 <p>The first and most fundamental reason why followers of Jesus Christ ought to focus on the 10/40 Window is because of the Biblical and historical significance of this area. The Bible begins with the account of Adam and Eve placed by God in the heart of what is now the 10/40 Window. God's plan, expressed in Genesis 1:26, was that mankind should have dominion over the earth, subduing it fully. However, Adam and Eve sinned against God and forfeited their right to rule. Man's sinful behavior increased until God intervened and judged the earth with a cataclysmic flood. Then came man's futile attempt to establish new dominion in the building of the great Tower of Babel. That effort, which also occurred in the heart of the 10/40 Window, was an open defiance against God. Once again, God reached forth His hand in judgment. The result was the introduction of different languages, the scattering of earth's people, and the formation of nations.</p>
@@ -39,12 +39,12 @@ excerpt: The 10/40 Window is the rectangular area of North Africa, the Middle Ea
 <h3>The 10/40 Window: The Dominance of Three Religious Blocs</h3>
 <p>The 10/40 Window contains four of the world's dominant religious blocs. The majority of the followers of Islam, Hinduism, and Buddhism as well as the Non-Religious block live within the 10/40 Window. On the left side or western part of the 10/40 Window, the Muslim world can be seen most prominently in a wide band across the north of Africa into the Middle East. South Asia, in the middle of the 10/40 Window, is the heart of Hinduism with its 330 million gods. Buddhism influences the right side or eastern part of the 10/40 Window. Buddhism is the primary religion in Southeast Asia and although officially an atheistic country since the Marxist revolution of the late 1940s, China is nevertheless deeply influenced by its Buddhist roots.</p>
 
-<img src="{{ site.baseurl }}/assets/images/1996-10-22/1040window_religions.gif">
+<figure><img src="{{ site.baseurl }}/assets/images/1996-10-22/1040window_religions.gif"></figure>
 
 <h3>The 10/40 Window: The Preponderance of the Poor</h3>
 <p>The 10/40 Window is home to the majority of the world's poor. Of the poorest of the poor, more than eight out of ten live in the 10/40 Window. On average, they exist on less than a few hundred dollars per person per year. It has been said that "the poor are the lost, and the lost are the poor" as the majority of the unreached live in the poorest countries of the world. There is a remarkable overlap between the poorest countries of the world and those that are least evangelized.</p>
 
-<img src="{{ site.baseurl }}/assets/images/1996-10-22/p16187-yadav-in-india.jpg">
+<figure><img src="{{ site.baseurl }}/assets/images/1996-10-22/p16187-yadav-in-india.jpg"></figure>
 
 <h3>The 10/40 Window: Spiritual Stronghold</h3>
 The <a href="https://joshuaproject.net/people_groups/16187/IN">Yadav in India</a> are one of the largest unreached people groups in the 10/40 Window.</div>
@@ -54,7 +54,7 @@ The <a href="https://joshuaproject.net/people_groups/16187/IN">Yadav in India</a
 <h3>The 10/40 Window: A Renewed Focus</h3>
 <p>The focus of the Christian missions community 200 years ago was for the coastlands of the world. A century later, the success of the coastlands effort motivated a new generation to reach the interior regions of the continents. Within the past several decades, the success of the inland thrust has led to a major focus on people groups. Today, followers of Christ are concentrating their efforts on the unreached peoples of the world, most of which are in the 10/40 Window.</p>
 
-<img src="{{ site.baseurl }}/assets/images/1996-10-22/1040window_muslim.gif">
+<figure><img src="{{ site.baseurl }}/assets/images/1996-10-22/1040window_muslim.gif"></figure>
 
 <ul>
   <li>View original: <a href="https://joshuaproject.net/resources/articles/10_40_window">https://joshuaproject.net/resources/articles/10_40_window</a></li>

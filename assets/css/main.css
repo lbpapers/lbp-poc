@@ -32,6 +32,10 @@ div.author, div.publication-date, div.excerpt{
   line-height: 1.5em;
 }
 
+figcaption{
+  font-size: 75%;
+}
+
 @media only screen and (max-width: 600px){
 
 }
