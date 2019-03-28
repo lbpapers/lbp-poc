@@ -55,8 +55,9 @@ Bill Taylor, Exec. Dir., Missions Commission, WEF</p>
 <p>"'A thousand points of light' is what you'll get in this moving and heart-wrenching but joyous account..."<br>
 Ralph Winter, Gen. Dir., US Center for World Mission </p>
 
-
-<ul>Buy this book from
-  <li><a href="https://www.ywampublishing.com/p-207-the-move-of-the-holy-spirit-in-the-1040-window.aspx">https://www.ywampublishing.com/p-207-the-move-of-the-holy-spirit-in-the-1040-window.aspx</a></li>
-  <li><a href="https://www.amazon.com/Move-Holy-Spirit-10-Window/dp/1576581519/">https://www.amazon.com/Move-Holy-Spirit-10-Window/dp/1576581519/</a></li>
-</ul>
+<figure class="resource-links">
+  <ul>Buy this book from
+    <li><a href="https://www.ywampublishing.com/p-207-the-move-of-the-holy-spirit-in-the-1040-window.aspx">https://www.ywampublishing.com/p-207-the-move-of-the-holy-spirit-in-the-1040-window.aspx</a></li>
+    <li><a href="https://www.amazon.com/Move-Holy-Spirit-10-Window/dp/1576581519/">https://www.amazon.com/Move-Holy-Spirit-10-Window/dp/1576581519/</a></li>
+  </ul>
+</figure>

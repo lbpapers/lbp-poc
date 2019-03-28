@@ -49,6 +49,8 @@ excerpt: There are several important ways in which your church or prayer group c
   <li>Organize local churches to join in the united prayer march in your city. Upcoming dates: May 25, 1996; May 17, 1997; May 30, 1998; May 22, 1999, and June 10, 2000. For more information, contact the March for Jesus, P.O. Box 3216, Austin, TX 78764, (512) 416-0066.</li>
 </ul>
 
-<ul>
-  <li>Originally published at <a href="http://www.ad2000.org/1040invo.htm">http://www.ad2000.org/1040invo.htm</a></li>
-</ul>
+<figure class="resource-links">
+  <ul>
+    <li>Article source: <a href="http://www.ad2000.org/1040invo.htm">http://www.ad2000.org/1040invo.htm</a></li>
+  </ul>
+</figure>

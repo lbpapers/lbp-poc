@@ -16,6 +16,8 @@ excerpt: The AD2000 & Beyond Movement was formed to encourage, motivate, and net
 
 <p>Therefore <strong>the International Office closed early in 2001</strong>. Although AD2000 may no longer be able to answer personal inquiries, our web site offers resource lists and links to others who may provide the information you need. We encourage you to visit the <a href="http://www.joshuaproject.net">Joshua Project II website</a> for the latest unreached peoples data and profiles. <a href="http://www.joshuaproject.net">Joshua Project II</a> is continuing and expanding the original Joshua Project initiative by highlighting least reached peoples through information sharing and networking. The <a href="http://www.ad2000.org/adoption/resrc/index.htm">Resource section</a> of the Adoption Guidance Program may prove especially beneficial. They are poised to encourage you and to assist your efforts to focus on the world's least reached peoples. Please use them as you pursue how you can help see "a church for every people and the gospel for every person." </p>
 
-<ul>
-  <li>Originally published at <a href="http://www.ad2000.org/ad2kclos.htm">http://www.ad2000.org/ad2kclos.htm</a></li>
-</ul>
+<figure class="resource-links">
+  <ul>
+    <li>Article source: <a href="http://www.ad2000.org/ad2kclos.htm">http://www.ad2000.org/ad2kclos.htm</a></li>
+  </ul>
+</figure>

@@ -63,6 +63,8 @@ excerpt: The AD 2000 and Beyond Movement grew out of a desire to respond both to
 
 <p>The AD 2000 Movement is a dynamic institution tailor made to meet the latest trends in missions. It is tapping into the tremendous surge of interest around the world in giving all people everywhere the opportunity to receive Christ as savior by AD 2000. It is also a movement that is raising up international leadership from dozens of countries. AD 2000 is a unique global mission enterprise motivated and carried forward at the initiative of thousands of people from all over the world who have God's heart to see all peoples reached.</p>
 
-<ul>
-  <li>Download PDF: <a href="{{ site.baseurl }}/assets/pdf/1992-02-01/The-AD2000-Movement-Synopsis.pdf">The-AD2000-Movement-Synopsis.pdf</a></li>
-</ul>
+<figure class="resource-links">
+  <ul>
+    <li>Download PDF: <a href="{{ site.baseurl }}/assets/pdf/1992-02-01/The-AD2000-Movement-Synopsis.pdf">The-AD2000-Movement-Synopsis.pdf</a></li>
+  </ul>
+</figure>

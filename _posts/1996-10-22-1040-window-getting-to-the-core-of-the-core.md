@@ -89,8 +89,9 @@ excerpt: The core of the unreached people of our world live in a rectangular-sha
 
 <p>If we are faithful to the Scriptures, obedient to the mandate of Christ, and unwavering in our commitment to plant churches within every people and city by AD 2000, then we will get to the core of the core -- <em>The 10/40 Window</em>. May God grant each of us boldness and wisdom and energy to do our part in taking on this great and eternally significant challenge.</p>
 
-
-<ul>
-<li>For more information about what you can do, <a src="{{ site.baseurl }}{% link _posts/1996-10-22-1040-window-what-you-can-do.md %}">click here.</a></li>
-  <li>Originally published at <a href="http://www.ad2000.org/1040broc.htm">http://www.ad2000.org/1040broc.htm</a></li>
-</ul>
+<figure class="resource-links">
+  <ul>
+  <li>For more information about what you can do, <a src="{{ site.baseurl }}{% link _posts/1996-10-22-1040-window-what-you-can-do.md %}">click here.</a></li>
+    <li>Article source: <a href="http://www.ad2000.org/1040broc.htm">http://www.ad2000.org/1040broc.htm</a></li>
+  </ul>
+</figure>

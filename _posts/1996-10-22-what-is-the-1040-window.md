@@ -56,6 +56,8 @@ The <a href="https://joshuaproject.net/people_groups/16187/IN">Yadav in India</a
 
 <figure><img src="{{ site.baseurl }}/assets/images/1996-10-22/1040window_muslim.gif"></figure>
 
-<ul>
-  <li>View original: <a href="https://joshuaproject.net/resources/articles/10_40_window">https://joshuaproject.net/resources/articles/10_40_window</a></li>
-</ul>
+<figure class="resource-links">
+  <ul>
+    <li>Article source: <a href="https://joshuaproject.net/resources/articles/10_40_window">https://joshuaproject.net/resources/articles/10_40_window</a></li>
+  </ul>
+</figure>
