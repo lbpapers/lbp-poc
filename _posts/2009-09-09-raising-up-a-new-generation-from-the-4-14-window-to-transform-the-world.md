@@ -26,7 +26,7 @@ excerpt: At the end of the last century I wrote a pamphlet entitled The 10/40 Wi
 
 <figure class="resource-links">
   <ul>
-    <li>Download Booklet: <a href="{{ site.baseurl }}/assets/pdf/2009-09-09/">FIND_BETTER_FILE.pdf</a></li>
+    <li>Download Booklet: <a href="{{ site.baseurl }}/assets/pdf/2009-09-09/4-14 Window-Booklet-Full-Resolution.pdf">4-14 Window-Booklet-Full-Resolution.pdf</a></li>
     <li>Buy a book: <a href="https://www.amazon.com/14-Window-Raising-Generation-Transform/dp/0984116907">https://www.amazon.com/14-Window-Raising-Generation-Transform/dp/0984116907</a></li>
   </ul>
 </figure>
