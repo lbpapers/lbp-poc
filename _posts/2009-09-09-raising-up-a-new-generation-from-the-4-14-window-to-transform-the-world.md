@@ -24,8 +24,9 @@ excerpt: At the end of the last century I wrote a pamphlet entitled The 10/40 Wi
 <p>This booklet presents an overview of the needs, nature and potential of children and youth in the 4/14 Window. It also addresses the very real opposition and obstacles to raising them up as a transformational generation. We must not be defeated by the opposition or deterred by the obstacles; and as we engage in strategic global thinking and answer God’s call to catalytic action, we must do so within a biblical framework.</p>
 
 
-
-<ul class="resource-links">
-  <li>Download Booklet: <a href="{{ site.baseurl }}/assets/pdf/2009-09-09/">FIND_BETTER_FILE.pdf</a></li>
-  <li>Buy a book: <a href="https://www.amazon.com/14-Window-Raising-Generation-Transform/dp/0984116907">https://www.amazon.com/14-Window-Raising-Generation-Transform/dp/0984116907</a></li>
-</ul>
+<figure class="resource-links">
+  <ul>
+    <li>Download Booklet: <a href="{{ site.baseurl }}/assets/pdf/2009-09-09/">FIND_BETTER_FILE.pdf</a></li>
+    <li>Buy a book: <a href="https://www.amazon.com/14-Window-Raising-Generation-Transform/dp/0984116907">https://www.amazon.com/14-Window-Raising-Generation-Transform/dp/0984116907</a></li>
+  </ul>
+</figure>

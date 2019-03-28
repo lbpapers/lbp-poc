@@ -121,6 +121,8 @@ The overall sense of commitment expressed during the conference is probably best
 
 <p>Editor's Note: As laudable as the Asian Mission Conference '90 was, is it not odd that throughout the proceedings, very little mention seems to have been made about the completion of mission to the unreached peoples? Did AMC '90 copy the oversights of some Western mission experience which bypasses emphasis on the unreached and closure in favor of addressing the concerns of national churches? (See Dr. Winter's comments page 2.) We welcome clarification from any particpants in AMC '90. --Bill Stearns</p>
 
-<ul>Originally published at:
-  <li><a href="http://www.missionfrontiers.org/issue/article/the-asia-challenge">http://www.missionfrontiers.org/issue/article/the-asia-challenge</a></li>
-</ul>
+<figure class="resource-links">
+  <ul>Article source:
+    <li><a href="http://www.missionfrontiers.org/issue/article/the-asia-challenge">http://www.missionfrontiers.org/issue/article/the-asia-challenge</a></li>
+  </ul>
+</figure>

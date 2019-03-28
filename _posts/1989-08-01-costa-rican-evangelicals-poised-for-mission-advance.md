@@ -80,9 +80,10 @@ Costa Rican missionary effort has benefited from the country's peaceful democrac
 
 <p>The church in Costa Rica may also be setting a model for targeting a number of unreached people groups in proportion to their percentage of the total evangelical population.</p>
 
-
-<ul>Download PDF from following links:
-  <li><a href="{{ site.baseurl }}/assets/pdf/1989-08-01/alcance-2000-conference-in-costa-rica-report-by-luis-bush.pdf">alcance-2000-conference-in-costa-rica-report-by-luis-bush.pdf</a></li>
-  <li><a href="{{ site.baseurl }}/assets/pdf/1989-08-01/ijfm-vol-7_1-jan-1990-bush.pdf">ijfm-vol-7_1-jan-1990-bush.pdf</a></li>
-  <li><a href="http://www.ijfm.org/PDFs_IJFM/07_1_PDFs/Bush.pdf">http://www.ijfm.org/PDFs_IJFM/07_1_PDFs/Bush.pdf</a></li>
-</ul>
+<figure class="resource-links">
+  <ul>Download PDF from following links:
+    <li><a href="{{ site.baseurl }}/assets/pdf/1989-08-01/alcance-2000-conference-in-costa-rica-report-by-luis-bush.pdf">alcance-2000-conference-in-costa-rica-report-by-luis-bush.pdf</a></li>
+    <li><a href="{{ site.baseurl }}/assets/pdf/1989-08-01/ijfm-vol-7_1-jan-1990-bush.pdf">ijfm-vol-7_1-jan-1990-bush.pdf</a></li>
+    <li><a href="http://www.ijfm.org/PDFs_IJFM/07_1_PDFs/Bush.pdf">http://www.ijfm.org/PDFs_IJFM/07_1_PDFs/Bush.pdf</a></li>
+  </ul>
+</figure>

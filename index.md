@@ -6,6 +6,7 @@ layout: home
 nav_exclude: true
 ---
 <h1>proof of concept</h1>
+<h2>Updated on 2019-03-28 08:33 PDT</h2>
 <ul>
   {% for post in site.posts %}
     <li class="article-list">

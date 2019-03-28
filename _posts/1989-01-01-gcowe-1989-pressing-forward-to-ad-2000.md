@@ -14,8 +14,8 @@ excerpt: With a flurry of new materials and a last-minute surprise, a global con
 
 <p>But could GCOWE 2000 live up to such high expectations? By the end of the January 5-8 gathering, answers were mixed. Participants had exchanged a great deal of information, strengthened working relationships, and issued a stirring “Great Commission Manifesto.” But the consultation wavered at several key junctures, and only a last-minute initiative from the floor ensured the creation of an ongoing information office.</p>
 
-<p> Reasons for Optimism<br>
-There seemed to be ample reasons for the wave of optimism undergirding the consultation. First, support for GCOWE 2000 mushroomed after an ad hoc steering committee, chaired by Thomas Wang, international director of the Lausanne Committee for World Evangelization, conceived the consultation in May 1988.</p>
+<h3>Reasons for Optimism</h3>
+<p>There seemed to be ample reasons for the wave of optimism undergirding the consultation. First, support for GCOWE 2000 mushroomed after an ad hoc steering committee, chaired by Thomas Wang, international director of the Lausanne Committee for World Evangelization, conceived the consultation in May 1988.</p>
 
 <p>Second, as invitations were sent to representatives of AD 2000 plans and other leaders of “Great Commission networks,” positive responses came from across the spectrum of Christianity. Participants included Anglicans, Baptists, Catholics, Charismatics, Lutherans, Methodists, Presbyterians, and Pentecostals. Also represented were the Lausanne Committee, Campus Crusade for Christ, World Vision International, Third World Mission Advance, and 180 other organizations. More than half of the participants came from the non-Western world.</p>
 
@@ -25,13 +25,13 @@ There seemed to be ample reasons for the wave of optimism undergirding the consu
 
 <p>Two other documents heightened anticipation: “Two Thousand Plans Toward AD 2000: a Kaleidoscopic Global Plan to See the World Evangelized by AD 2000 and Beyond,” prepared by a 15-member task force directed by Barrett; and “AD 2000 Global Goals: A Selection of 168 Proposed Great Commission Goals.”</p>
 
-<p>A Call for Unprecedented Cooperation<br>
-The common theme in these documents—a plea that Christians from many backgrounds recognize each others’ initiatives, build upon them in a new level of cooperation and coordination, and shun a “standalone, self-sufficient” posture—was also the driving force behind the consultation itself. Organizers hoped to foster networking and peer reviews, prevent unnecessary duplication, lay the foundation for subsequent national and regional consultations, and promote the development of “Biblical, measurable, and strategic” AD 2000 goals.</p>
+<h3>A Call for Unprecedented Cooperation</h3>
+<p>The common theme in these documents—a plea that Christians from many backgrounds recognize each others’ initiatives, build upon them in a new level of cooperation and coordination, and shun a “standalone, self-sufficient” posture—was also the driving force behind the consultation itself. Organizers hoped to foster networking and peer reviews, prevent unnecessary duplication, lay the foundation for subsequent national and regional consultations, and promote the development of “Biblical, measurable, and strategic” AD 2000 goals.</p>
 
 <p>Pre-consultation literature eloquently spoke of the need to appropriate the “corporate giftedness” of the global Church and to give special emphasis to unreached peoples and other unevangelized populations. A December 5 cover letter characterized the “kaleidoscopic global plan” as “a collective action plan for the next 24 months or so for those committed to achieving ‘something beautiful for God’ by AD 2000.”</p>
 
-<p>72 Hours Packed With Activity
-These aspirations were fanned by Thomas Wang’s opening address on January 5. Reminding participants of the few years remaining before AD 2000 and the brevity of the 72 hours of the consultation, Wang declared, “God is ringing a bell in heaven. Time is up pretty soon. It’s time to get serious.” Decrying parochial “turf-ism,” he added, “The next chapter of church history has not yet been written. How it gets written depends very much upon what we do, or fail to do, today.”</p>
+<h3>72 Hours Packed With Activity</h3>
+<p>These aspirations were fanned by Thomas Wang’s opening address on January 5. Reminding participants of the few years remaining before AD 2000 and the brevity of the 72 hours of the consultation, Wang declared, “God is ringing a bell in heaven. Time is up pretty soon. It’s time to get serious.” Decrying parochial “turf-ism,” he added, “The next chapter of church history has not yet been written. How it gets written depends very much upon what we do, or fail to do, today.”</p>
 
 <p>In response, participants plunged into a series of presentations and discussions during the next three days:</p>
 
@@ -53,8 +53,9 @@ These aspirations were fanned by Thomas Wang’s opening address on January 5. R
 
 <p>Floyd McClung, addressing the theme of “Targeting,” declared, “It is essential to focus our efforts to reach those who have never heard the gospel. This is especially true of the Muslim, Buddhist, and Hindu worlds but also includes those peoples that must be re-evangelized. Special focus must be given to world-class cities and the least-evangelized nations of the world.”</p>
 
-<p>And Luis Bush, president of Partners International and director of the 1987 COMIBAM missions congress for Latin America, covered the theme of “Fulfilling” by enthusing over the “streams” of faith and obedience now flooding the earth: “God’s people are in motion. They are moving. They are being mobilized, and all of a sudden we see potential for the completion of the Great Commission.”
-The Big-Picture Plan</p>
+<p>And Luis Bush, president of Partners International and director of the 1987 COMIBAM missions congress for Latin America, covered the theme of “Fulfilling” by enthusing over the “streams” of faith and obedience now flooding the earth: “God’s people are in motion. They are moving. They are being mobilized, and all of a sudden we see potential for the completion of the Great Commission.”</p>
+
+<h3>The Big-Picture Plan</h3>
 
 <p>But it was the “kaleidoscopic” or “big-picture” global plan that was the heart of GCOWE deliberations. Fifty pages long, this working document contained 104 innovative “action points,” grouped under 29 categories, that Barrett and his editorial task force put forward as a blueprint for collaboration. Proposals in the plan ranged from developing systems to match evangelizers and unreached peoples and beginning a new global order of itinerant evangelists to creating a worldwide electronic communications network and a catalogue of necessary resources.</p>
 
@@ -62,8 +63,9 @@ The Big-Picture Plan</p>
 
 <p>In three separate sessions, GCOWE participants met in small working groups to review and revise the big-picture plan. They generated 300 pages of suggestions for Barrett and his task force to consider, and a number indicated their willingness to help implement one or more of the 104 action points.</p>
 
-<p>But the big-picture plan generated tension as well as excitement. A minority of participants expressed concerns that the plan could be perceived as top-down, ignoring grassroots input, that its theological base and spiritual emphasis needed strengthening, and that it was too detailed to be effectively communicated to their constituencies. In a “review and clarification” statement issued the final day of the consultation, the GCOWE steering committee switched gears and characterized the kaleidoscopic plan, not as a collective action plan, but as something that “would become part of our ongoing ‘tool boxes,’ challenging our thinking and helping equip us in decision-making.”
-Fracas in the Family</p>
+<p>But the big-picture plan generated tension as well as excitement. A minority of participants expressed concerns that the plan could be perceived as top-down, ignoring grassroots input, that its theological base and spiritual emphasis needed strengthening, and that it was too detailed to be effectively communicated to their constituencies. In a “review and clarification” statement issued the final day of the consultation, the GCOWE steering committee switched gears and characterized the kaleidoscopic plan, not as a collective action plan, but as something that “would become part of our ongoing ‘tool boxes,’ challenging our thinking and helping equip us in decision-making.”</p>
+
+<h3>Fracas in the Family</h3>
 
 <p>Soon other points of tension began to emerge. Latin American participants, in a “statement of concern” about Roman Catholic participation in the consultation, said “the religious-political force of the Roman Catholic Church is using all means available and is in fact the most fierce opponent to all evangelistic efforts on our part.” Only a half dozen Catholics were present at GCOWE 2000, but the Latins protested the inclusion of the Evangelization 2000 plan as a featured case study and declared that cooperation with Catholics “goes beyond our historical and biblical commitment.”</p>
 
@@ -73,8 +75,8 @@ Fracas in the Family</p>
 
 <p>Many participants, while intellectually stimulated and spiritually challenged by the many reference materials, also began to suffer from bad cases of information overload. One leader confessed in a small group session, “After awhile, I just gave up trying to digest all the material and began to focus instead on getting to know the brothers and sisters around me.” As if to acknowledge the torrent of paper, the consultation’s first daily newsletter featured an article entitled, “How Am I Supposed to Read All This Stuff?” The steering committee acknowledged procedural shortfalls and attributed many to the hasty preparations for the gathering.</p>
 
-<p>Getting the Numbers Straight<br>
-Meanwhile, in an eddy off the main current of consultation proceedings, a small group of prominent mission researchers were meeting to clarify technical definitions and statistical estimates of the unfinished task in world evangelization.</p>
+<h3>Getting the Numbers Straight</h3>
+<p>Meanwhile, in an eddy off the main current of consultation proceedings, a small group of prominent mission researchers were meeting to clarify technical definitions and statistical estimates of the unfinished task in world evangelization.</p>
 
 <p>Weeks earlier, David Barrett had pulled together a GCOWE 2000 task force of researchers to seek unanimity in defining the job to be done. Barrett’s success in catalyzing helpful discussion prompted Thomas Wang to appointed him chairman of a similar task force commissioned to achieve new consensus among mission researchers in time for the July 1989 “Lausanne II” congress in Manila. GCOWE 2000 thus provided a convenient forum for the results of the first task force to be presented in rough draft and for a few members of the second, Lausanne-related task force to begin to meet.</p>
 
@@ -86,13 +88,14 @@ Meanwhile, in an eddy off the main current of consultation proceedings, a small 
 
 <p>Working under a heightened sense of both external pressure—represented by Lausanne II and public confusion—and internal constraints—represented by the momentum generated by GCOWE, the task force began to probe each other’s ethnographic, missiological, and statistical assumptions with greater depth than they had in previous, isolated, relatively sporadic conversations. They agreed to consult with each other more often and to work more vigorously at presenting a united front in the preparation of materials.</p>
 
-<p>A Global Task Force?<br>
-As participants approached the final day of GCOWE 2000, attention was focused on the question of whether the steering committee would continue to press for an ongoing Global Task Force. About 85% of the respondents to a continuation questionnaire had indicated their support for the Task Force, but a vocal minority had expressed either reservations or opposition.</p>
+<h3>A Global Task Force?</h3>
+<p>As participants approached the final day of GCOWE 2000, attention was focused on the question of whether the steering committee would continue to press for an ongoing Global Task Force. About 85% of the respondents to a continuation questionnaire had indicated their support for the Task Force, but a vocal minority had expressed either reservations or opposition.</p>
 
 <p>In the afternoon prior to the closing session, the steering committee met for a final time to consider continuation. Weary from criticisms of the consultation’s procedural shortfalls, committee members were also buffeted by conflicting concerns that the prospective Task Force would be too inclusive, exclusive, or competitive with existing bodies. Mindful in prayer that “unless a kernel of wheat fall to the ground and dies, it remains only a single seed,” and confident that the Holy Spirit would foster an AD 2000 movement in His own way, they decided to not press for a continuation structure.</p>
 
-<p>Floyd McClung later explained, “We sensed that the Lord was not calling us to a new structure but instead a new sense of servanthood to one another. We experienced a tremendous sense of joy as we placed this in the Lord’s hands.”
-One Surprise Follows Another</p>
+<p>Floyd McClung later explained, “We sensed that the Lord was not calling us to a new structure but instead a new sense of servanthood to one another. We experienced a tremendous sense of joy as we placed this in the Lord’s hands.”</p>
+
+<h3>One Surprise Follows Another</h3>
 
 <p>Unaware of this progression of events, participants gathered for the closing evening session. Following the hearty approval of the Great Commission Manifesto, Thomas Wang came to the lectern and announced the steering committee’s decision to dissolve itself and not present a proposal for continuation. McClung took the microphone, added a few explanatory comments, and then led the gathering into a time of worship.</p>
 
@@ -113,16 +116,17 @@ One Surprise Follows Another</p>
 
 <p>Furthermore, Bill O’Brien and Jim Montgomery—two members of the GCOWE steering committee—pointed out that this new form of “ad hoc-ery” supported, not contradicted, the steering committee’s action because it validated the committee’s rationale that it was free to yield the AD 2000 movement as something the Holy Spirit would forward in His own way.</p>
 
-<p>The AD 2000 Global Service Office<br>
-In the weeks since GCOWE 2000, the Global Service Office has taken its initial steps. A working committee—consisting of former GCOWE program committee members—is in place, a larger advisory committee has begun to take shape, and plans are in motion for a separate editorial committee for an AD 2000 Monitor newsletter.</p>
+<h3>The AD 2000 Global Service Office</h3>
+<p>In the weeks since GCOWE 2000, the Global Service Office has taken its initial steps. A working committee—consisting of former GCOWE program committee members—is in place, a larger advisory committee has begun to take shape, and plans are in motion for a separate editorial committee for an AD 2000 Monitor newsletter.</p>
 
 <p>Gary has stated his intention to primarily network with agencies with AD 2000 plans, mission associations, media ministries, and foundations. He is now completing work on the GCOWE 2000 compendium, due to appear in early April. The compendium will contain not only edited transcripts of GCOWE 2000 addresses but also Gary’s first-person account of the progression of events before, during, and after the consultation.
 Evaluating the Consultation</p>
 
 <p>So how to evaluate GCOWE 2000? Did it fulfill expectations? For many, yes; for others, no. The meeting of the century? It’s still too early to say.</p>
 
-<p>The consultation was hastily organized, and participants received reference materials too late to properly digest and act upon them. The 72 hours of the event were filled with more agendas and expectations than they could reasonably contain. Diversity brought breadth of perspective, but also reduced many decisions to the level of the least common denominator. Rigorous peer review and development of a collective, roll-up-the-sleeves action plan—eagerly anticipated before the consultation—gave way to a cordial but relatively indiscriminate affirmation of one another and an agreement to keep talking.
-Comparisons to 1888</p>
+<p>The consultation was hastily organized, and participants received reference materials too late to properly digest and act upon them. The 72 hours of the event were filled with more agendas and expectations than they could reasonably contain. Diversity brought breadth of perspective, but also reduced many decisions to the level of the least common denominator. Rigorous peer review and development of a collective, roll-up-the-sleeves action plan—eagerly anticipated before the consultation—gave way to a cordial but relatively indiscriminate affirmation of one another and an agreement to keep talking.</p>
+
+<h3>Comparisons to 1888</h3>
 
 <p>Ironically, while frequently citing Todd Johnson’s Countdown to 1900 as a key reference tool, leaders and participants at GCOWE 2000 nevertheless repeated some of the same shortcomings the book chronicles. Following GCOWE 2000, Johnson, himself a participant at the consultation and a member of the task force behind the formation of the big-picture plan, lamented the consultation’s lack of a “sense of urgency.”</p>
 
@@ -134,8 +138,9 @@ Comparisons to 1888</p>
 
 <p>“They ‘were of one mind and one soul’ in desire and purpose, to ‘preach the gospel to every creature.’ How best this could be done was the dominant thought. Much information was given. Difficulties and obstacles were stated with great candour. Many statements were made of a most encouraging and stimulating character.</p>
 
-<p>“But the meetings were deliberative, not executive. Therefore it was that many questions of great practical and doctrinal interest were hardly touched, and others were ventilated only, not decided. The conference was not a council, and was too large, miscellaneous and popular to develop into true practical deliberative forms, or to elicit much boldness of speech or freedom of opinion. This, no doubt, was felt by many to be a want, but it was inevitable.”
-Looking on the Bright Side</p>
+<p>“But the meetings were deliberative, not executive. Therefore it was that many questions of great practical and doctrinal interest were hardly touched, and others were ventilated only, not decided. The conference was not a council, and was too large, miscellaneous and popular to develop into true practical deliberative forms, or to elicit much boldness of speech or freedom of opinion. This, no doubt, was felt by many to be a want, but it was inevitable.”</p>
+
+<h3>Looking on the Bright Side</h3>
 
 <p>But GCOWE 2000 was at least not “large, miscellaneous and popular,” and whereas the 1888 gathering featured too many platform speakers and had no continuation structure to show for its efforts, GCOWE safeguarded time for working groups and informal networking and also resulted, though circuitously, in an ongoing information office that can maintain momentum toward the year 2000. And that’s just the beginning of the consultation’s list of achievements.</p>
 
@@ -161,37 +166,39 @@ Looking on the Bright Side</p>
 
 <p>For further information on GCOWE 2000 or the AD 2000 Global Service Office, contact: Jay Gary, AD 2000 Global Service Office, P.O. Box 129, Rockville, VA 23146, USA, phone (818) 792-9355, fax (818) 792-3455. To order materials prepared for GCOWE 2000, see the descriptions on page 26 and the order form on page 27 of this issue of Mission Frontiers.</p>
 
-<p>The “Kaleidoscopic” Global Plan: A Summary<br>
-A central topic of discussion at GCOWE 2000 was the 50-page “kaleidoscopic global plan” drafted before the consultation by a 15-member working group led by David Barrett. The document’s 104 “action points,” grouped under 29 major headings (see below), were “designed to help Christians to definitively overcome various crucial problems, most of which have each sunk a number of world evangelization plans in the past.” Working groups at GCOWE 2000 hashed over each category of proposals and generated 300 pages of suggested revisions for Barrett and his colleagues to consider.</p>
+<h3>The “Kaleidoscopic” Global Plan: A Summary</h3>
+<p>A central topic of discussion at GCOWE 2000 was the 50-page “kaleidoscopic global plan” drafted before the consultation by a 15-member working group led by David Barrett. The document’s 104 “action points,” grouped under 29 major headings (see below), were “designed to help Christians to definitively overcome various crucial problems, most of which have each sunk a number of world evangelization plans in the past.” Working groups at GCOWE 2000 hashed over each category of proposals and generated 300 pages of suggested revisions for Barrett and his colleagues to consider.</p>
 
-<ul><li>Responsibility: Proclaim human responsibility to obey Jesus’ Great Commission.</li>
-<li>Present Status: Acknowledge that current global progress in evangelization is inadequate.</li>
-<li>A New Start: Begin by acknowledging the existence of 2,000 global and local plans.</li>
-<li>Definitions: Spread new, exciting definitions of key terms: “Great Commission”, “Evangelization”, etc.</li>
-<li>Socio-political Concern: Monitor and measure the world’s status and related ministries.</li>
-<li>The Unfinished Task: Circulate a detailed survey of unevangelized populations.</li>
-<li>Great Commission Christians: Recognize their massive presence among 9,000 peoples.</li>
-<li>Great Commission Global Plans: Build on today’s 387 current global plans.</li>
-<li>Multichanneling: Foster a parallel but cooperative approach among the world’s global plans.</li>
-<li>Goals: Compile all global AD 2000 goals and monitor their progress.</li>
-<li>Scenarios: Draw out the implications of alternate scenarios for AD 2000 and Beyond.</li>
-<li>Failures: Warn AD 2000 promoters that one possible scenario is total failure.</li>
-<li>Modifications: Encourage sponsors of global plans to change and combine these plans as needed.</li>
-<li>New Plans: Suggest that upcoming or incipient plans support our big-picture plan.</li>
-<li>Resources: Catalogue all Christian resources and list who benefits from them.</li>
-<li>Redistribution: Press for the redistribution of more resources towards the unevangelized world.</li>
-<li>Redeployment: Motivate missionaries to redeploy to unevangelized populations.</li>
-<li>Innovations: Generate a continuous stream of new ideas, methods, and publications.</li>
-<li>Engagement: Advise agencies how to engage new target populations.</li>
-<li>Segmentization: Match up workers with all unevangelized population segments.</li>
-<li>Nonresidential Mission: Help agencies develop ministry options to unevangelized populations.</li>
-<li>Itineration: Inaugurate a new global order of itinerant Spirit-led evangelists.</li>
-<li>Computers: Establish electronic communications between Great Commission agencies.</li>
-<li>Logistics: Facilitate logistics of new forms of cooperative global mission.</li>
-<li>Programs: Aid national and regional task forces and consultations.</li>
-<li>Prioritization: Assist agencies to prioritize programs and possible ministries.</li>
-<li>Administration: Ask agencies to each implement one or two points of this overall collective plan.</li>
-<li>Materials: Produce primary data, diagrams, and releases and disseminate them widely.</li></ul>
+<ul>
+  <li>Responsibility: Proclaim human responsibility to obey Jesus’ Great Commission.</li>
+  <li>Present Status: Acknowledge that current global progress in evangelization is inadequate.</li>
+  <li>A New Start: Begin by acknowledging the existence of 2,000 global and local plans.</li>
+  <li>Definitions: Spread new, exciting definitions of key terms: “Great Commission”, “Evangelization”, etc.</li>
+  <li>Socio-political Concern: Monitor and measure the world’s status and related ministries.</li>
+  <li>The Unfinished Task: Circulate a detailed survey of unevangelized populations.</li>
+  <li>Great Commission Christians: Recognize their massive presence among 9,000 peoples.</li>
+  <li>Great Commission Global Plans: Build on today’s 387 current global plans.</li>
+  <li>Multichanneling: Foster a parallel but cooperative approach among the world’s global plans.</li>
+  <li>Goals: Compile all global AD 2000 goals and monitor their progress.</li>
+  <li>Scenarios: Draw out the implications of alternate scenarios for AD 2000 and Beyond.</li>
+  <li>Failures: Warn AD 2000 promoters that one possible scenario is total failure.</li>
+  <li>Modifications: Encourage sponsors of global plans to change and combine these plans as needed.</li>
+  <li>New Plans: Suggest that upcoming or incipient plans support our big-picture plan.</li>
+  <li>Resources: Catalogue all Christian resources and list who benefits from them.</li>
+  <li>Redistribution: Press for the redistribution of more resources towards the unevangelized world.</li>
+  <li>Redeployment: Motivate missionaries to redeploy to unevangelized populations.</li>
+  <li>Innovations: Generate a continuous stream of new ideas, methods, and publications.</li>
+  <li>Engagement: Advise agencies how to engage new target populations.</li>
+  <li>Segmentization: Match up workers with all unevangelized population segments.</li>
+  <li>Nonresidential Mission: Help agencies develop ministry options to unevangelized populations.</li>
+  <li>Itineration: Inaugurate a new global order of itinerant Spirit-led evangelists.</li>
+  <li>Computers: Establish electronic communications between Great Commission agencies.</li>
+  <li>Logistics: Facilitate logistics of new forms of cooperative global mission.</li>
+  <li>Programs: Aid national and regional task forces and consultations.</li>
+  <li>Prioritization: Assist agencies to prioritize programs and possible ministries.</li>
+  <li>Administration: Ask agencies to each implement one or two points of this overall collective plan.</li>
+  <li>Materials: Produce primary data, diagrams, and releases and disseminate them widely.</li>
+</ul>
 
 <p>The Great Commission World</p>
 <ul>
@@ -210,11 +217,11 @@ A central topic of discussion at GCOWE 2000 was the 50-page “kaleidoscopic glo
   <li>42 million computers</li>
 </ul>
 
-<p>AD 2000 Plans</p>
+<h3>AD 2000 Plans</h3>
 
 <p>Throughout history, at least 788 global plans have emerged to evangelize the world.</p>
 <p>These plans have sprung from every continent and every major tradition of Christianity.</p>
-<p>More than 1/2 of historyâs plans have emerged since 1948.</p>
+<p>More than 1/2 of history as plans have emerged since 1948.</p>
 <p>By 1988, one new plan appeared each week, of which 31% were from the Two-Thirds world.</p>
 <p>About 254 global plans are active today and making progress, and 1/2 have target dates for AD 2000.</p>
 <p>Of these, 89 spend more than $10 million a year.</p>
@@ -222,4 +229,7 @@ A central topic of discussion at GCOWE 2000 was the 50-page “kaleidoscopic glo
 <p>Between now and the year 2000, $40 billion will be spent on these plans.</p>
 <p>Source: Seven Hundred Plans to Evangelize the World</p>
 <p>&nbsp;</p>
-<p>Article source: <a href="http://www.missionfrontiers.org/issue/article/pressing-forward-to-ad-2000">http://www.missionfrontiers.org/issue/article/pressing-forward-to-ad-2000</a></p>
+
+<figure class="resource-links">
+  <p>Articl source: <a href="http://www.missionfrontiers.org/issue/article/pressing-forward-to-ad-2000">http://www.missionfrontiers.org/issue/article/pressing-forward-to-ad-2000</a></p>
+</figure>

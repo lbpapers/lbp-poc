@@ -21,8 +21,9 @@ excerpt: The 4/14 Window refers to the demographic group ages 4 to 14, which is 
 
 <p>Raising Up a New Generation from the 4/14 Window to Transform the World (a.k.a. 4/14 Window Global Initiative) requires a bold process of collaboration and mobilization that seeks to obey God’s call to this new missional focus.</p>
 
-
-<ul class="resource-links">
-  <li>Download Handbook in PDF: <a href="{{ site.baseurl }}/assets/pdf/2010-01-05/4-14-window-strategy-handbook.pdf">4-14-window-strategy-handbook.pdf</a></li>
-  <li>Originally published at <a href="https://4to14window.com/2018/09/26/4-14-window-strategy-handbook/">https://4to14window.com/2018/09/26/4-14-window-strategy-handbook/</a></li>
-</ul>
+<figure class="resource-links">
+  <ul>
+    <li>Download Handbook in PDF: <a href="{{ site.baseurl }}/assets/pdf/2010-01-05/4-14-window-strategy-handbook.pdf">4-14-window-strategy-handbook.pdf</a></li>
+    <li>Originally published at <a href="https://4to14window.com/2018/09/26/4-14-window-strategy-handbook/">https://4to14window.com/2018/09/26/4-14-window-strategy-handbook/</a></li>
+  </ul>
+</figure>
