@@ -36,6 +36,10 @@ figcaption{
   font-size: 75%;
 }
 
+ul.resource-links{
+  font-size: 75%;
+}
+
 @media only screen and (max-width: 600px){
 
 }
