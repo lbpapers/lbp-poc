@@ -1,5 +1,5 @@
 <nav>
-<h3>A Tri-Cultural Heritage <br><span class="years">(1946 – 1970)</span></h3>
+<h3>A Tri-Cultural Heritage<br><span class="years">(1946 – 1970)</span></h3>
 <ul class="navigation-list">
   <li class="navigation-list-item">Family & Heritage</li>
   <li class="navigation-list-item">Education, Personality and Aspirations</li>
@@ -32,7 +32,8 @@
   <li class="navigation-list-item">4/14 Movement</li>
   <li class="navigation-list-item">TW2020</li>
   <li class="navigation-list-item">WWO</li>
-  <li class="navigation-list-item">Joshua Project</li>
+<a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
+  <li class="navigation-list-item"><a href="{{ site.baseurl }}{% link joshua-project.md %}" class="navigation-list-link">Joshua Project</a></li>
   <li class="navigation-list-item">B2J</li>
 </ul>
 <h3>Life & Leadership Lessons</h3>
@@ -48,6 +49,73 @@
 </ul>
 <h3>About</h3>
 
+<hr />
+
+  {% assign nav_sections = '
+    <h3>A Tri-Cultural Heritage<br><span class="years">(1946 – 1970)</span></h3>,
+    <h3>A Pastoral Calling<br><span class="years">(1971 – 1980)</span></h3>,
+    <h3>A Regional Coalition<br><span class="years">(1980 – 1987)</span></h3>,
+    <h3>A Global Catalyst <br><span class="years">(1986 – 2004)</span></h3>,
+    <h3>A Transformed World <br><span class="years">(2000 – present)</span></h3>,
+    <h3>Life & Leadership Lessons</h3>,
+    <h3>Newsletters</h3>,
+    <h3>About</h3>'
+  | split: ',' %}
+
+  {% assign nav_section_counter = 0 %}
+  {% assign pages_list = site.html_pages | sort: "nav_order" %}
+  {% for node in pages_list %}
+    {% unless node.nav_exclude %}
+      {% if node.parent == nil %}
+        {% assign current_nav_indicator = node.nav_order | divided_by: 100 | floor | minus: 1 %} {% comment %}calculate array index from nav_order{% endcomment %}
+        {% if nav_section_counter == current_nav_indicator %}                 {% comment %}if nav_section_counter matches to above calculation print nav_section title{% endcomment %}
+          {{ nav_sections[nav_section_counter] }}
+          {% assign nav_section_counter = nav_section_counter | plus: 1 %}
+          {% if current_nav_indicator > 0 %}
+            <p>test</p>
+          {% endif %}
+        {% endif %}
+        <ul class="navigation-list">
+          <li class="navigation-list-item{% if page.url == node.url or page.parent == node.title or page.grand_parent == node.title %} active{% endif %}">
+            {% if page.parent == node.title or page.grand_parent == node.title %}
+              {% assign first_level_url = node.url | absolute_url %}
+            {% endif %}
+            <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{node.nav_order}}, {{ node.title }}</a>
+            {% if node.has_children %}
+              {% assign children_list = site.html_pages | sort:"nav_order" %}
+              <ul class="navigation-list-child-list ">
+                {% for child in children_list %}
+                  {% if child.parent == node.title %}
+                    <li class="navigation-list-item {% if page.url == child.url or page.parent == child.title %} active{% endif %}">
+                      {% if page.url == child.url or page.parent == child.title %}
+                        {% assign second_level_url = child.url | absolute_url %}
+                      {% endif %}
+                      <a href="{{ child.url | absolute_url }}" class="navigation-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
+                      {% if child.has_children %}
+                        {% assign grand_children_list = site.html_pages | sort:"nav_order" %}
+                        <ul class="navigation-list-child-list">
+                          {% for grand_child in grand_children_list %}
+                            {% if grand_child.parent == child.title %}
+                              <li class="navigation-list-item {% if page.url == grand_child.url %} active{% endif %}">
+                                <a href="{{ grand_child.url | absolute_url }}" class="navigation-list-link{% if page.url == grand_child.url %} active{% endif %}">{{ grand_child.title }}</a>
+                              </li>
+                            {% endif %}
+                          {% endfor %}
+                        </ul>
+                      {% endif %}
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        <!-- </ul> -->
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
+
+<hr />
+
 
   <ul class="navigation-list">
     {% assign pages_list = site.html_pages | sort:"nav_order" %}
@@ -58,7 +126,7 @@
             {% if page.parent == node.title or page.grand_parent == node.title %}
               {% assign first_level_url = node.url | absolute_url %}
             {% endif %}
-            <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{ node.nav_order }}, {{ node.title }}</a>
+            <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
             {% if node.has_children %}
               {% assign children_list = site.html_pages | sort:"nav_order" %}
               <ul class="navigation-list-child-list ">
