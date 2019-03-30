@@ -1,13 +1,16 @@
 ---
 layout: default
-title: COMIBAM
-permalink: /comibam/
-nav_order: 250
+title: "Arthur Andersen"
+permalink: /arthur-andersen/
+nav_order: 210
 ---
-<h1 class="category-title">COMIBAM</h1>
+<h1 class="category-title">Arthur Andersen</h1>
+
+<p>Description</p>
+
 <ul>
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'comibam' %}
+    {% assign category = post.category | downcase %}{% if category == 'arthur-andersen' %}
       <li class="article-list">
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
         <div class="author">Author: {{ post.author }}</div>

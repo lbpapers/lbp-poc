@@ -1,5 +1,5 @@
 <nav>
-<h3>A Tri-Cultural Heritage<br><span class="years">(1946 – 1970)</span></h3>
+<!-- <h3>A Tri-Cultural Heritage<br><span class="years">(1946 – 1970)</span></h3>
 <ul class="navigation-list">
   <li class="navigation-list-item">Family & Heritage</li>
   <li class="navigation-list-item">Education, Personality and Aspirations</li>
@@ -33,7 +33,7 @@
   <li class="navigation-list-item">TW2020</li>
   <li class="navigation-list-item">WWO</li>
 <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
-  <li class="navigation-list-item"><a href="{{ site.baseurl }}{% link joshua-project.md %}" class="navigation-list-link">Joshua Project</a></li>
+  <li class="navigation-list-item"><a href="{{ site.baseurl }}{% link p460-joshua-project.md %}" class="navigation-list-link">Joshua Project</a></li>
   <li class="navigation-list-item">B2J</li>
 </ul>
 <h3>Life & Leadership Lessons</h3>
@@ -49,7 +49,7 @@
 </ul>
 <h3>About</h3>
 
-<hr />
+<hr /> -->
 
   {% assign nav_sections = '
     <h3>A Tri-Cultural Heritage<br><span class="years">(1946 – 1970)</span></h3>,
@@ -69,11 +69,11 @@
       {% if node.parent == nil %}
         {% assign current_nav_indicator = node.nav_order | divided_by: 100 | floor | minus: 1 %} {% comment %}calculate array index from nav_order{% endcomment %}
         {% if nav_section_counter == current_nav_indicator %}                 {% comment %}if nav_section_counter matches to above calculation print nav_section title{% endcomment %}
+          {% if current_nav_indicator > 0 %}
+          </ul>
+          {% endif %}
           {{ nav_sections[nav_section_counter] }}
           {% assign nav_section_counter = nav_section_counter | plus: 1 %}
-          {% if current_nav_indicator > 0 %}
-            <p>test</p>
-          {% endif %}
         {% endif %}
         <ul class="navigation-list">
           <li class="navigation-list-item{% if page.url == node.url or page.parent == node.title or page.grand_parent == node.title %} active{% endif %}">
@@ -109,13 +109,12 @@
               </ul>
             {% endif %}
           </li>
-        <!-- </ul> -->
         {% endif %}
       {% endunless %}
     {% endfor %}
 
+    <!--
 <hr />
-
 
   <ul class="navigation-list">
     {% assign pages_list = site.html_pages | sort:"nav_order" %}
@@ -158,5 +157,5 @@
         {% endif %}
       {% endunless %}
     {% endfor %}
-  </ul>
+  </ul> -->
 </nav>

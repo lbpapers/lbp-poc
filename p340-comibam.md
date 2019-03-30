@@ -1,14 +1,13 @@
 ---
 layout: default
-title: GCOWE
-permalink: /gcowe/
-nav_order: 200
+title: COMIBAM
+permalink: /comibam/
+nav_order: 340
 ---
-<h1 class="category-title">GCOWE</h1>
-<h3>Global Consultation On World Evangelization</h3>
+<h1 class="category-title">COMIBAM</h1>
 <ul>
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'gcowe' %}
+    {% assign category = post.category | downcase %}{% if category == 'comibam' %}
       <li class="article-list">
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
         <div class="author">Author: {{ post.author }}</div>

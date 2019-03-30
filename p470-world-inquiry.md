@@ -2,7 +2,7 @@
 layout: default
 title: "World Inquiry"
 permalink: /world-inquiry/
-nav_order: 500
+nav_order: 470
 ---
 <h1 class="category-title">World Inquiry</h1>
 <p>The World Inquiry was prompted by the challenge of the unfinished task of evangelization. The purpose of the “Evangelizing Our World Inquiry” was to further enhance world evangelization in the 21st century by means of a quantitative and qualitative research enquiry using a survey and focus group consultative process to gather, compile, organize and communicate the insights of Christian leaders throughout the world.</p>

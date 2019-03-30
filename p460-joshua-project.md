@@ -2,7 +2,7 @@
 layout: default
 title: "Joshua Project"
 permalink: /joshua-project/
-nav_order: 550
+nav_order: 460
 ---
 <h1 class="category-title">Joshua Project</h1>
 
