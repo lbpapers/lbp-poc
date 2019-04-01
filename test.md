@@ -8,7 +8,7 @@ nav_order: 99999
 <ul>
   {% for post in site.html_pages %}
     <li>
-      <a href="{{ post.url }}">{{ post.nav_order }} - {{ post.title }} - {{ post.url }}</a><br>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.nav_order }} - {{ post.title }} - {{ site.baseurl }}{{ post.url }}</a><br>
       {{post.date | date: '%B %d, %Y'}}<br>
       {{post.excerpt | strip_html | truncatewords:35 }}
     </li>
