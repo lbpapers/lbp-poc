@@ -4,15 +4,7 @@
     box-sizing: border-box;
 }
 
-:root{
-
-}
-
-
 body{
-  font-family: "Merriweather", Georgia, serif;
-  color: #3b3b3b;
-  line-height: 1.9;
   vertical-align: baseline;
   text-rendering: optimizeLegibility;
 }
