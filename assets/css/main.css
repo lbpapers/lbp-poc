@@ -9,8 +9,20 @@ body{
   text-rendering: optimizeLegibility;
 }
 
+::selection{
+  background-color: #fff200;
+}
+
+::-moz-selection{
+  background-color: #fff200;
+}
 .navigation{
   width: 300px;
+}
+
+nav a:hover{
+  color: #ffffff;
+  background-color: #900000;
 }
 
 nav h3.nav_section{
