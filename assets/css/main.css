@@ -10,13 +10,13 @@ body{
 }
 
 ::selection{
-  background-color: #fff200;
-  color: #3b3b3b;
+  background-color: #900000;
+  color: #ffffff;
 }
 
 ::-moz-selection{
-  background-color: #fff200;
-  color: #3b3b3b;
+  background-color: #900000;
+  color: #ffffff;
 }
 .navigation{
   width: 300px;
