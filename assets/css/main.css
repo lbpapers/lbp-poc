@@ -11,10 +11,12 @@ body{
 
 ::selection{
   background-color: #fff200;
+  color: #3b3b3b;
 }
 
 ::-moz-selection{
   background-color: #fff200;
+  color: #3b3b3b;
 }
 .navigation{
   width: 300px;
