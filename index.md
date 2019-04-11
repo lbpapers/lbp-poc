@@ -6,8 +6,8 @@ layout: home
 nav_exclude: true
 ---
 <h1>proof of concept</h1>
-<h2>Updated on 2019-04-06 06:23 PDT</h2>
-<ul class="article-container">
+<h2>Updated on 2019-04-11 06:52 PDT</h2>
+<ul class="article-container list-style-none">
   {% for post in site.posts %}
     <li class="article-list">
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
