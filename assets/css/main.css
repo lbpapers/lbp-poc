@@ -51,8 +51,32 @@ h1.category-title{
   font-weight: 900;
 }
 
+ul.article-container{
+  display: flex;
+  height: auto;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
 li.article-list{
-  margin: 1.25em 0;
+  display: inline-block;
+  border: 1px solid grey;
+  background-color: white;
+  padding: 10px;
+  width: calc(100% / 3);
+  height: auto;
+  line-height: 1em;
+  flex-basis: auto;
+}
+
+li.article-list a{
+  white-space: normal;
 }
 
 div.author, div.publication-date, div.excerpt{
