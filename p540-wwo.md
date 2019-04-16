@@ -6,7 +6,7 @@ nav_order: 540
 ---
 <h1 class="category-title">WWO</h1>
 <p>Description</p>
-<ul>
+<ul class="article-container">
   {% for post in site.posts %}
     {% assign category = post.category | downcase %}{% if category == 'wwo' %}
       <li class="article-list">

@@ -4,11 +4,11 @@ title: "7 years Initiative"
 permalink: /7-years-initiative/
 nav_order: 330
 ---
-<h1 class="category-title">Branch Plan</h1>
+<h1 class="category-title">7 Years Initiative</h1>
 
 <p>Description</p>
 
-<ul>
+<ul class="article-container">
   {% for post in site.posts %}
     {% assign category = post.category | downcase %}{% if category == '7-years-initiative' %}
       <li class="article-list">

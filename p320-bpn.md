@@ -4,11 +4,11 @@ title: "BPN"
 permalink: /bpn/
 nav_order: 320
 ---
-<h1 class="category-title">Branch Plan</h1>
+<h1 class="category-title">BNP</h1>
 
 <p>Description</p>
 
-<ul>
+<ul class="article-container">
   {% for post in site.posts %}
     {% assign category = post.category | downcase %}{% if category == 'bpn' %}
       <li class="article-list">

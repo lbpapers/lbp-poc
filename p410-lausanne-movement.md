@@ -6,7 +6,8 @@ nav_order: 400
 ---
 <h1 class="category-title">Lausanne Movement</h1>
 <p>Description</p>
-<ul>
+
+<ul class="article-container">
   {% for post in site.posts %}
     {% assign category = post.category | downcase %}{% if category == 'lausanne' %}
       <li class="article-list">

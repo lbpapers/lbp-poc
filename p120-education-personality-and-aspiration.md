@@ -8,7 +8,7 @@ nav_order: 120
 
 <p>Description</p>
 
-<ul>
+<ul class="article-container">
   {% for post in site.posts %}
     {% assign category = post.category | downcase %}{% if category == 'education-personality-and-aspiration' %}
       <li class="article-list">

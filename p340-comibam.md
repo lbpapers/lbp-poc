@@ -5,7 +5,8 @@ permalink: /comibam/
 nav_order: 340
 ---
 <h1 class="category-title">COMIBAM</h1>
-<ul>
+<p>COMIBAM is an alliance that brings together national mission groups and networks in the Ibero-American countries, including Spain, Portugal and Hispanics from the United States and Canada. The vision of COMIBAM is to see the Iberoamerican church as a missionary force capable of taking the Gospel of Jesus Christ to every nation.</p>
+<ul class="article-container">
   {% for post in site.posts %}
     {% assign category = post.category | downcase %}{% if category == 'comibam' %}
       <li class="article-list">

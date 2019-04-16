@@ -6,7 +6,8 @@ nav_order: 420
 ---
 <h1 class="category-title">Urbana Conference</h1>
 <p>Description</p>
-<ul>
+
+<ul class="article-container">
   {% for post in site.posts %}
     {% assign category = post.category | downcase %}{% if category == 'urbana' %}
       <li class="article-list">

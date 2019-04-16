@@ -6,7 +6,7 @@ nav_order: 440
 ---
 <h1 class="category-title">GCOWE</h1>
 <h3>Global Consultation On World Evangelization</h3>
-<ul>
+<ul class="article-container">
   {% for post in site.posts %}
     {% assign category = post.category | downcase %}{% if category == 'gcowe' %}
       <li class="article-list">
