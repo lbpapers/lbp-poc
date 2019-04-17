@@ -31,6 +31,10 @@ body{
   border-bottom: 0;
 }
 
+.btn-outline, .btn-outline:hover{
+  color: white;
+}
+
 .nav_section, .navigation-list, .navigation-list-item{
   color: white;
 }
