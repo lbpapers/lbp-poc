@@ -19,7 +19,7 @@
   z-index: 100;
   display: flex;
   flex-wrap: wrap;
-  padding-top: $gutter-spacing-sm;
+  // padding-top: $gutter-spacing-sm;
   padding-bottom: $gutter-spacing-sm;
   background-color: $sidebar-color;
 
@@ -29,10 +29,10 @@
     // width: $nav-width + 16px;
     max-width: 350px;
     height: 100%;
-    padding-top: $gutter-spacing * 2;
+    // padding-top: $gutter-spacing * 2;
     padding-bottom: 0;
     flex-direction: column;
-    border-right: $border $border-color;
+    // border-right: $border $border-color;
     align-items: flex-end;
   }
 
@@ -120,7 +120,8 @@
 
 .navigation {
   @include mq(md) {
-    padding-top: $sp-8;
+    // padding-top: $sp-8;
+    padding-top: $sp-10;
     overflow-y: auto;
     flex: 1 1 auto;
   }

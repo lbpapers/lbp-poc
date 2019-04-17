@@ -1,3 +1,5 @@
+---
+---
 *{
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -20,11 +22,30 @@ body{
 }
 .navigation{
   width: 350px;
+  background: #122c79 url('{{site.baseurl}}/assets/images/nav-bg.jpg') no-repeat right top;
+}
+
+.site-title{
+  color: white;
+  background-color: transparent;
+  border-bottom: 0;
+}
+
+.nav_section, .navigation-list, .navigation-list-item{
+  color: white;
+}
+
+.nav_section > .years {
+  color: #0095db;
+}
+
+.navigation-list-link{
+  color: #cccccc;
 }
 
 nav a:hover{
-  color: #ffffff;
-  background-color: #900000;
+  color: black;
+  background-color: white;
 }
 
 nav h3.nav_section{
