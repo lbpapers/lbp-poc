@@ -27,7 +27,8 @@ body{
 
 .site-title{
   color: white;
-  background-color: transparent;
+  background: transparent url('{{site.baseurl}}/assets/images/nav-site-title-bg.png') no-repeat right top;
+  background-clip: border-box;
   border-bottom: 0;
 }
 
