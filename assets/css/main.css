@@ -73,6 +73,16 @@ nav ul.navigation-list li.navigation-list-item{
   line-height: 1.2;
 }
 
+.introduction{
+  max-width: 1000px;
+}
+
+.introduction > figure{
+  width: 300px;
+  float: left;
+  padding: 0 1em 1em 0;
+}
+
 h1.category-title{
   font-family: "Merriweather", Georgia, serif;
   font-weight: 900;
