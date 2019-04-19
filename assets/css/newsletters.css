@@ -8,22 +8,14 @@
   --maxwidth: 600px;
 }
 
-body{
-        width: 100% !important;
-        margin: 0;
-        padding: 0;
-        -webkit-text-size-adjust: none;
-        background-color: #ECEAD4;
-}
-
 #newsletter{
-        height: 100% !important;
+        height: 100%;
         margin: 0 auto;
         padding: 40px 0px 0px 0px;
         max-width: var(--maxwidth);
 }
 
-header{
+#newsletter header{
         max-width: var(--maxwidth);
         font-family: Helvetica;
         color: #202020;
@@ -38,17 +30,17 @@ header{
         background-color: #000000;
 }
 
-header figure{
+#newsletter header figure{
         margin: 0px;
         max-width: 300px
 }
 
-header figure img{
+#newsletter header figure img{
         display: block;
         width: 100%;
 }
 
-header figure figcaption {
+#newsletter header figure figcaption {
         color: #ffd700;
         font-size:18px;
         font-weight: bold;
@@ -58,13 +50,7 @@ header figure figcaption {
         text-align: center;
 }
 
-a:link, a:visited{
-        color: #C52E26;
-        font-weight: normal;
-        text-decoration: none;
-}
-
-article{
+#newsletter article{
         max-width: var(--maxwidth);
         padding-left: 20px;
         padding-right: 20px;
@@ -74,54 +60,51 @@ article{
         border-right: 20px;
         padding-bottom: 40px;
         color: #202020;
-        font-family: Verdana;
-        font-size: 14px;
-        line-height: 150%;
         text-align: left;
         background-color: white;
 }
 
-article figure{
+#newsletter article figure{
         margin: 0px;
 //      border: 1px solid lightgray;
         padding: 5px;
 }
 
-article figure figcaption{
+#newsletter article figure figcaption{
         border: 0px;
         font-size: 80%;
         line-height: 100%;
 }
 
-article img{
+#newsletter article img{
         margin-top: 5px;
         margin-bottom: 10px;
 }
 
-article figure img{
+#newsletter article figure img{
         border: 0px;
         width: 100%;
 
 }
 
-article .align-center{
+#newsletter article .align-center{
         display: block;
         margin-left: auto;
         margin-right: auto;
 }
 
-article .align-left{
+#newsletter article .align-left{
         float: left;
         margin-right: 10px;
 }
 
 
-article .align-right{
+#newsletter article .align-right{
         float: right;
         margin-left: 10px;
 }
 
-h1, .h1{
+#newsletter h1, .h1{
         color: #C52E26;
         display: block;
         font-family: Georgia;
@@ -135,7 +118,7 @@ h1, .h1{
         text-align: center;
 }
 
-h2, .h2{
+#newsletter h2, .h2{
         color: #C52E26;
         display: block;
         font-family: Georgia;
@@ -149,15 +132,15 @@ h2, .h2{
         text-align: left;
 }
 
-h2#subheading{
+#newsletter h2#subheading{
         text-align: center;
 }
 
-h2.subheading{
+#newsletter h2.subheading{
         text-align: center;
 }
 
-h2#References{
+#newsletter h2#References{
         font-family: Verdana;
         color: black;
         margin-top: 2em;
@@ -167,7 +150,7 @@ h2#References{
         padding-bottom: 0.17em;
 }
 
-h3, .h3{
+#newsletter h3, .h3{
         color: #202020;
         display: block;
         font-family: Georgia;
@@ -181,7 +164,7 @@ h3, .h3{
         text-align: left;
 }
 
-h4, .h4{
+#newsletter h4, .h4{
         color: #202020;
         display: block;
         font-family: Verdana;
@@ -195,35 +178,35 @@ h4, .h4{
         text-align: left;
 }
 
-#article-date{
+#newsletter #article-date{
         border-bottom: 1px solid #CCCCCC;
         padding-bottom: 20px;
         text-align: center;
 }
 
-#first-paragraph{
+#newsletter #first-paragraph{
         margin-top: 40px;
 }
 
-#author{
+#newsletter #author{
         margin-top: 20px;
         margin-bottom: 20px;
         font-weight: bold;
         font-style: italic;
 }
 
-.author{
+#newsletter .author{
         margin-top: 20px;
         margin-bottom: 20px;
         font-weight: bold;
         font-style: italic;
 }
 
-.authors-title{
+#newsletter .authors-title{
         font-weight: normal;
 }
 
-ol.references{
+#newsletter ol.references{
         font-size: 85%;
         margin-top: 0em;
         margin-bottom: 0.5em;
@@ -231,29 +214,29 @@ ol.references{
         line-height: 140%;
 }
 
-ol.references > li{
+#newsletter ol.references > li{
         margin: 0.5em 0;
 }
 
-.margintop30{ margin-top: 30px }
-.maxwidth17{ max-width: calc( var(--maxwidth)*.17 ) }  /* 102px (assumming max-width is 600px) */
-.maxwidth25{ max-width: calc( var(--maxwidth)*.25 ) }  /* 150px (assumming max-width is 600px) */
-.maxwidth30{ max-width: calc( var(--maxwidth)*.30 ) }  /* 180px (assumming max-width is 600px) */
-.maxwidth33{ max-width: calc( var(--maxwidth)*.33 ) }  /* 198px (assumming max-width is 600px) */
-.maxwidth35{ max-width: calc( var(--maxwidth)*.35 ) }  /* 210px (assumming max-width is 600px) */
-.maxwidth42{ max-width: calc( var(--maxwidth)*.42 ) }  /* 252px (assumming max-width is 600px) */
-.maxwidth45{ max-width: calc( var(--maxwidth)*.45 ) }  /* 270px (assumming max-width is 600px) */
-.maxwidth50{ max-width: calc( var(--maxwidth)*.50 ) }  /* 300px (assumming max-width is 600px) */
-.maxwidth55{ max-width: calc( var(--maxwidth)*.55 ) }  /* 330px (assumming max-width is 600px) */
-.maxwidth60{ max-width: calc( var(--maxwidth)*.60 ) }  /* 360px (assumming max-width is 600px) */
-.maxwidth66{ max-width: calc( var(--maxwidth)*.66 ) }  /* 396px (assumming max-width is 600px) */
-.maxwidth70{ max-width: calc( var(--maxwidth)*.70 ) }  /* 420px (assumming max-width is 600px) */
-.maxwidth80{ max-width: calc( var(--maxwidth)*.80 ) }  /* 480px (assumming max-width is 600px) */
-.maxwidth90{ max-width: calc( var(--maxwidth)*.90 ) }  /* 540px (assumming max-width is 600px) */
-.maxwidth100{ max-width: calc( var(--maxwidth) ) }     /* 600px (assumming max-width is 600px) */
+#newsletter .margintop30{ margin-top: 30px }
+#newsletter .maxwidth17{ max-width: calc( var(--maxwidth)*.17 ) }  /* 102px (assumming max-width is 600px) */
+#newsletter .maxwidth25{ max-width: calc( var(--maxwidth)*.25 ) }  /* 150px (assumming max-width is 600px) */
+#newsletter .maxwidth30{ max-width: calc( var(--maxwidth)*.30 ) }  /* 180px (assumming max-width is 600px) */
+#newsletter .maxwidth33{ max-width: calc( var(--maxwidth)*.33 ) }  /* 198px (assumming max-width is 600px) */
+#newsletter .maxwidth35{ max-width: calc( var(--maxwidth)*.35 ) }  /* 210px (assumming max-width is 600px) */
+#newsletter .maxwidth42{ max-width: calc( var(--maxwidth)*.42 ) }  /* 252px (assumming max-width is 600px) */
+#newsletter .maxwidth45{ max-width: calc( var(--maxwidth)*.45 ) }  /* 270px (assumming max-width is 600px) */
+#newsletter .maxwidth50{ max-width: calc( var(--maxwidth)*.50 ) }  /* 300px (assumming max-width is 600px) */
+#newsletter .maxwidth55{ max-width: calc( var(--maxwidth)*.55 ) }  /* 330px (assumming max-width is 600px) */
+#newsletter .maxwidth60{ max-width: calc( var(--maxwidth)*.60 ) }  /* 360px (assumming max-width is 600px) */
+#newsletter .maxwidth66{ max-width: calc( var(--maxwidth)*.66 ) }  /* 396px (assumming max-width is 600px) */
+#newsletter .maxwidth70{ max-width: calc( var(--maxwidth)*.70 ) }  /* 420px (assumming max-width is 600px) */
+#newsletter .maxwidth80{ max-width: calc( var(--maxwidth)*.80 ) }  /* 480px (assumming max-width is 600px) */
+#newsletter .maxwidth90{ max-width: calc( var(--maxwidth)*.90 ) }  /* 540px (assumming max-width is 600px) */
+#newsletter .maxwidth100{ max-width: calc( var(--maxwidth) ) }     /* 600px (assumming max-width is 600px) */
 
 
-footer{
+#newsletter footer{
         height: 100px;
         padding: 20px 10px 40px 10px;
         background-color: #ECEAD4;
@@ -264,7 +247,7 @@ footer{
                 padding: 0px;
         }
 
-        header figure figcaption {
+        #newsletter header figure figcaption {
                 font-size:16px;
                 padding-bottom: 10px;
                 text-align: center;
@@ -273,7 +256,7 @@ footer{
 }
 
 @media only screen and (max-width: 400px){
-        article .align-left{
+        #newsletter article .align-left{
                 float: none;
                 display: block;
                 margin-left: auto;
@@ -281,7 +264,7 @@ footer{
                 min-width: 85vw;
         }
 
-        article .align-right{
+        #newsletter article .align-right{
                 float: none;
                 display: block;
                 margin-left: auto;
@@ -289,7 +272,7 @@ footer{
                 min-width: 85vw;
         }
 
-        article .align-center{
+        #newsletter article .align-center{
                 float: none;
                 display: block;
                 margin-left: auto;

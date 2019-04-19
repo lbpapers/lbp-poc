@@ -30,6 +30,7 @@ body{
   background: transparent url('{{site.baseurl}}/assets/images/nav-site-title-bg.png') no-repeat right top;
   background-clip: border-box;
   border-bottom: 0;
+  font-weight: 900;
 }
 
 .btn-outline, .btn-outline:hover{
