@@ -9,11 +9,10 @@ nav_exclude: true
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Luis_Bush_600px.jpg" alt="Luis Bush" />
 </figure>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Luis Bush, born and raised in Latin America is married to Doris with whom he has four children and twenty grandchildren. He is a servant catalyst on God’s missional movements including COMIBAM—a Latin America cross-cultural mission’s movement, AD 2000 & Beyond Movement, toward a church for every people and the gospel for every person; 10/40 Window Movement; North India Harvest Network; MANI—Mobilizing African National Initiatives; 35/45 Turkic Window; Transform World Movement—connecting God’s agents of transformation; 4/14 Window Movement—raising up a new generation of children to transform the world; Transform World 2020—responding to seven mega challenges through seven spheres of cultural influence in ten regions of the world; Nurturer Movement—raising up NextGen to disciple the children; Mission China 2030—sending 20,000 Chinese missionaries by 2030, Back to Jerusalem Movement- a Christian missions movement to send missionaries to all the unreached peoples who live between China and Jerusalem.</p>
 </div>
 <h1>proof of concept</h1>
-<h2>Updated on 2019-04-19 06:44 PDT</h2>
+<h2>Updated on 2019-04-20 07:49 PDT</h2>
 <div class="article-container">
   {% for post in site.posts %}
     <div class="article-list">
