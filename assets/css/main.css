@@ -106,10 +106,88 @@ nav h3{
   font-size: 60%;
 }
 
+.page-content figure.pic-left, figure.pic-center, figure.pic-right{
+  width: 250px;
+  margin: 0;
+}
+
+.page-content figure.pic-left{
+  float: left;
+  padding: 0 1em 0.5em 0;
+}
+
+.page-content figure.pic-center{
+  width: 80%;
+  max-width: 800px;
+  min-width: 300px
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 0.5em;
+}
+
+.page-content figure.pic-right{
+  float: right;
+  padding: 0 0 0.5em 1em;
+}
+
+.page-content figure img{
+  width: 100%;
+}
+
+.page-content figure figcaption{
+  line-height: normal;
+}
+
+.page-content blockquote{
+  float: left;
+  width: 250px;
+  margin: 1em 2em;
+}
+
+.page-content blockquote::before{
+  font-size: 4.5em;
+  font-family: "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1em;
+  margin-top: 1em;
+  margin-left: -0.4em;
+  content: "\201C"
+}
+
+.page-content blockquote p{
+  margin-top: -2.5em;
+  font-size: 120%;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
 @media only screen and (max-width: 600px){
 
 }
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 360px){
+  .page-content figure.pic-left, .page-content figure.pic-right, .page-content figure.pic-center{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
+  .page-content blockquote::before{
+    margin-left: -0.1em;
+  }
+
+  .page-content blockquote{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-bottom: 1em;
+  }
+
+  .page-content blockquote p{
+    text-align: center;
+  }
 }
