@@ -66,7 +66,7 @@ excerpt: "&#34;World Mission&#58; The Asian Challenge&#34; was the theme of Asia
 
 <h3>The Declaration</h3>
 The overall sense of commitment expressed during the conference is probably best seen in the official declaration of Asia Mission Congress '90:
-<blockquote>
+<article style="margin-left: 3em;">
   <h3>THE ASIAN RESPONSE</h3>
   <p>We, the 1302 participants and observers from 50 nations, have gathered in Seoul, Korea in August 1990 for the Asia Missions Congress. We acknowledge the timeliness of this historic Congress, the first of its kind in Asia. We give thanks to God for both the inspiration given to the Evangelical Fellowship of Asia in sponsoring this Congress, and the generosity of the Korea Evangelical Fellowship and the Choong Hyun Presbyterian Church in hosting it.</p>
 
@@ -113,7 +113,7 @@ The overall sense of commitment expressed during the conference is probably best
   <li>To make full use of all ministries for the most effective evangelization of the unreached.</li>
   <li>To set up the ongoing mechanisms and structures that will unite us in the implementation of these commitments made at AMC '90. , 10. To a personal and corporate ministry of prayer in dependence on the Holy Spirit and His power as an essential prerequisite for revival in the Church, effective spiritual warfare and the accomplishment of these visions.</li>
 </ol>
-</blockquote>
+</article>
 
 <h3>Conclusion</h3>
 

@@ -11,7 +11,7 @@ excerpt: The core of the unreached people of our world live in a rectangular-sha
 
 <p>The core of the unreached people of our world live in a rectangular-shaped window! Often called "The Resistant Belt", the window extends from West Africa to East Asia, from ten degrees north to forty degrees north of the equator. This specific region, which has increasingly become known as <em>The 10/40 Window</em>, encompasses the majority of the world's Muslims, Hindus, and Buddhists -- billions of spiritually impoverished souls.</p>
 
-<figure><img class="right" src="{{ site.baseurl }}/assets/images/1996-10-22/1040-1.jpg"></figure>
+<figure class="pic-right"><img src="{{ site.baseurl }}/assets/images/1996-10-22/1040-1.jpg"></figure>
 <p>As we approach the end of this millennium, it is imperative that out evangelistic efforts be focused among the people who inhabit <em>The 10/40 Window</em>. If we are serious in our commitment to provide a valid opportunity for every person to experience the truth and saving power of Jesus Christ, we cannot ignore the compelling realities within this region.</p>
 
 <p><em>The 10/40 Window</em> confronts us with several important considerations: first, the historical and biblical significance; second, the least evangelized countries; third, the dominance of three religious blocs; fourth, the preponderance of the poor; fifth, the unreached ethnolinguistic people groups; sixth, the least evangelized megacities; and seventh, the strongholds of Satan within <em>The 10/40 Window</em>.</p>
@@ -20,7 +20,7 @@ excerpt: The core of the unreached people of our world live in a rectangular-sha
 
 <h2><strong>10/40 Window Facts:</strong> An astonishing 97% of the persons who inhabit the least evangelized countries live in <em>The 10/40 Window</em>.</h2>
 
-<figure><img class="left" src="{{ site.baseurl }}/assets/images/1996-10-22/1040-2.jpg"></figure>
+<figure class="pic-left"><img src="{{ site.baseurl }}/assets/images/1996-10-22/1040-2.jpg"></figure>
 <p>In <em>The 10/40 Window</em> we can see clearly the crucial truth expressed in Graham Scroggie's book The Drama of World Redemption: "A world having turned from God, He left it and chose a man through whom He would ultimately by Christ reach the world." Certainly we can see how ancient history ran its course in the territory marked by <em>The 10/40 Window</em>, from the cradle of civilization in Mesopotamia across the fertile crescent to Egypt. Empires rose and fell. The fate of God's people Israel varied in relation to their obedience to His covenant. It was here that Christ was born, lived a perfect life, died sacrificially on the cross, and rose triumphant over death. The church age was ushered in, and it was not until the second missionary journey of the Apostle Paul that events of biblical history occurred outside <em>The 10/40 Window</em>. Without question, this is an area of great biblical and historical significance.</p>
 
 <p>The second reason why committed Christians should focus on <em>The 10/40 Window</em> is because it is home to the majority of the world's unevangelized people. The "unevangelized" are people who have a minimal knowledge of the gospel, but have no valid opportunity to respond to it.</p>
@@ -43,7 +43,7 @@ excerpt: The core of the unreached people of our world live in a rectangular-sha
 
 <h2><strong>10/40 Window Facts:</strong> Projected populations by the year 2000 AD: 1.1 billion Muslims; 1.0 billion Hindus; and 600 million Buddhists.</h2>
 
-<figure><img class="right" src="{{ site.baseurl }}/assets/images/1996-10-22/1040-3.jpg"></figure>
+<figure class="pic-right"><img src="{{ site.baseurl }}/assets/images/1996-10-22/1040-3.jpg"></figure>
 <p>Overwhelmed with poverty and ravaged by disease, India is victimized even more severely by the spiritual blindness of Hinduism. To a nation in which fattened cows roam freely among emaciated humans, we must proclaim the truth that Jesus came to give us life, and give it abundantly.</p>
 
 <p>Although officially an atheistic country since the Marxist revolution of the late 1940s, China is nevertheless influenced deeply by its Buddhist roots. Some scholars, in fact, consider China's true religion to be combination of atheism and Buddhism. In actuality, religion in China is a hodgepodge which includes folklore, mysticism, animism, and occult practices. Regardless of how one may assess the situation, the fact remains that 1.2 billion Chinese are in desperate need of Jesus Christ. They represent the largest identifiable bloc within <em>The 10/40 Window</em>.</p>
@@ -56,7 +56,7 @@ excerpt: The core of the unreached people of our world live in a rectangular-sha
 
 <p>When Christians from 170 countries gathered at Lausanne II in Manila in 1989, great concern was expressed for the materially poor. In the second section of the Manila Manifesto, that concern was recorded in the following declaration: "We have again been confronted with Luke's emphasis that the gospel is good news for the poor (Luke 4:18, 6:20, 7:22) and have asked ourselves what this means to the majority of the world's population who are destitute, suffering and oppressed. We have been reminded that the law, the prophets, the wisdom books, and the teaching and ministry of Jesus all stress God's concern for the materially poor and our consequent duty to defend and care for them."</p>
 
-<figure><img class="left" src="{{ site.baseurl }}/assets/images/1996-10-22/1040-4.jpg"></figure>
+<figure class="pic-left"><img src="{{ site.baseurl }}/assets/images/1996-10-22/1040-4.jpg"></figure>
 <p>Committed Christians cannot ignore the reality that there is a remarkable overlap between the poorest countries of the world and those that are least evangelized.</p>
 
 <p>The fifth reason we must address our concerns on <em>The 10/40 Window</em> is because it contains the largest spiritually bankrupt ethnolinguistic megapeoples (over one million). In fact, over 90% of the individuals in these people groups live in <em>The 10/40 Window</em>.</p>
@@ -69,7 +69,7 @@ excerpt: The core of the unreached people of our world live in a rectangular-sha
 
 <p>We must not view this situation with a fatalistic attitude, for we have been granted power to intervene. In a later passage of the same letter, the Apostle Paul declares: "For though we live in the world, we do not wage ware as the world does. The weapons we fight with are not weapons of the world. On the contrary, they have divine power to demolish strongholds" (2 Corinthians 10:3-4). Although Satan has established a territorial stronghold in <em>The 10/40 Window</em>, we must not concede one parcel of land nor one person. The gospel must advance.</p>
 
-<figure><img class="right" src="{{ site.baseurl }}/assets/images/1996-10-22/1040-5.jpg"></figure>
+<figure class="pic-right"><img src="{{ site.baseurl }}/assets/images/1996-10-22/1040-5.jpg"></figure>
 <p>Looking back across the pages of history we discover a heartening story about spiritual warfare in the writings of the prophet Daniel. A fervent man of prayer, Daniel was highly esteemed by God and by the people of his generation. On one occasion, while waiting on God in prayer, Daniel fasted on bread and water for three weeks. Finally a majestic angel whose appearance was as lightning brought an answer to his prayer. He assured Daniel with the promise that "...your words were heard, and I have come in response to your words" (Daniel 10:12). However, the angel then went on to explain how, en route to answer Daniel's prayer, he was detained for 21 days by the demon assigned to the Persian king (Daniel 10:13). It was only when the archangel Michael arrived to help that he was able to free himself from the battle to go to Daniel.</p>
 
 <p>This fascinating passage unveils the reality and territorial nature of the spiritual battle in the heavenlies. The angel who visited Daniel announced that he would have to return to the battle over the Persian kingdom. Apparently, that battle still rages, for ancient Persia is now modern-day Iran. Still a stronghold zealously held by Satan, Iran is situated at the center of <em>The 10/40 Window</em>.</p>
@@ -84,7 +84,7 @@ excerpt: The core of the unreached people of our world live in a rectangular-sha
 
 <p>The focus of the concern Christian community 200 years ago was for the coastlands of the world. A century later, the success of the coastlands effort motivated a new generation to reach the interior regions of the continents. Within the past decades, the success of the inland thrust has led to a major focus on people groups. More recently, the world's burgeoning megacities have also become focal points of concern. Today, rapidly approaching the third millennium since Christ, we are wise to concentrate our efforts on <em>The 10/40 Window</em>.</p>
 
-<figure><img class="left" src="{{ site.baseurl }}/assets/images/1996-10-22/1040-6.jpg"></figure>
+<figure class="pic-left"><img src="{{ site.baseurl }}/assets/images/1996-10-22/1040-6.jpg"></figure>
 <p>Of course, this calls for some of us to reevaluate priorities. We must fin the most innovative ways to reach the billions of people within <em>The 10/40 Window</em> with the love and truth of Jesus Christ. We must mobilize for a massive prayer focus on <em>The 10/40 Window</em> with the body of Christ worldwide. However, it must be clearly understood that concentration on <em>The 10/40 Window</em> does not mean a curtailing of Christ's work going on elsewhere around the globe. Missionary endeavors in evangelism, training, relief, development, church planting, and mobilization for cross-cultural missions should go on unhindered.</p>
 
 <p>If we are faithful to the Scriptures, obedient to the mandate of Christ, and unwavering in our commitment to plant churches within every people and city by AD 2000, then we will get to the core of the core -- <em>The 10/40 Window</em>. May God grant each of us boldness and wisdom and energy to do our part in taking on this great and eternally significant challenge.</p>
