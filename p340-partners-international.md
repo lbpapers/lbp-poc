@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "B2J"
-permalink: /b2j/
-nav_order: 550
+title: Partners International
+permalink: /partners-international/
+nav_order: 340
 ---
-<h1 class="category-title">B2J</h1>
+<h1 class="category-title">Partners International</h1>
 <p>Description</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'b2j' %}
+    {% assign category = post.category | downcase %}{% if category == 'partners-international' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

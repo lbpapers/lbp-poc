@@ -1,15 +1,16 @@
 ---
 layout: default
-title: "10/40 Window"
-permalink: /1040window/
+title: "Joshua Project"
+permalink: /joshua-project/
 nav_order: 450
 ---
-<h1 class="category-title">10/40 Window</h1>
-<p>The 10/40 Window is the rectangular area of North Africa, the Middle East and Asia approximately between 10 degrees north and 40 degrees north latitude. The 10/40 Window is often called "The Resistant Belt" and includes the majority of the world's Muslims, Hindus, and Buddhists.</p>
+<h1 class="category-title">Joshua Project</h1>
+
+<p>Joshua project is an unreached people’s research initiative seeking to bring definition to the unfinished tasks of the great commission by highlighting the ethnic people groups of the world that have the least Christian presence in order to stimulate Pioneer church planting movements in their midst to the end that there will be worshipers for the Lord strong from every tribe tongue nation and people.</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == '1040window' %}
+    {% assign category = post.category | downcase %}{% if category == 'joshua-project' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

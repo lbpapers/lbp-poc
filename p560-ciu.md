@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "WWO"
-permalink: /wwo/
-nav_order: 540
+title: "Cornerstone International University"
+permalink: /ciu/
+nav_order: 560
 ---
-<h1 class="category-title">WWO</h1>
+<h1 class="category-title">Cornerstone International University</h1>
 <p>Description</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'wwo' %}
+    {% assign category = post.category | downcase %}{% if category == 'ciu' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

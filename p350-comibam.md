@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Urbana Conference"
-permalink: /urbana-conference/
-nav_order: 420
+title: COMIBAM
+permalink: /comibam/
+nav_order: 350
 ---
-<h1 class="category-title">Urbana Conference</h1>
-<p>Description</p>
+<h1 class="category-title">COMIBAM</h1>
+<p>COMIBAM is an alliance that brings together national mission groups and networks in the Ibero-American countries, including Spain, Portugal and Hispanics from the United States and Canada. The vision of COMIBAM is to see the Iberoamerican church as a missionary force capable of taking the Gospel of Jesus Christ to every nation.</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'urbana' %}
+    {% assign category = post.category | downcase %}{% if category == 'comibam' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

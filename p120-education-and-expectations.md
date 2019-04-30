@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "7 years Initiative"
-permalink: /7-years-initiative/
-nav_order: 330
+title: "Education and Expectations"
+permalink: /education-and-expectations/
+nav_order: 120
 ---
-<h1 class="category-title">7 Years Initiative</h1>
+<h1 class="category-title">Education and Expectations</h1>
 
 <p>Description</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == '7-years-initiative' %}
+    {% assign category = post.category | downcase %}{% if category == 'education-and-expectations' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

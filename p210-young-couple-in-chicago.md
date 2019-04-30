@@ -1,15 +1,16 @@
 ---
 layout: default
-title: "TW2020"
-permalink: /tw2020/
-nav_order: 530
+title: "Young Couple in Chicago"
+permalink: /young-couple-in-chicago/
+nav_order: 210
 ---
-<h1 class="category-title">Transform Word 2020</h1>
-<p>The mission of Transform World 2020 urgently calls the church to consider the critical challenges of our time. We trust that God’s people all over the world will respond to each challenge through informed, cohesive, prayerful action leading to a godly, Spirit-led movement in the spheres of cultural influence they operate in and the geographic area in which they live and move and have their being.</p>
+<h1 class="category-title">Young Couple in Chicago</h1>
+
+<p>Description</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'tw2020' %}
+    {% assign category = post.category | downcase %}{% if category == 'young-couple-in-chicago' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

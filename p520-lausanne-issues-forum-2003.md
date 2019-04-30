@@ -1,16 +1,15 @@
 ---
 layout: default
-title: "Faith and Love"
-permalink: /faith-and-love/
-nav_order: 130
+title: "Lausanne Issues Forum 2003"
+permalink: /lausanne-issues-forum-2003/
+nav_order: 520
 ---
-<h1 class="category-title">Education, Personality and Aspirations</h1>
-
+<h1 class="category-title">Lausanne Issues Forum 2003</h1>
 <p>Description</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'faith-and-love' %}
+    {% assign category = post.category | downcase %}{% if category == 'lausanne-issues-forum-2003' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "BPN"
-permalink: /bpn/
-nav_order: 320
+title: "Iglesia Nazaret, San Salvador"
+permalink: /iglesia-nazaret-san-salvador/
+nav_order: 310
 ---
-<h1 class="category-title">BNP</h1>
+<h1 class="Iglesia Nazaret, San Salvador</h1>
 
 <p>Description</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'bpn' %}
+    {% assign category = post.category | downcase %}{% if category == 'iglesia-nazaret-san-salvador' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

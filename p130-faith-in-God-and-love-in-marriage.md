@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Branch Plan"
-permalink: /branch-plan/
-nav_order: 310
+title: "Faith in God and Love in Marriage"
+permalink: /faith-in-God-and-love-in-marriage/
+nav_order: 130
 ---
-<h1 class="category-title">Branch Plan</h1>
+<h1 class="category-title">Faith in God and Love in Marriage</h1>
 
 <p>Description</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'branch-plan' %}
+    {% assign category = post.category | downcase %}{% if category == 'faith-in-God-and-love-in-marriage' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

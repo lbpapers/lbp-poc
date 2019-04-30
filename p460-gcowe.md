@@ -1,16 +1,15 @@
 ---
 layout: default
-title: "Joshua Project"
-permalink: /joshua-project/
+title: "GCOWE '95 and '97"
+permalink: /gcowe/
 nav_order: 460
 ---
-<h1 class="category-title">Joshua Project</h1>
-
-<p>Joshua project is an unreached people’s research initiative seeking to bring definition to the unfinished tasks of the great commission by highlighting the ethnic people groups of the world that have the least Christian presence in order to stimulate Pioneer church planting movements in their midst to the end that there will be worshipers for the Lord strong from every tribe tongue nation and people.</p>
+<h1 class="category-title">GCOWE '95 and '97</h1>
+<h3>Global Consultation On World Evangelization</h3>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'joshua-project' %}
+    {% assign category = post.category | downcase %}{% if category == 'gcowe' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

@@ -1,15 +1,16 @@
 ---
 layout: default
-title: GCOWE
-permalink: /gcowe/
-nav_order: 440
+title: "Call to San Salvador"
+permalink: /call-to-san-salvador/
+nav_order: 230
 ---
-<h1 class="category-title">GCOWE</h1>
-<h3>Global Consultation On World Evangelization</h3>
+<h1 class="category-title">Call to San Salvador</h1>
+
+<p>Description</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'gcowe' %}
+    {% assign category = post.category | downcase %}{% if category == 'call-to-san-salvador' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

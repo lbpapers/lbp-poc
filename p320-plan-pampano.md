@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Education, Personality and Aspirations"
-permalink: /education-personality-and-aspiration/
-nav_order: 120
+title: "Plan Pampano"
+permalink: /plan-pampano/
+nav_order: 320
 ---
-<h1 class="category-title">Education, Personality and Aspirations</h1>
+<h1 class="category-title">Plan Pampano</h1>
 
 <p>Description</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'education-personality-and-aspiration' %}
+    {% assign category = post.category | downcase %}{% if category == 'plan-pampano' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

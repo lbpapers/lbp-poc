@@ -1,16 +1,15 @@
 ---
 layout: default
-title: "San Salvador"
-permalink: /san-salvador/
-nav_order: 230
+title: "Yes Effect"
+permalink: /yes-effect/
+nav_order: 570
 ---
-<h1 class="category-title">San Salvador</h1>
-
+<h1 class="category-title">Yes Effect</h1>
 <p>Description</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'san-salvador' %}
+    {% assign category = post.category | downcase %}{% if category == 'yes-effect' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">

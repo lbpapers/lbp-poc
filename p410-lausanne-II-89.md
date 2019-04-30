@@ -1,16 +1,15 @@
 ---
 layout: default
-title: "Arthur Andersen"
-permalink: /arthur-andersen/
-nav_order: 210
+title: "Lausanne II '89"
+permalink: /lausanne-II-89/
+nav_order: 400
 ---
-<h1 class="category-title">Arthur Andersen</h1>
-
+<h1 class="category-title">Lausanne II '89</h1>
 <p>Description</p>
 
 <div class="article-container">
   {% for post in site.posts %}
-    {% assign category = post.category | downcase %}{% if category == 'arthur-andersen' %}
+    {% assign category = post.category | downcase %}{% if category == 'lausanne-II-89' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">
