@@ -8,7 +8,7 @@ lang: en
 excerpt: "Christ’s concern is to reach the last and the least. Each of the seven Transform World Challenges is called to have a special focus on these people groups and participate toward the expected outcomes. The Challenges are: Ideological Challenge of Islam; Family Challenge; Orphan Challenge; Poverty Challenge; Human Rights Challenge; Christ’s Missional Challenge; and the Celebration Challenge."
 ---
 <h1>50 Largest Unreached Peoples</h1>
-<h2 id="article-date"><time datetime="2012-10-26">October 26, 2012</time></h2>
+<h3 id="article-date"><time datetime="2012-10-26">October 26, 2012</time></h3>
 <figure class="pic-left"><img src="{{ site.baseurl }}/assets/images/2012-10-26/50-largest-unreached-people-group-cover.png"></figure>
 <p>Christ’s concern is to reach the last and the least. Each of the seven Transform World Challenges is called to have a special focus on these people groups and participate toward the expected outcomes. The Challenges are: Ideological Challenge of Islam; Family Challenge; Orphan Challenge; Poverty Challenge; Human Rights Challenge; Christ’s Missional Challenge; and the Celebration Challenge.</p>
 

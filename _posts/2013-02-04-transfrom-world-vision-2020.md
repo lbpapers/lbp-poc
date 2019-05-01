@@ -13,7 +13,7 @@ excerpt: We are in a defining moment in world history. With nations in an uproar
 	</header>
 	<article>
 	    <h1>Transform World Vision 2020</h1>
-		<h2 id="article-date"><time datetime="2013-02-04">February 4, 2013</time></h2>
+		<h3 id="article-date"><time datetime="2013-02-04">February 4, 2013</time></h3>
 		<p id="first-paragraph">Write the vision and make it plain on tablets, that he may run who reads it. For the vision is yet for an appointed time? - Habakkuk 2:2-3a</p>
 		<p>Dear Friends,</p>
 		<p>We are in a defining moment in world history. With nations in an uproar, economies in upheaval, social order declining, and times increasingly tumultuous, God is beckoning His church to advance His Kingdom. As a response, 300 leaders from around the world are gathering at IHOPKC Missions Base in Kansas City for the <a href="http://go.netatlantic.com/t/26622399/205980075/293429/73/">Transform World Prayer Summit</a><sup>1</sup> on March 24-27, 2013.</p>
