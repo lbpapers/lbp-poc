@@ -5,7 +5,7 @@ permalink: /ciu/
 nav_order: 560
 ---
 <h1 class="category-title">Cornerstone International University</h1>
-<p>Description</p>
+<p>CIU exists to train church leaders in North Korea and house church leaders in China on how to minister effectively to the local church in their communities.</p>
 
 <div class="article-container">
   {% for post in site.posts %}

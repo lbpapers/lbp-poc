@@ -22,12 +22,12 @@ body{
 }
 .navigation{
   width: 350px;
-  background: #122c79 url('{{site.baseurl}}/assets/images/nav-bg.jpg') no-repeat right top;
+  background: #122c79 url('{{site.baseurl}}/assets/images/nav-bg-dark.jpg') no-repeat right top;
 }
 
 .site-title{
   color: white;
-  background: transparent url('{{site.baseurl}}/assets/images/nav-site-title-bg.png') no-repeat right top;
+  background: transparent url('{{site.baseurl}}/assets/images/nav-site-title-bg-dark.png') no-repeat right top;
   background-clip: border-box;
   border-bottom: 0;
   font-weight: 900;
@@ -37,12 +37,14 @@ body{
   color: white;
 }
 
-.nav_section, .navigation-list, .navigation-list-item{
+.nav-section, .navigation-list, .navigation-list-item{
   color: white;
+  font-family: "Helvetica Now", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Roboto, "Lucida Grande", sans-serif;
 }
 
-.nav_section > .years {
+.nav-section > .years {
   color: #0095db;
+  color: rgb(43, 107, 171);
 }
 
 .navigation-list-link{
@@ -54,12 +56,13 @@ nav a:hover{
   background-color: white;
 }
 
-nav h3.nav_section{
-  font-size: 14px !important;
+nav h3.nav-section{
+  font-size: 16px !important;
   margin-bottom: 0;
+  color: rgb(226, 230, 241);
 }
 
-nav h3.nav_section .years{
+nav h3.nav-section .years{
   font-size: 80%;
   padding-left: 1rem;
 }
@@ -69,8 +72,9 @@ nav ul.navigation-list{
 }
 
 nav ul.navigation-list li.navigation-list-item{
-  font-size: 12px !important;
+  font-size: 14px !important;
   line-height: 1.2;
+  color: rgb(159, 165, 188);
 }
 
 .introduction{

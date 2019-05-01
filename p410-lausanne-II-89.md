@@ -5,7 +5,7 @@ permalink: /lausanne-II-89/
 nav_order: 400
 ---
 <h1 class="category-title">Lausanne II '89</h1>
-<p>Description</p>
+<p>Lausanne II in Manila has played a significant role in a movement which stands for completing the task of world evangelization, for cooperation in that cause and for networking between evangelical leaders in that task with highlighting of the "Resistant Belt" / the 10/40 Window.</p>
 
 <div class="article-container">
   {% for post in site.posts %}
