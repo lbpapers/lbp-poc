@@ -5,7 +5,7 @@ date: 2012-11-06
 category: tw2020
 author: Luis Bush
 lang: en
-excerpt: "Christ’s concern is to reach the last and the least. Each of the seven Transform World Challenges is called to have a special focus on these people groups and participate toward the expected outcomes. The Challenges are: Ideological Challenge of Islam; Family Challenge; Orphan Challenge; Poverty Challenge; Human Rights Challenge; Christ’s Missional Challenge; and the Celebration Challenge."
+excerpt: "Please explain what this slide is about. Length: 2-3 paragraphs, or a half page long"
 ---
 <h1>Transform World Vision 2020 overview</h1>
 <h2 id="article-date"><time datetime="2012-11-06">November 6, 2012</time></h2>
