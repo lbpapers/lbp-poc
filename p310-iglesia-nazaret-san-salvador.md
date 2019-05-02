@@ -4,7 +4,7 @@ title: "Iglesia Nazaret, San Salvador"
 permalink: /iglesia-nazaret-san-salvador/
 nav_order: 310
 ---
-<h1 class="Iglesia Nazaret, San Salvador</h1>
+<h1 class="category-title">Iglesia Nazaret, San Salvador</h1>
 
 <p>Description</p>
 
