@@ -2,7 +2,7 @@
 layout: default
 title: "The Asia Challenge - To Awaken the Churches"
 date: 1990-06-01
-category: AD2000
+category: ad2000
 author: Jack Frizen
 lang: en
 tags: AD2000, "Asian Missions Congress"

@@ -2,7 +2,7 @@
 layout: default
 title: "Great Commission Manifesto"
 date: 1989-01-08
-category: AD2000
+category: ad2000
 author: Luis Bush
 lang: en
 excerpt: We, the 314 participants from 50 nations gathered for the Global Consultation for World Evangelization by AD 2000 and Beyond, come from many different churches, denominations and ministries under the direction of the Holy Spirit for what we consider to be a singular moment in the history of the Church. We identify ourselves as a gathering of Christians who by faith alone has accepted Jesus Christ, true God and true man, revealed in the infallible and holy Scriptures as our Lord and Savior. We are committed to biblical righteousness in our behavior and to growth in holiness.

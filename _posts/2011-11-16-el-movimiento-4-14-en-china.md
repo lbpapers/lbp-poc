@@ -2,7 +2,7 @@
 layout: default-newsletters-es
 title: "El Movimiento 4/14 en China"
 date: 2011-11-16
-category: newsletters
+category: 414window
 author: Luis Bush
 lang: es
 excerpt: El propósito del viaje a la China fue para animar el levantamiento de una nueva generación de la Ventana 4/14 para transformar la China y más allá. Un pastor observo que "los corazones de muchos Chinos están vacíos. En los últimos 30 años, el nivel moral se ha empeorado." Los de la Ventana 4/14 están desesperados. Una encuesta tomada hace cuatro meses de unos 4500 jóvenes entre los 13 a 18 años de 12 ciudades indica que  41% de ellos habían considerado suicidarse en los últimos tres meses y 34% había intentado hacerlo. Un punto destacado del viaje fue descubrir la historia a través de una entrevista larga con uno de esos jóvenes quien surgió como líder de la iglesia en China, y quien hoy es pastor de una de las iglesias más grandes en Beijing.
@@ -42,5 +42,4 @@ excerpt: El propósito del viaje a la China fue para animar el levantamiento de 
 			<li><a target="_blank" href="/newsletters/resources/pdf/2012/Agenda_Luis_y_Doris_Bush.pdf">Agenda_Luis_y_Doris_Bush.pdf</a></li>
 		</ol>
 	</article>
-		{% include newsletter-footer-es.html %}
 	</div>

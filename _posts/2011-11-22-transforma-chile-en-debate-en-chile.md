@@ -2,7 +2,7 @@
 layout: default-newsletters-es
 title: "Transforma Chile en Contexto de la Visión de la Ventana 4/14 en Debate en Chile por la Vida del Niño no Nacido"
 date: 2011-11-22
-category: newsletters
+category: 414window
 author: Luis Bush
 lang: es
 excerpt: Anoche, un debate sobre Aborto Terapéutico congregó el médico, Presidente del Senado de Chile y otros senadores conducido por Agustín Zamora, Facilitador del movimiento Transforma Chile en que fue un privilegio participar con una reflexión al final del debate. Para Doris y para mi han sido días marcantes en nuestra vida aquí en Chile al ver las primicias de un movimiento de transformación. Suplicamos sus oraciones por Agustín, su esposa Carolina y los facilitadores y 150 participantes emergentes de las siete esferas de influencia cultural con quien reunimos el día 21 de noviembre juntamente con Ricardo Luna, Facilitador del Movimiento de la Ventana 4/14, Presidente de CONELA y Director de OneHope para América Latina y Soledad Rosas, Facilitadora del Movimiento de la Ventana 4/14 en Chile.
@@ -35,5 +35,4 @@ excerpt: Anoche, un debate sobre Aborto Terapéutico congregó el médico, Presi
 		<img class="maxwidth42 align-left" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/22/112211_Pic_5.jpg"><p>Finalmente, el representante del movimiento de Transformación Mundial 4/14, señaló que el tercer argumento utilizado por quienes defienden el aborto dice relación con que en las primeras semanas el embrión sería una célula y no vida una humana, siendo eso totalmente contradictorio a lo que Dios menciona en su Palabra, concluyó Luis Bush.</p>
 		<p>El debate podrá ser visto el próximo domingo 27 de noviembre a las 17:30 horas, a través de UCV televisión, y será también retransmitido por las señales de ART TV y LIV TV.</p>			
 	</article>
-	{% include newsletter-footer-es.html %}
 </div>

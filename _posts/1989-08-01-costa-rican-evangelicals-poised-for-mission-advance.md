@@ -2,7 +2,7 @@
 layout: default
 title: "Costa Rican Evangelicals Poised for Mission Advance"
 date: 1989-08-01
-category: AD2000
+category: ad2000
 author: Luis Bush
 lang: en
 tags: AD2000, "Costa Rica"

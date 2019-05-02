@@ -2,7 +2,7 @@
 layout: default
 title: "The Unfinished Task It Can Be Done By AD 2000"
 date: 1995-03-01
-category: GCOWE
+category: gcowe
 author: Luis Bush
 lang: en
 excerpt: Today, nearly two thousand years after Christ challenged his disciples with the Great Commission, the Church which bears His name approaches a milestone many had only dreamed of reaching. A goal which has ignited the hearts of missionaries for centuries now stands within sight.

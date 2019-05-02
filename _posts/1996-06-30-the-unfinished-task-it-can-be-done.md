@@ -2,7 +2,7 @@
 layout: default
 title: "The Unfinished Task, It Can be Done"
 date: 1996-06-30
-category: AD2000
+category: ad2000
 author: Luis Bush
 lang: en
 excerpt: God is on the move! He is superintending the events of our time. He is the source of the world’s growing spiritual thirst. That means that now is the time to act! It was nearly two thousand years ago that Jesus challenged His Church with the Great Commission to make disciples of all nations. Today, as we rapidly approach the 21st century, we are nearing a milestone that Christians once only dreamed of reaching.

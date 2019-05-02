@@ -2,7 +2,7 @@
 layout: default
 title: "GCOWE 1989 Pressing Forward to AD 2000"
 date: 1989-01-01
-category: GCOWE
+category: gcowe
 author: Darrell Dorr
 lang: en
 excerpt: With a flurry of new materials and a last-minute surprise, a global consultation advances the frontier missions movement. Expectations were high as 314 mission leaders from 50 countries descended on Singapore’s Amara Hotel during the first week of 1989. But if these participants in the Global Consultation on World Evangelization by AD 2000 and Beyond had high hopes, it was because consultation organizers and promoters had set the pace. David Barrett, editor of the World Christian Encyclopedia and Anglican missions researcher, had heralded the momentum leading up to the consultation as an accelerating “global evangelization movement.”

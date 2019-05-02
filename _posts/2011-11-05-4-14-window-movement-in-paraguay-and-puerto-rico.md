@@ -2,7 +2,7 @@
 layout: default-newsletters-en
 title: "4/14 Window Movement in Paraguay and Puerto Rico"
 date: 2011-11-05
-category: newsletters
+category: 414window
 author: Luis Bush
 lang: en
 excerpt: The challenge of Raising up a New Generation of Latin American Christian Communicators from the 4/14 Window to Transform Iberoamerica was presented at COICOM 2011 in Paraguay on 19th October.
@@ -40,5 +40,4 @@ excerpt: The challenge of Raising up a New Generation of Latin American Christia
                               <li>El corazón de la cosecha - John Ray<br><a href="https://www.youtube.com/watch?v=CaFfLHyavV0" target="_blank">https://www.youtube.com/watch?v=CaFfLHyavV0</a></li>
                       </ul>
 	</article>
-	{% include newsletter-footer-en.html %}
 </div>

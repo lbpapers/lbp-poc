@@ -2,7 +2,7 @@
 layout: default
 title: "AD2000 Movement Synopsis"
 date: 1992-02-01
-category: AD2000
+category: ad2000
 author: Rick Wood
 lang: en
 tags: AD2000

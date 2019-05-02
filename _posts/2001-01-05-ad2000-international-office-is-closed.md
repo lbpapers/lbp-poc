@@ -2,7 +2,7 @@
 layout: default
 title: "AD2000 International Office is Closed"
 date: 2001-01-05
-category: AD2000
+category: ad2000
 author: Luis Bush
 lang: en
 tags: AD2000
