@@ -3,6 +3,7 @@ layout: home
 title: Test
 permalink: /test/
 nav_order: 99999
+nav_exclude: true
 ---
 <h1>nav_order - Title - category</h1>
 <ul>
