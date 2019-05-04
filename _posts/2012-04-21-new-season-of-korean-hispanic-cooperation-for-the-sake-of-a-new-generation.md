@@ -5,8 +5,11 @@ date: 2012-04-21
 category: newsletters
 author: Luis Bush
 lang: en
+updated_on: 2019-03-21 10:02:40 -8000
+uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: At the Latin American Regional 4/14 Window Conference held in Atlanta a new season of Korean-Hispanic cooperation is anticipated with the formation of the Korean 4/14 Window Alliance. "This is a historic moment. We are experiencing an uplift in the 4/14 Initiative as a result of the synergy of the Latin Americans and Koreans evidenced by the formation of a Korean 4/14 Window Alliance," said Pastor Nam Soo Kim, host of the first two 4/14 Window Global Summits.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-en.html %}
 	<article>
@@ -98,3 +101,4 @@ excerpt: At the Latin American Regional 4/14 Window Conference held in Atlanta a
 	</article>
 	{% include newsletter-footer-en.html %}
 </div>
+</article>

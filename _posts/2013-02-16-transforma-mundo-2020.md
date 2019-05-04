@@ -5,8 +5,11 @@ date: 2013-02-16
 category: newsletters
 author: Luis Bush
 lang: es
+updated_on: 2019-03-21 10:02:40 -8000
+uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: Estamos viviendo un momento  crítico en la historia mundial. A medida que las naciones se agitan, las economías se tambalean, el orden social va en declive, y los tiempos se vuelven más y más tumultuosos, Dios está llamando a su Iglesia para que haga avanzar su reino, y te necesitamos a TI para que te involucres como unos de los 100,000 anfitriones de reuniones de oración.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 	<header style="padding: 0px; text-align: center;">
 		<img style="max-width: 100%;" alt="Transform World Vision 2020" src="{{ site.baseurl }}/assets/newsletters/images/2013/02/16/header-transforma2.png">
@@ -105,3 +108,4 @@ Estamos viviendo un momento  crítico en la historia mundial. A medida que las n
 	</article>
 	{% include newsletter-footer-es.html %}
 </div>
+</article>

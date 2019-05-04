@@ -5,8 +5,11 @@ date: 2011-12-15
 category: newsletters
 author: Luis Bush
 lang: en
+updated_on: 2019-03-21 10:02:40 -8000
+uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: For over thirty years, YWAM Publishing has had the privilege of publishing the Personal Prayer Diary and Daily Planner. Currently,over 40,000 Christians worldwide join in God’s work in the world through vital intercession for the nations using this comprehensive resource. For 2012, we are especially excited about our focus on the 4/14 Window. Both the English and Spanish versions of the 2012 Prayer Diary highlight the importance of children in the church’s mission in the twenty-first century.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 <aside>
 	<img src="{{ site.baseurl }}/assets/newsletters/images/2011/12/15/icon_envelope.png">
@@ -40,3 +43,4 @@ excerpt: For over thirty years, YWAM Publishing has had the privilege of publish
 </article>
 
 </div>
+</article>

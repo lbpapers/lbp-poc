@@ -5,8 +5,11 @@ date: 2011-11-05
 category: 414window
 author: Luis Bush
 lang: es
+updated_on: 2019-05-01 16:39:53 -8000
+uploaded_on: 2019-05-01 16:39:53 -8000
 excerpt: El desafío de levantar una nueva generación de comunicadores desde América Latina de la Ventana 4/14 para transformar Iberoamérica fue presentado en COICOM 2011 en Paraguay el 19 de Octubre. Arnold Enns, el Director Ejecutivo, oró por un grupo representando la Ventana 4/14 en la conclusión de la sesión.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-es.html %}
 	<article>
@@ -31,3 +34,4 @@ excerpt: El desafío de levantar una nueva generación de comunicadores desde Am
 		</ul>
 	</article>
 </div>
+</article>

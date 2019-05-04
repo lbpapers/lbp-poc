@@ -5,8 +5,11 @@ date: 2012-03-22
 category: newsletters
 author: Luis Bush
 lang: en
+updated_on: 2019-03-21 10:02:40 -8000
+uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: Youth With A Mission (YWAM) is placed in a position and posture to fuel the 4/14 Movement for such a time as this. Like the orphan Queen Esther was uniquely positioned to make a difference in her day, so YWAM is in our day. The key biblical reference, Esther 4:14 matches the 4/14 Movement not only in the numbers 4/14 but also in the motif.  Mentor Mordecai challenged the orphan queen with the words "for who knows but that you have come to royal position for such a time as this?" There was a window of opportunity then to change the world at the time of Esther. So there is a window of opportunity today to change the world, the 4/14 Window.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-en.html %}
 	<article>
@@ -99,3 +102,4 @@ Youth With A Mission (YWAM) is placed in a position and posture to fuel the 4/14
 	</article>
 	{% include newsletter-footer-en.html %}
 </div>
+</article>

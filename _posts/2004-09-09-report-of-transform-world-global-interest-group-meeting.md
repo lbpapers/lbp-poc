@@ -5,8 +5,11 @@ date: 2004-09-09
 category: tw-connections
 author: Luis bush
 lang: en
+updated_on: 2019-05-03 13:35:53 -8000
+uploaded_on: 2019-05-03 13:35:53 -8000
 excerpt: "I was introduced to Luis Bush several years ago by our mutual friend, Dr. Alan Johnson. Alan is a former teacher of mine at Wheaton College and has become a dear friend over the years. Alan also serves on the advisory board of ACT 3 and is a champion for me and the work that I do. Alan also has the wonderful habit of introducing his friends to other friends that he has made over the years. He is one of the most faithful retired professors I know, continuing to give himself to the kingdom actively each day."
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Report of Transform World Global Interest Group Meeting</h1>
 <h4>London, England 7 to 9, September 2004</h4>
 
@@ -32,30 +35,9 @@ excerpt: "I was introduced to Luis Bush several years ago by our mutual friend, 
   <li>That we all be rooted in the love of God – sensing the compelling call of God to “Love our neighbor!” This ethos extends itself into the “bonding, love and respect of one another!” This fellowship is truly “THE STRUCTURE” under which we operate (vs. earthly hierarchical and/or legal structure of man’s making!)</li>
 </ol>
 
-
-<p>Who was there?</p>
-<ul>
-  <li>Ted Haggard</li>
-  <li>Djohan Handojo</li>
-  <li>Richard Howell</li>
-  <li>John Kyle</li>
-  <li>Sam-Seong Kim</li>
-  <li>Graham Power</li>
-  <li>Iman Santoso</li>
-  <li>Ed Silvoso</li>
-  <li>Marcio Roberto Valadao</li>
-  <li>Luis Bush</li>
-</ul>
-
-<p>Others Assisting in the Meeting</p>
-<ul>
-  <li>Milan Telian</li>
-  <li>Carlos Gomez</li>
-  <li>Stephen Kopalchick</li>
-</ul>
-
 <figure class="resource-links">
   <ul>Download PDF:
     <li><a href="{{ site.baseurl }}/assets/pdf/2004-09-09/Report-of-Transform-World-Global-Interest-Group-London-2004.pdf">Report-of-Transform-World-Global-Interest-Group-London-2004.pdf</a></li>
   </ul>
 </figure>
+</article>

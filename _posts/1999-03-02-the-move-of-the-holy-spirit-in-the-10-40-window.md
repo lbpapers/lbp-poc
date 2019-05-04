@@ -5,8 +5,11 @@ date: 1999-03-02
 category: 1040window
 author: Luis Bush, Beverly Pegues
 lang: en
+updated_on: 2019-04-16 05:47:42 -8000
+uploaded_on: 2019-04-16 05:47:42 -8000
 excerpt: An up-to-date report of the manifestations of the work of the Holy Spirit in the 10/40 Window -a compelling and inspirational collection of field reports, verified via primary sources.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>The Move of the Holy Spirit in the 10/40 Window</h1>
 <p>by Luis Bush / AD2000 & Beyond Movement<br>
 & Beverly Pegues / Christian Information Network</p>
@@ -61,3 +64,4 @@ Ralph Winter, Gen. Dir., US Center for World Mission </p>
     <li><a href="https://www.amazon.com/Move-Holy-Spirit-10-Window/dp/1576581519/">https://www.amazon.com/Move-Holy-Spirit-10-Window/dp/1576581519/</a></li>
   </ul>
 </figure>
+</article>

@@ -5,9 +5,12 @@ date: 1989-08-01
 category: ad2000
 author: Luis Bush
 lang: en
+updated_on: 2019-05-01 15:58:23 -8000
+uploaded_on: 2019-05-01 15:58:23 -8000
 tags: AD2000, "Costa Rica"
 excerpt: In 1989, 20 national and regional consultations have been held around the world focusing in on what can be done in world evangelization by the year 2000 and beyond. Luis Bush gives his first-hand experience of Alcance 2000 held in Costa Rica. Costa Rican evangelicals drew up strategic plans to develop the growing missions’ momentum in this tiny Central American nation at “Alcance 2000,” a mission’s congress held in San Jose, Costa Rica, in August 1989.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Costa Rican Evangelicals Poised for Mission Advance</h1>
 <h3>INTERNATIONAL JOURNAL OF FRONTIER MISSIONS, VOL 7:1 JAN 1990</h3>
 
@@ -87,3 +90,4 @@ Costa Rican missionary effort has benefited from the country's peaceful democrac
     <li><a href="http://www.ijfm.org/PDFs_IJFM/07_1_PDFs/Bush.pdf">http://www.ijfm.org/PDFs_IJFM/07_1_PDFs/Bush.pdf</a></li>
   </ul>
 </figure>
+</article>

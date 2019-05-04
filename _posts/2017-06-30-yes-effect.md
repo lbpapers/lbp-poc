@@ -5,8 +5,11 @@ date: 2017-06-30
 category: yes-effect
 author: Luis bush
 lang: en
+updated_on: 2019-05-01 19:23:07 -8000
+uploaded_on: 2019-05-01 19:23:07 -8000
 excerpt: "In The Yes Effect, Dr. Bush shares his own story as well as inspiring stories of individuals and organizations around the world whose acts of love and justice are bringing hope and transformation in places of misery and immobility. From the orphans weeping in Bihar, India, to garbage collectors in Cairo, Egypt—from the single mom trying to find a way to feed her family as a Syrian refugee, to the Church cowering under government control—God is at work in surprising places. And this transformation is sparked when ordinary people say yes to God, igniting an ongoing global chain reaction that sees glimpses God’s kingdom springing up all over the world."
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <figure class="pic-left" style="width: 70%; min-width: 300px; max-width: 400px; margin: 4em;">
   <img src="{{ site.baseurl }}/assets/images/2017-06-30/YesEffect_3D.png">
 </figure>
@@ -27,4 +30,5 @@ excerpt: "In The Yes Effect, Dr. Bush shares his own story as well as inspiring 
       <li><a href="https://www.theyeseffect.org/buy">https://www.theyeseffect.org/buy</a></li>
     </ul>
   </figure>
+</article>
 </article>

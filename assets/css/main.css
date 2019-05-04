@@ -148,13 +148,13 @@ nav h3{
   line-height: normal;
 }
 
-.page-content blockquote{
+.page-content blockquote.boxed{
   float: left;
   width: 250px;
   margin: 1em 2em;
 }
 
-.page-content blockquote::before{
+.page-content blockquote.boxed::before{
   font-size: 4.5em;
   font-family: "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1em;
@@ -163,14 +163,24 @@ nav h3{
   content: "\201C"
 }
 
-.page-content blockquote p{
+.page-content blockquote.boxed p{
   margin-top: -2.5em;
   font-size: 120%;
   font-style: italic;
   margin-bottom: 0;
 }
 
+blockquote.indented{
+  margin-left: 2em;
+  padding-left: 2em;
+}
+
 @media only screen and (max-width: 600px){
+
+  blockquote.indented{
+    margin-left: 1em;
+    padding-left: 1em;
+  }
 
 }
 
@@ -182,11 +192,11 @@ nav h3{
     margin-right: auto;
   }
 
-  .page-content blockquote::before{
+  .page-content blockquote.boxed::before{
     margin-left: -0.1em;
   }
 
-  .page-content blockquote{
+  .page-content blockquote.boxed{
     width: 100%;
     display: block;
     margin-left: auto;
@@ -196,8 +206,13 @@ nav h3{
     padding-bottom: 1em;
   }
 
-  .page-content blockquote p{
+  .page-content blockquote.boxed p{
     text-align: center;
+  }
+
+  blockquote.indented{
+    margin-left: 1em;
+    padding-left: 1em;
   }
 
   .page-content figure.resource-links{

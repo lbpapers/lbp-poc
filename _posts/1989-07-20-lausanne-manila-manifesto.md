@@ -5,8 +5,11 @@ date: 1989-07-20
 category: ad2000
 author: John Stott
 lang: en
+updated_on: 2019-05-01 15:58:29 -8000
+uploaded_on: 2019-05-01 15:58:29 -8000
 excerpt: In July 1974 the International Congress on World Evangelization was held in Lausanne, Switzerland, and issued the Lausanne Covenant. Now in July 1989 over 3,000 of us from about 170 countries have met in Manila for the same purpose, and have issued the Manila Manifesto.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Lausanne Manila Manifesto</h1>
 <p>(AD 2000 Section)<br>
 Calling the whole church to the whole Gospel to the whole world</p>
@@ -38,3 +41,4 @@ Calling the whole church to the whole Gospel to the whole world</p>
 <p>Now the year 2000 has become for many a challenging milestone. Can we commit ourselves to evangelize the world during the last decade of this millennium? There is nothing magical about the date, yet should we not do our our best to reach this goal? Christ commands us to take the gospel to all people. The task is urgent. We are determined to obey Him with joy and hope. </p>
 
 <p>Article source: <a href="http://www.ad2000.org/handbook/manila.htm">http://www.ad2000.org/handbook/manila.htm</a></p>
+</article>

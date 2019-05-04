@@ -5,8 +5,11 @@ date: 1995-03-01
 category: gcowe
 author: Luis Bush
 lang: en
+updated_on: 2019-05-01 15:55:48 -8000
+uploaded_on: 2019-05-01 15:55:48 -8000
 excerpt: Today, nearly two thousand years after Christ challenged his disciples with the Great Commission, the Church which bears His name approaches a milestone many had only dreamed of reaching. A goal which has ignited the hearts of missionaries for centuries now stands within sight.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>The Unfinished Task It Can Be Done By AD 2000</h1>
 
 <p>Today, nearly two thousand years after Christ challenged his disciples with the Great Commission, the Church which bears His name approaches a milestone many had only dreamed of reaching. A goal which has ignited the hearts of missionaries for centuries now stands within sight.</p>
@@ -112,3 +115,4 @@ excerpt: Today, nearly two thousand years after Christ challenged his disciples 
 <figure class="resource-links">
   <p>Article source: <a href="http://www.missionfrontiers.org/issue/article/the-unfinished-task-it-can-be-done-by-ad-2000">http://www.missionfrontiers.org/issue/article/the-unfinished-task-it-can-be-done-by-ad-2000</a></p>
 </figure>
+</article>

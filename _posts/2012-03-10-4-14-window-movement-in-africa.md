@@ -5,8 +5,11 @@ date: 2012-03-10
 category: newsletters
 author: Luis Bush
 lang: en
+updated_on: 2019-03-21 10:02:40 -8000
+uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: The Francophone countries’ regional conference on the 4/14 window’s global initiative, took place in Ouagadougou, Burkina Faso from March 6 to 9, 2012 with the participation of more than one half of the twenty six countries of French speaking Africa focused on the theme, “Better partnering with children and young people to transform our nations.” For Dr. Jean-Baptiste Rouamba, the national coordinator of the vision, this conference is a crucial turning point of the Church of Burkina Faso and of the Sub-Region. According to him, the objective of the conference was to awaken people’s conscience in relation to children of 4 to 14 age bracket who are vulnerable but open to the Word of God.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-en.html %}
 	<article>
@@ -44,3 +47,4 @@ excerpt: The Francophone countries’ regional conference on the 4/14 window’s
 	</article>
 	{% include newsletter-footer-en.html %}
 </div>
+</article>

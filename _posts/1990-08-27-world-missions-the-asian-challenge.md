@@ -5,9 +5,12 @@ date: 1990-08-27
 category: ad2000
 author: Luis Bush
 lang: en
+updated_on: 2019-05-01 15:58:05 -8000
+uploaded_on: 2019-05-01 15:58:05 -8000
 tags: AD2000, "Asian Missions Congress"
 excerpt: As I observed the development of Asian Missions Congress '90 unfold and consulted with participants and observers to the conference such as Dr. Emilio Antonio Nunez, Latin American Theologian, Ruben Ezemadu, Chairman of the Nigerian Evangelical Mission Association, Dr. Chun Chae OK from the Women's University in Seoul, Korea, Dr. Lois McKinney of Trinity Evangelical School the significance began to dawn on me gradually of what was taking place.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>World Missions: The Asian Challenge</h1>
 <h3>Asian Missions Congress '90</h3>
 
@@ -85,3 +88,4 @@ excerpt: As I observed the development of Asian Missions Congress '90 unfold and
 <p>In the closing message of the Congress John Richard, who, following the Congress is to begin to work full time with the AD 2000 Movement, addressed concerns that are spiritual as a pre-requisite to outcomes that are global taking as his biblical basis Psalm 67.  He called on the church in Asia to recognize their hopelessness and their emptiness and their helplessness and their lostness and their sickness to then expect outcomes such as the knowledge of God, the salvation of God, the praise of God, the kingdom of God.  He concluded with a practical appeal for increased spirituality, to awake, pray, walk circumspectly, serve selflessly and suffer gladly.</p>
 
 <p>In conclusion, there was a real sense of urgency present throughout the Congress perhaps best summarized by the words of Joshua Tsutada of Japan when he said: "...This may be the last page.  Night is coming when no man can work."</p>
+</article>

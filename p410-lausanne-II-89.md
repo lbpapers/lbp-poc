@@ -13,10 +13,7 @@ nav_order: 400
     <img src="{{ site.baseurl }}/assets/images/staytuned.png" style="display: block; margin: auto">
   </figure>
 {% else %}
-  <p>Description</p>
-
   <div class="article-container">
-  category: {{ category }}
   {% assign posts = site.posts | where: "categories", category %}
     {% for post in posts %}
       <p>Description</p>

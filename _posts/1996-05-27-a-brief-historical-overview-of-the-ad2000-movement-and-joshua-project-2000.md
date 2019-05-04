@@ -5,9 +5,12 @@ date: 1995-11-01
 category: joshua-project
 author: Luis Bush
 lang: en
+updated_on: 2019-04-01 03:45:53 -8000
+uploaded_on: 2019-04-01 03:45:53 -8000
 tags: joshua-project
 excerpt: In January 1989 participants at GCOWE '89 in Singapore, learned that there were over 2,000 separate plans relating to world evangelization at the time.  More evangelization plans focused on the year 2000 were being announced almost every week.. This perception of AD 2000 as a magnetic target has grown over the past twenty years, but only in recent years has it become a primary focus of many in the church. One-third of these programs are from the Two Thirds world--this is truly a global evangelization movement. Although most of these plans were born independently of each other, there was a felt need among the leaders involved for greater mutual awareness of their efforts to mobilize the worldwide body of Christ for world evangelization by AD 2000. This cooperation has happened! How did it begin?
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>A Brief Historical Overview of the AD2000 & Beyond Movement and Joshua Project 2000</h1>
 
 <p>A Paper presented at the North East Asia AD2000/Joshua Project 2000 Consultation in Seoul, May 27-30, 1996</p>
@@ -127,3 +130,4 @@ excerpt: In January 1989 participants at GCOWE '89 in Singapore, learned that th
     <li>Article source: <a href="http://www.ad2000.org/histover.htm">http://www.ad2000.org/histover.htm</a></li>
   </ul>
 </figure>
+</article>

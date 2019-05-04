@@ -5,9 +5,12 @@ date: 1996-10-22
 category: 1040window
 author: Luis Bush
 lang: en
+updated_on: 2019-04-16 05:47:48 -8000
+uploaded_on: 2019-04-16 05:47:48 -8000
 tags: AD2000 "10/40 Window"
 excerpt: There are several important ways in which your church or prayer group can become involved in advancing the AD2000 & Beyond Movement and focusing attention on The 10/40 Window. Consider these possibilities...
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>The 10/40 Window - What You Can Do</h1>
 
 <p>There are several important ways in which your church or prayer group can become involved in advancing the AD2000 & Beyond Movement and focusing attention on The 10/40 Window. Consider these possibilities:</p>
@@ -54,3 +57,4 @@ excerpt: There are several important ways in which your church or prayer group c
     <li>Article source: <a href="http://www.ad2000.org/1040invo.htm">http://www.ad2000.org/1040invo.htm</a></li>
   </ul>
 </figure>
+</article>

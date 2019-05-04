@@ -5,9 +5,12 @@ date: 2001-01-05
 category: ad2000
 author: Luis Bush
 lang: en
+updated_on: 2019-05-01 15:57:26 -8000
+uploaded_on: 2019-05-01 15:57:26 -8000
 tags: AD2000
 excerpt: The AD2000 & Beyond Movement was formed to encourage, motivate, and network men and women church leaders by inspiring them with the vision of accelerating the reaching the unreached through the year 2000. We believe that God has used the AD2000 and Beyond Movement to do that and to mobilize the Church to focus more on the unreached peoples in the 10/40 Window and around the world. This has been done through consultations, prayer efforts, national initiatives, functional tracks and task forces, and communication materials.
 ---
+<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>AD2000 International Office is Closed</h1>
 
 <p>The AD2000 & Beyond Movement was formed to encourage, motivate, and network men and women church leaders by inspiring them with the vision of accelerating the reaching the unreached through the year 2000. We believe that God has used the AD2000 and Beyond Movement to do that and to mobilize the Church to focus more on the unreached peoples in the 10/40 Window and around the world. This has been done through consultations, prayer efforts, national initiatives, functional tracks and task forces, and communication materials.</p>
@@ -21,3 +24,4 @@ excerpt: The AD2000 & Beyond Movement was formed to encourage, motivate, and net
     <li>Article source: <a href="http://www.ad2000.org/ad2kclos.htm">http://www.ad2000.org/ad2kclos.htm</a></li>
   </ul>
 </figure>
+</article>

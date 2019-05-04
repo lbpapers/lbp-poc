@@ -15,7 +15,6 @@ nav_order: 110
   <p>Description</p>
 
   <div class="article-container">
-  category: {{ category }}
   {% assign posts = site.posts | where: "categories", category %}
     {% for post in posts %}
       <div class="article-list">
