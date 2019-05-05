@@ -9,7 +9,7 @@ updated_on: 2019-03-21 10:02:40 -8000
 uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: En este día 14 del 4 mes de 2012 el pueblo de Dios en todo el mundo han sido llamados a afrontar el reto de la Ventana 4/14 a través de la oración unida, ferviente, centrado y a través del ayuno. Tenemos tanto sobre la mesa. Vamos a venir a la mesa juntos desde donde estemos cuando unimos nuestros corazones con el corazón de Dios a favor de los niños del mundo.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-es.html %}
 	<article>

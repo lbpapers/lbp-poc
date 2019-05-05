@@ -9,7 +9,7 @@ updated_on: 2019-05-01 17:30:54 -8000
 uploaded_on: 2019-05-01 17:30:54 -8000
 excerpt: Last night a debate on Therapeutic Abortion brought together the President of the Senate of Chile, a medical doctor and other senators orchestrated by Agustin Zamora, Transform Chile Facilitator. It was a privilege to participate in the debate. Doris and I have been deeply moved to see the beginnings of a movement of transformation and the 4/14 Movement here in Chile. We request your prayers for Agustin Zamora, his wife Carolina and emerging facilitators and 150 participants of the seven spheres of cultural influence with whom we met with on November 21 along with Ricardo Luna, Facilitator for Latin America of the 4 / 14 Movement, President of CONELA and OneHope Director for Latin America.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-en.html %}
 	<article>

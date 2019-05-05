@@ -9,7 +9,7 @@ updated_on: 2019-05-01 16:38:33 -8000
 uploaded_on: 2019-05-01 16:38:33 -8000
 excerpt: The challenge of Raising up a New Generation of Latin American Christian Communicators from the 4/14 Window to Transform Iberoamerica was presented at COICOM 2011 in Paraguay on 19th October.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-en.html %}
 	<article>

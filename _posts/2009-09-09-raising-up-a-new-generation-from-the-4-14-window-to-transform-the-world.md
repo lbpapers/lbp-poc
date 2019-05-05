@@ -10,7 +10,7 @@ uploaded_on: 2019-03-28 12:35:49 -8000
 tags: "4/14 Window"
 excerpt: At the end of the last century I wrote a pamphlet entitled The 10/40 Window&#58; Getting to the Core of the Core. In the first years of this new century, I am urging a new missional focus&#58; The 4/14 Window. Although in a different sense, it too can be called &#34;the core of the core.&#34; The 10/40 Window referenced a geographic frame; the 4/14 Window describes a demographic frame—a life season comprising the ten years between the ages of 4 and 14.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Raising Up a New Generation from the 4/14 Window to Transform the World</h1>
 
 <figure style="float: right; width: 40%; margin-left: 2rem; border: solid black 1px">

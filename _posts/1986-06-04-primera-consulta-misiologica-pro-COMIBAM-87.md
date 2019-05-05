@@ -9,7 +9,7 @@ uploaded_on: 2019-05-01 15:56:40 -8000
 author: Luis Bush
 excerpt: La Primera Consulta Teológica Iberoamericana sobre “La misión de la iglesia y las misiones mundiales”, auspiciada por COMIBAM (Congreso Misionero Iberoamericano) surgió cuando vimos la necesidad que se presentaba de continuar redefiniendo la terminología sobre misiones con bases bíblico8teológicas. Al definir los términos no sólo hemos pensado en COMIBAM como proceso, sino en toda la iglesia latinoamericana y de otros continentes.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Primera Consulta Misiologica pro COMIBAM '87</h1>
 <p>LA MISIÓN DE LA IGLESIA Y LAS MISIONES MUNDIALES</p>
 <p>Primera Consulta Teológica Iberoamericana Antigua, Guatemala 8 2 al 4 de junio de 1986</p>

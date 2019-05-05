@@ -9,7 +9,7 @@ updated_on: 2019-04-16 05:47:42 -8000
 uploaded_on: 2019-04-16 05:47:42 -8000
 excerpt: An up-to-date report of the manifestations of the work of the Holy Spirit in the 10/40 Window -a compelling and inspirational collection of field reports, verified via primary sources.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>The Move of the Holy Spirit in the 10/40 Window</h1>
 <p>by Luis Bush / AD2000 & Beyond Movement<br>
 & Beverly Pegues / Christian Information Network</p>

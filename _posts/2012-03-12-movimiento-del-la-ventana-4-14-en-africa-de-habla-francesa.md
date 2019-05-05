@@ -9,7 +9,7 @@ updated_on: 2019-03-21 10:02:40 -8000
 uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: La conferencia de los países francófonos en África de la iniciativa global de la ventana 4/14, se celebró en Ouagadougou, Burkina Faso, en los días 6 al 9 de marzo de 2012 con la participación de 755 siervos de Dios de más de la mitad de los veintiséis países de África de habla francesa que se centraron en el tema, “Una sociedad mejor con los niños y jóvenes para transformar nuestras naciones,” el Dr. Jean-Baptiste Rouamba, que el coordinador nacional de la iniciativa 4/14, este cambio de rumbo importante en la dirección de la Iglesia de Burkina Faso y la Sub-Región de África. Según él, el propósito de la conferencia fue concientizar a los siervos de Dios en relación a los niños de 4 a14 años de edad que son vulnerables, pero abiertos a la Palabra de Dios.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-es.html %}
 	<article>

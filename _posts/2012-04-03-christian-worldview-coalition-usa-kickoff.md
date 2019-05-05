@@ -9,7 +9,7 @@ updated_on: 2019-03-21 10:02:40 -8000
 uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: God Almighty has set three great objects before Chuck Colson in the early 21st century in Lansdowne, near Washington DC; the sanctity of human life, the dignity of traditional marriage and religious liberty.  In his day Wilberforce and like-minded people formed the Clapham Circle. In our day, a group of fifty five like-minded US citizens met to form the Christian Worldview Coalition. Both then and now the initiatives focused on renewing the culture of the day.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-en.html %}
 	<article>

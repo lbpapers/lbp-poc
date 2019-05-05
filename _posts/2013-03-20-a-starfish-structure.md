@@ -9,7 +9,7 @@ updated_on: 2019-05-01 15:48:34 -8000
 uploaded_on: 2019-05-01 15:48:34 -8000
 excerpt: "Global Context regarding Structures of Mission and TWC Movements are going to rise and fall with increased rapidity in the world in which we live. That is because the context around us is changing so rapidly. Organizational structures can’t hope to keep up with these rapid changes. As a documentation of past effectiveness, most organizational structure looks back, not forward."
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>A Starfish Structure</h1>
 <h3 id="article-date"><time datetime="2013-03-20">March 20, 2013</time></h3>
 <p>Global Context regarding Structures of Mission and TWC Movements are going to rise and fall with increased rapidity in the world in which we live. That is because the context around us is changing so rapidly. Organizational structures can’t hope to keep up with these rapid changes. As a documentation of past effectiveness, most organizational structure looks back, not forward.</p>

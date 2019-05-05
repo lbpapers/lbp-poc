@@ -9,7 +9,7 @@ updated_on: 2019-03-21 10:02:40 -8000
 uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: POR CUANTO, la Biblia afirma con valentía que los niños son un regalo de Dios y desea que vengan a él; y POR CUANTO, la Biblia establece que los niños deben crecer en un ambiente protegido, con buenos consejos, una disciplina tierna y amor incondicional
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-es.html %}
 	<article>

@@ -9,7 +9,7 @@ updated_on: 2019-03-21 10:02:40 -8000
 uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: Este es un momento histórico. Estamos experimentando un nuevo nivel de energía en la Iniciativa de 4/14 como resultado de la sinergia de los latinoamericanos y los coreanos que resulta de una alianza de Corea del 4/14 Ventana, dijo el pastor de Kim Nam Soo, el anfitrión de las dos primeras Cumbres mundiales 4.14 Ventana.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-es.html %}
 	<article>

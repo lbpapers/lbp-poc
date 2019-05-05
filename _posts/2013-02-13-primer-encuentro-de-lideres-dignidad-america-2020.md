@@ -9,7 +9,7 @@ updated_on: 2019-03-21 10:02:40 -8000
 uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: En lo que fue realmente un “Primer Encuentro Latinoamericano de Líderes (cristianos)” del Siglo XXI, 230 líderes cristianos de casi todas las naciones de Latinoamérica y de 30 ciudades colombianas se dieron cita en Bogotá para abocar juntos la tarea de transformar sus naciones.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-es.html %}
 	<article>

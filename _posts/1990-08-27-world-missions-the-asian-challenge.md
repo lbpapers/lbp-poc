@@ -10,7 +10,7 @@ uploaded_on: 2019-05-01 15:58:05 -8000
 tags: AD2000, "Asian Missions Congress"
 excerpt: As I observed the development of Asian Missions Congress '90 unfold and consulted with participants and observers to the conference such as Dr. Emilio Antonio Nunez, Latin American Theologian, Ruben Ezemadu, Chairman of the Nigerian Evangelical Mission Association, Dr. Chun Chae OK from the Women's University in Seoul, Korea, Dr. Lois McKinney of Trinity Evangelical School the significance began to dawn on me gradually of what was taking place.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>World Missions: The Asian Challenge</h1>
 <h3>Asian Missions Congress '90</h3>
 

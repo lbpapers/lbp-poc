@@ -9,7 +9,7 @@ uploaded_on: 2019-05-03 17:06:55 -8000
 author: "Ralph Winter"
 excerpt: If you were to choose a certain area of the world to become the most potent power in completing the Great Commission, which would you choose? Asia? Korea maybe. But Korea is just one country. Africa? Africa is moving ahead. But it lacks economic resources. By contrast, because of its European roots, Latin America is the great, spawling "bridge continent" between the industrialized West and the underdeveloped countries of the world. And more exciting still, the evangelical movement in Latin America is strong.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <p>Mission Frontiers</p>
 <p>Cover story</p>
 <p>March 1986 / Vol.8 No. 3</p>

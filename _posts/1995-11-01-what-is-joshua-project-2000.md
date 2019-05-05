@@ -10,7 +10,7 @@ uploaded_on: 2019-04-01 03:06:29 -8000
 tags: joshua-project
 excerpt: Joshua Project 2000 is a global cooperative strategy, focused on the least evangelized peoples of the world. It seeks to engage every church, agency, denomination & Christian from every country in the world in an effort to implement the goal of &quot;A church for every people and the gospel for every person by AD2000.&quot;
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>What is Joshua Project 2000?</h1>
 
 <p>Joshua Project 2000 is a global cooperative strategy, focused on the least evangelized peoples of the world. It seeks to engage every church, agency, denomination & Christian from every country in the world in an effort to implement the goal of "A church for every people and the gospel for every person by AD2000."</p>

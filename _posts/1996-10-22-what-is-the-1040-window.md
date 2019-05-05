@@ -10,7 +10,7 @@ uploaded_on: 2019-05-03 14:07:27 -8000
 tags: joshuaproject
 excerpt: The 10/40 Window is the rectangular area of North Africa, the Middle East and Asia approximately between 10 degrees north and 40 degrees north latitude. The 10/40 Window is often called "The Resistant Belt" and includes the majority of the world's Muslims, Hindus, and Buddhists.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>What is the 10/40 Window?</h1>
 
 <figure class="pic-left">

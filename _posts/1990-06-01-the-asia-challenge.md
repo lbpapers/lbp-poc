@@ -10,7 +10,7 @@ uploaded_on: 2019-05-01 15:58:18 -8000
 tags: AD2000, "Asian Missions Congress"
 excerpt: "&#34;World Mission&#58; The Asian Challenge&#34; was the theme of Asia Missions Congress '90 held August 27-31 in Seoul, Korea. The Evangelical Fellowship of Asia sponsored the congress which was eighteen months in preparation. Hosts were the Korea Evangelical Fellowship and the 25,000-member Choong Hyun Presbyterian Church that made its ample facilities available for all the sessions of the congress."
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>The Asia Challenge</h1>
 <h3>"To Awaken the Churches"</h3>
 

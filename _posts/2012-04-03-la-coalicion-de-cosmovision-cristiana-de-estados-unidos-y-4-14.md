@@ -9,7 +9,7 @@ updated_on: 2019-03-21 10:02:40 -8000
 uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: Dios Todopoderoso ha puesto delante de Chuck Colson tres grandes objetivos en el siglo 21 en Lansdowne, cerca de Washington DC; la santidad de la vida humana, la dignidad del matrimonio tradicional y la libertad religiosa. En su día, un grupo de personas con ideas afines formaron el Círculo de Clapham. En nuestros días, un grupo de cincuenta y cinco Norteamericanos de ideas afines a los ciudadanos estadounidenses se reunieron para formar la Coalición de Cosmovisión Cristiana. Del pueblo Hispano Sammy Rodriguez de la Conferencia Nacional Cristiana Hispana y su servido estuvimos en el grupo.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-es.html %}
 	<article>

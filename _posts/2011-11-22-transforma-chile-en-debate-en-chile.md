@@ -9,7 +9,7 @@ updated_on: 2019-05-01 17:33:57 -8000
 uploaded_on: 2019-05-01 17:33:57 -8000
 excerpt: Anoche, un debate sobre Aborto Terapéutico congregó el médico, Presidente del Senado de Chile y otros senadores conducido por Agustín Zamora, Facilitador del movimiento Transforma Chile en que fue un privilegio participar con una reflexión al final del debate. Para Doris y para mi han sido días marcantes en nuestra vida aquí en Chile al ver las primicias de un movimiento de transformación. Suplicamos sus oraciones por Agustín, su esposa Carolina y los facilitadores y 150 participantes emergentes de las siete esferas de influencia cultural con quien reunimos el día 21 de noviembre juntamente con Ricardo Luna, Facilitador del Movimiento de la Ventana 4/14, Presidente de CONELA y Director de OneHope para América Latina y Soledad Rosas, Facilitadora del Movimiento de la Ventana 4/14 en Chile.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-es.html %}
 	<article>

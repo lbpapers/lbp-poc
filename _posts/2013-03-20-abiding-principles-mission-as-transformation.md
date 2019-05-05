@@ -9,7 +9,7 @@ updated_on: 2019-05-01 15:33:04 -8000
 uploaded_on: 2019-05-01 15:33:04 -8000
 excerpt: "An effort to define a comprehensive approach to transformation must be “rooted in the theology of the mission of the Kingdom of God and seeks to express the Lordship of Jesus over every aspect of life, economic, religious, personal, and political. It does not give priority to any area of life as an area for mission . . . but this change will be effected whenever people address issues of life directly, rooted in a gospel perspective.”"
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Abiding Principles - Mission as Transformation</h1>
 <h3 id="article-date"><time datetime="2013-03-20">March 20, 2013</time></h3>
 <figure class="pic-left">

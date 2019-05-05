@@ -9,7 +9,7 @@ updated_on: 2019-05-01 18:37:03 -8000
 uploaded_on: 2019-05-01 18:37:03 -8000
 excerpt: "Through the World Inquiry, a consultative process involving Christian leaders from around the world, two clear and consistent messages have emerged as we begin the 21st Century: First, a renewed call for the whole Church to take the whole Gospel to the whole world. And second, a new paradigm of Mission as Transformation to describe what God is doing in our world in building His Kingdom. In the midst of a fallen, broken world needing transformation:"
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Transform World Indonesia 2005 Handbook</h1>
 
 <figure class="pic-left" style="width: 80%; min-width: 300px; max-width: 450px; margin-right: 2em;">

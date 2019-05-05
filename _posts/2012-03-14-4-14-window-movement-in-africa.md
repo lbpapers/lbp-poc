@@ -9,7 +9,7 @@ updated_on: 2019-03-21 10:02:40 -8000
 uploaded_on: 2019-03-21 10:02:40 -8000
 excerpt: The first words uttered following dinner at a meeting of the Board of the Association of Evangelicals in Africa (AEA) and the 4/14 Window facilitators and servant catalysts by Chairman Samuel Yameogo were about the 4/14 Movement and the Awakening of the Sleeping Giant of French Speaking Africa. Over the next four days 750 participants gathered from Burkina Faso and fourteen of the twenty six countries in French speaking Africa the unfolding drama of an awakening giant became evident to the delegates in four scenes during our time together at the regional 4/14 Window conference for Francophone Africa.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 {% include newsletter-header-en.html %}
 	<article>

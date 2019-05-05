@@ -9,7 +9,7 @@ updated_on: 2019-03-27 11:27:25 -8000
 uploaded_on: 2019-03-27 11:27:25 -8000
 excerpt: This final report on the 2012 Fiji Prayer Convention has been prepared by Lilian Schmid, it draws on a number of resources, past and current, including Dr Geoff Waugh's book South Pacific Revivals, Community and Ecological Transformation and notes from Ps. Inosi Vono. Rev. Geoff Armitage also contributed a comprehensive chronology of the events during the Convention and this has been merged into the main body of the report.
 ---
-<article data-publication-date="{{page.date}}" data-uploaded_on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
+<article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 	<header>
 		<img style="max-width: 100%" alt="Transfrom World e-newsletter header" src="{{ site.baseurl }}/assets/newsletters/images/2012/07/30/tw07_header1.jpg">
