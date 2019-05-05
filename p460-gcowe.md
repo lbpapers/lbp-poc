@@ -11,7 +11,7 @@ nav_order: 460
 <p>MANI is a network of networks focused on catalyzing African National Initiatives and mobilizing the resources of of the Body of Christ in Africa for the fulfillment of the Great Commission.</p>
 
 <div class="article-container">
-  {% for post in site.posts %}
+ {% assign sorted_posts = site.posts | sort: 'title' %}{% for post in sorted_posts %}
     {% assign category = post.category | downcase %}{% if category == 'gcowe' %}
       <div class="article-list">
         <div class="article-category"></div>

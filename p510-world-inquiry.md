@@ -10,7 +10,7 @@ nav_order: 510
 <p>Documents in this section are historical documents, and not up-to-date.</p>
 
 <div class="article-container">
-  {% for post in site.posts %}
+ {% assign sorted_posts = site.posts | sort: 'title' %}{% for post in sorted_posts %}
     {% assign category = post.category | downcase %}{% if category == 'world-inquiry' %}
       <div class="article-list">
         <div class="article-category"></div>

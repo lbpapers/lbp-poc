@@ -10,7 +10,7 @@ nav_order: 540
 <p>The 4/14 Window Movement is a Global Mission Movement focusing on Reaching, Rescuing, Rooting, and Releasing children and youth (0-18 years old) to reach their full transformational impact in their family, community, and nation.</p>
 
 <div class="article-container">
-  {% for post in site.posts %}
+ {% assign sorted_posts = site.posts | sort: 'title' %}{% for post in sorted_posts %}
     {% assign category = post.category | downcase %}{% if category == '414window' %}
       <div class="article-list">
         <div class="article-category"></div>

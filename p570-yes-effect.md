@@ -8,7 +8,7 @@ nav_order: 570
 <p>The Yes Effect responds affirmatively to God's invitation to expand the goodness of his kingdom on earth as it is in heaven. He is inviting you to connect and to catalyze a chain reaction of transformation as a result of saying yes to him, even in the smallest of ways.</p>
 
 <div class="article-container">
-  {% for post in site.posts %}
+ {% assign sorted_posts = site.posts | sort: 'title' %}{% for post in sorted_posts %}
     {% assign category = post.category | downcase %}{% if category == 'yes-effect' %}
       <div class="article-list">
         <div class="article-category"></div>
