@@ -15,7 +15,7 @@ nav_exclude: true
 <h4>Please bear in mind this site is still work in progress</h4>
 <p>If you have any question, please email at <a href="mailto:email@luisbushpapers.com">email@luisbushpapers.com</a></p>
 <div class="article-container">
-  {% for post in site.posts %}
+  {% assign sorted_posts = site.posts | sort: 'title' %}{% for post in sorted_posts %}
     <div class="article-list">
       <div class="article-category">{{ post.category }}</div>
       <div class="article-summary">

@@ -1,0 +1,25 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+nav_exclude: true
+updated_since: 2019-05-03T12:45:11-07:00
+---
+<h1 style="border-top: 1px solid grey; margin-top: 2em; padding-top: 1em;">New or updated documents since <strong>{{ page.updated_since | date: '%B %d, %Y' }}</strong></h1>
+<p>If you have any question, please email at <a href="mailto:email@luisbushpapers.com">email@luisbushpapers.com</a></p>
+<div class="article-container">
+{% assign sorted_posts = site.posts | sort: 'updated_on' | reverse %}{% for post in sorted_posts %}
+    {% if post.updated_on > page.updated_since %}
+      <div class="article-list">
+        <div class="article-category">{{ post.category }}</div>
+        <div class="article-summary">
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
+          <div class="author">Author: {{ post.author }}</div>
+          <div class="publication-date">Publication Date: <time datetime="{{post.date | date: '%F'}}">{{post.date | date: '%B %d, %Y'}}</time></div>
+          <div class="excerpt">{{post.excerpt | strip_html | truncatewords:55 }}</div>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
