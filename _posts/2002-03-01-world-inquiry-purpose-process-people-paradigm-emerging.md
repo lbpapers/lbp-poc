@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "World Inquiry Purpose Proecess People Paradigm Emerging"
+title: "World Inquiry Purpose Process People Paradigm Emerging"
 date: 2002-03-01
 category: world-inquiry
 author: Luis bush

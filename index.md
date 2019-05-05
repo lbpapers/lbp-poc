@@ -11,10 +11,9 @@ nav_exclude: true
 </figure>
 <p>Luis Bush, born and raised in Latin America is married to Doris with whom he has four children and twenty grandchildren. He is a servant catalyst on God’s missional movements including COMIBAM—a Latin America cross-cultural mission’s movement, AD 2000 & Beyond Movement, toward a church for every people and the gospel for every person; 10/40 Window Movement; North India Harvest Network; MANI—Mobilizing African National Initiatives; 35/45 Turkic Window; Transform World Movement—connecting God’s agents of transformation; 4/14 Window Movement—raising up a new generation of children to transform the world; Transform World 2020—responding to seven mega challenges through seven spheres of cultural influence in ten regions of the world; Nurturer Movement—raising up NextGen to disciple the children; Mission China 2030—sending 20,000 Chinese missionaries by 2030, Back to Jerusalem Movement- a Christian missions movement to send missionaries to all the unreached peoples who live between China and Jerusalem.</p>
 </div>
-<h1>proof of concept</h1>
-<h2>Updated on 2019-05-01 18:39 PDT</h2>
-<p>Some documents are uploaded in TW2020, TW-Connections and 4/14 window categories. Please review each one of them</p>
-
+<h1 style="border-top: 1px solid grey; margin-top: 2em; padding-top: 1em;">List of documents</h1>
+<h4>Please bear in mind this site is still work in progress</h4>
+<p>If you have any question, please email at <a href="mailto:email@luisbushpapers.com">email@luisbushpapers.com</a></p>
 <div class="article-container">
   {% for post in site.posts %}
     <div class="article-list">

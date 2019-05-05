@@ -64,7 +64,8 @@
   @include mq(md) {
     position: relative;
     //max-width: $content-width;
-    max-width: 100%;
+    // max-width: 80%;
+    max-width: 1250px;
     padding-top: $gutter-spacing;
     padding-bottom: $gutter-spacing;
     // padding-left: $gutter-spacing * 1.5;
