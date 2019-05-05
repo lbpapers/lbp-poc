@@ -5,8 +5,8 @@ date: 2013-03-20
 category: tw2020
 author: Luis Bush
 lang: en
-updated_on: 2019-05-01 15:33:04 -8000
-uploaded_on: 2019-05-01 15:33:04 -8000
+updated_on: 2019-05-01T15:33:04-07:00
+uploaded_on: 2019-05-01T15:33:04-07:00
 excerpt: "An effort to define a comprehensive approach to transformation must be “rooted in the theology of the mission of the Kingdom of God and seeks to express the Lordship of Jesus over every aspect of life, economic, religious, personal, and political. It does not give priority to any area of life as an area for mission . . . but this change will be effected whenever people address issues of life directly, rooted in a gospel perspective.”"
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">

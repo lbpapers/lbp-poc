@@ -5,8 +5,8 @@ date: 1995-03-01
 category: gcowe
 author: Luis Bush
 lang: en
-updated_on: 2019-05-01 15:55:48 -8000
-uploaded_on: 2019-05-01 15:55:48 -8000
+updated_on: 2019-05-01T15:55:48-07:00
+uploaded_on: 2019-05-01T15:55:48-07:00
 excerpt: Today, nearly two thousand years after Christ challenged his disciples with the Great Commission, the Church which bears His name approaches a milestone many had only dreamed of reaching. A goal which has ignited the hearts of missionaries for centuries now stands within sight.
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">

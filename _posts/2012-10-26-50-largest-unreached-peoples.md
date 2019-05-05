@@ -5,8 +5,8 @@ date: 2012-10-26
 category: tw2020
 author: Luis Bush
 lang: en
-updated_on: 2019-05-01 14:44:15 -8000
-uploaded_on: 2019-05-01 14:44:15 -8000
+updated_on: 2019-05-01T14:44:15-07:00
+uploaded_on: 2019-05-01T14:44:15-07:00
 excerpt: "Christ’s concern is to reach the last and the least. Each of the seven Transform World Challenges is called to have a special focus on these people groups and participate toward the expected outcomes. The Challenges are: Ideological Challenge of Islam; Family Challenge; Orphan Challenge; Poverty Challenge; Human Rights Challenge; Christ’s Missional Challenge; and the Celebration Challenge."
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">

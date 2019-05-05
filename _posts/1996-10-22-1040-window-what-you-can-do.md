@@ -5,8 +5,8 @@ date: 1996-10-22
 category: 1040window
 author: Luis Bush
 lang: en
-updated_on: 2019-04-16 05:47:48 -8000
-uploaded_on: 2019-04-16 05:47:48 -8000
+updated_on: 2019-04-16T05:47:48-07:00
+uploaded_on: 2019-04-16T05:47:48-07:00
 tags: AD2000 "10/40 Window"
 excerpt: There are several important ways in which your church or prayer group can become involved in advancing the AD2000 & Beyond Movement and focusing attention on The 10/40 Window. Consider these possibilities...
 ---

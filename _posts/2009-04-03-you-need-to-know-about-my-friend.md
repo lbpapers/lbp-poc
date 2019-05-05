@@ -5,8 +5,8 @@ date: 2009-04-03
 category: 414window
 author: John Armstrong
 lang: en
-updated_on: 2019-05-01 16:35:06 -8000
-uploaded_on: 2019-05-01 16:35:06 -8000
+updated_on: 2019-05-01T16:35:06-07:00
+uploaded_on: 2019-05-01T16:35:06-07:00
 tags: "4/14 Window"
 excerpt: "I was introduced to Luis Bush several years ago by our mutual friend, Dr. Alan Johnson. Alan is a former teacher of mine at Wheaton College and has become a dear friend over the years. Alan also serves on the advisory board of ACT 3 and is a champion for me and the work that I do. Alan also has the wonderful habit of introducing his friends to other friends that he has made over the years. He is one of the most faithful retired professors I know, continuing to give himself to the kingdom actively each day."
 ---

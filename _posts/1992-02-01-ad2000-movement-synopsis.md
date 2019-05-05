@@ -5,8 +5,8 @@ date: 1992-02-01
 category: ad2000
 author: Rick Wood
 lang: en
-updated_on: 2019-05-01 15:57:53 -8000
-uploaded_on: 2019-05-01 15:57:53 -8000
+updated_on: 2019-05-01T15:57:53-07:00
+uploaded_on: 2019-05-01T15:57:53-07:00
 tags: AD2000
 excerpt: The AD 2000 and Beyond Movement grew out of a desire to respond both to the imperative of the Great Commission and to the unique opportunity to mobilize all of God's people to reach the unreached by the year 2000, as God's people everywhere have established unprecedented faith goals for AD 2000. The intention was to encourage cooperation among existing churches, movements and structures to work together towards this same vision. The expected result was the establishment of a mission-minded church planting movement within every unreached and unevangelized people and city by AD 2000, so that all people might have a valid opportunity to experience the love, truth and saving power of Jesus Christ in fellowship with other believers.
 ---

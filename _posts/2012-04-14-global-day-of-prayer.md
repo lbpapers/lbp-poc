@@ -5,8 +5,8 @@ date: 2012-04-14
 category: newsletters
 author: Luis Bush
 lang: en
-updated_on: 2019-03-21 10:02:40 -8000
-uploaded_on: 2019-03-21 10:02:40 -8000
+updated_on: 2019-03-21T10:02:40-07:00
+uploaded_on: 2019-03-21T10:02:40-07:00
 excerpt: On this 14th day of the 4th month of 2012 God's people around the world have been called to meet the challenge of the 4/14 Window through united fervent, focused, prayer and fasting. So much is at stake. So much is on the table. Let us come to the table together from wherever we are as we join our hearts with God's heart for the children of the world.
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">

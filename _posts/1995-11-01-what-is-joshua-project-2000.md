@@ -5,8 +5,8 @@ date: 1995-11-01
 category: joshua-project
 author: Luis Bush
 lang: en
-updated_on: 2019-04-01 03:06:29 -8000
-uploaded_on: 2019-04-01 03:06:29 -8000
+updated_on: 2019-04-01T03:06:29-07:00
+uploaded_on: 2019-04-01T03:06:29-07:00
 tags: joshua-project
 excerpt: Joshua Project 2000 is a global cooperative strategy, focused on the least evangelized peoples of the world. It seeks to engage every church, agency, denomination & Christian from every country in the world in an effort to implement the goal of &quot;A church for every people and the gospel for every person by AD2000.&quot;
 ---

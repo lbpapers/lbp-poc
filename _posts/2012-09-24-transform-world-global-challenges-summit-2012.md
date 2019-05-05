@@ -5,8 +5,8 @@ date: 2012-09-24
 category: newsletters
 author: Luis Bush
 lang: en
-updated_on: 2019-03-21 10:02:40 -8000
-uploaded_on: 2019-03-21 10:02:40 -8000
+updated_on: 2019-03-21T10:02:40-07:00
+uploaded_on: 2019-03-21T10:02:40-07:00
 excerpt: It is with great joy and enthusiasm that I welcome you as members of the Transform World Summit North American delegation. Thank you for prayerful consideration over these past months as we have worked diligently with discernment to hear the heart of our Father instructing us in the way we should go.  I would like to take this opportunity to invite you to join me on Thursday, September 27, 2012 from 8:00 to 9:00am (Pacific Standard Time) to review some important details leading up the conference.
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">

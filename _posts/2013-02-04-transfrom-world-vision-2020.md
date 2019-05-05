@@ -5,8 +5,8 @@ date: 2013-02-04
 category: newsletters
 author: Luis Bush
 lang: en
-updated_on: 2019-05-01 14:44:07 -8000
-uploaded_on: 2019-05-01 14:44:07 -8000
+updated_on: 2019-05-01T14:44:07-07:00
+uploaded_on: 2019-05-01T14:44:07-07:00
 excerpt: We are in a defining moment in world history. With nations in an uproar, economies in upheaval, social order declining, and times increasingly tumultuous, God is beckoning His church to advance His Kingdom. As a response, 300 leaders from around the world are gathering at IHOPKC Missions Base in Kansas City for the Transform World Prayer Summit on March 24-27, 2013.
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">

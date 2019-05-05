@@ -5,8 +5,8 @@ date: 2013-02-16
 category: newsletters
 author: Luis Bush
 lang: es
-updated_on: 2019-03-21 10:02:40 -8000
-uploaded_on: 2019-03-21 10:02:40 -8000
+updated_on: 2019-03-21T10:02:40-07:00
+uploaded_on: 2019-03-21T10:02:40-07:00
 excerpt: Estamos viviendo un momento  crítico en la historia mundial. A medida que las naciones se agitan, las economías se tambalean, el orden social va en declive, y los tiempos se vuelven más y más tumultuosos, Dios está llamando a su Iglesia para que haga avanzar su reino, y te necesitamos a TI para que te involucres como unos de los 100,000 anfitriones de reuniones de oración.
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">

@@ -5,12 +5,12 @@ date: 2002-03-01
 category: world-inquiry
 author: Luis bush
 lang: en
-updated_on: 2019-05-03 14:39:01 -8000
-uploaded_on: 2019-05-03 14:39:01 -8000
+updated_on: 2019-05-03T14:39:01-07:00
+uploaded_on: 2019-05-03T14:39:01-07:00
 excerpt: "Jesus said to his followers, in reference to God the Father: “Seek first his kingdom and his righteousness” (Mt. 6:33a). Seeking the Kingdom of God results in personal and cultural transformation which has emerged as a unifying vision for the mission of the Church at the beginning of the twenty-first century. God is on a mission of transformation. A global transformation movement has begun. It's God's movement. This book reports on some of the contributions, the considerations, the context and conclusions regarding transformation as mission."
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
-  <h1>World Inquiry Purpose Proecess People Paradigm Emerging</h1>
+  <h1>World Inquiry Purpose Process People Paradigm Emerging</h1>
   <h4>Luis Bush</h4>
 
   <p>Jesus said to his followers, in reference to God the Father: “Seek first his kingdom and his righteousness” (Mt. 6:33a). Seeking the Kingdom of God results in personal and cultural transformation which has emerged as a unifying vision for the mission of the Church at the beginning of the twenty-first century. God is on a mission of transformation. A global transformation movement has begun. It's God's movement. This book reports on some of the contributions, the considerations, the context and conclusions regarding transformation as mission.</p>
@@ -37,7 +37,7 @@ excerpt: "Jesus said to his followers, in reference to God the Father: “Seek f
 
   <figure class="resource-links">
     <ul>Download PDF:
-      <li><a href="{{ site.baseurl }}/assets/pdf/2002-03-01/World-Inquiry-Purpose-Proecess-People-Paradigm-Emerging-by-Luis-Bush.pdf">World-Inquiry-Purpose-Proecess-People-Paradigm-Emerging-by-Luis-Bush.pdf</a></li>
+      <li><a href="{{ site.baseurl }}/assets/pdf/2002-03-01/World-Inquiry-Purpose-Process-People-Paradigm-Emerging-by-Luis-Bush.pdf">World-Inquiry-Purpose-Process-People-Paradigm-Emerging-by-Luis-Bush.pdf</a></li>
     </ul>
   </figure>
 </article>

@@ -4,8 +4,8 @@ title: "Luis Bush, Latin America, and the End of History"
 date: 1986-03-01
 category: comibam
 lang: en
-updated_on: 2019-05-03 17:06:55 -8000
-uploaded_on: 2019-05-03 17:06:55 -8000
+updated_on: 2019-05-03T17:06:55-07:00
+uploaded_on: 2019-05-03T17:06:55-07:00
 author: "Ralph Winter"
 excerpt: If you were to choose a certain area of the world to become the most potent power in completing the Great Commission, which would you choose? Asia? Korea maybe. But Korea is just one country. Africa? Africa is moving ahead. But it lacks economic resources. By contrast, because of its European roots, Latin America is the great, spawling "bridge continent" between the industrialized West and the underdeveloped countries of the world. And more exciting still, the evangelical movement in Latin America is strong.
 ---

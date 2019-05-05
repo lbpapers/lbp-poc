@@ -5,8 +5,8 @@ date: 1999-03-02
 category: 1040window
 author: Luis Bush, Beverly Pegues
 lang: en
-updated_on: 2019-04-16 05:47:42 -8000
-uploaded_on: 2019-04-16 05:47:42 -8000
+updated_on: 2019-04-16T05:47:42-07:00
+uploaded_on: 2019-04-16T05:47:42-07:00
 excerpt: An up-to-date report of the manifestations of the work of the Holy Spirit in the 10/40 Window -a compelling and inspirational collection of field reports, verified via primary sources.
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">

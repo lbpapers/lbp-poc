@@ -5,8 +5,8 @@ date: 2009-09-09
 category: 414window
 author: Luis Bush
 lang: en
-updated_on: 2019-03-28 12:35:49 -8000
-uploaded_on: 2019-03-28 12:35:49 -8000
+updated_on: 2019-03-28T12:35:49-07:00
+uploaded_on: 2019-03-28T12:35:49-07:00
 tags: "4/14 Window"
 excerpt: At the end of the last century I wrote a pamphlet entitled The 10/40 Window&#58; Getting to the Core of the Core. In the first years of this new century, I am urging a new missional focus&#58; The 4/14 Window. Although in a different sense, it too can be called &#34;the core of the core.&#34; The 10/40 Window referenced a geographic frame; the 4/14 Window describes a demographic frame—a life season comprising the ten years between the ages of 4 and 14.
 ---

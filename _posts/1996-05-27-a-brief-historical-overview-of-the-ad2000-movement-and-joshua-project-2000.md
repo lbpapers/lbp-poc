@@ -5,8 +5,8 @@ date: 1995-11-01
 category: joshua-project
 author: Luis Bush
 lang: en
-updated_on: 2019-04-01 03:45:53 -8000
-uploaded_on: 2019-04-01 03:45:53 -8000
+updated_on: 2019-04-01T03:45:53-07:00
+uploaded_on: 2019-04-01T03:45:53-07:00
 tags: joshua-project
 excerpt: In January 1989 participants at GCOWE '89 in Singapore, learned that there were over 2,000 separate plans relating to world evangelization at the time.  More evangelization plans focused on the year 2000 were being announced almost every week.. This perception of AD 2000 as a magnetic target has grown over the past twenty years, but only in recent years has it become a primary focus of many in the church. One-third of these programs are from the Two Thirds world--this is truly a global evangelization movement. Although most of these plans were born independently of each other, there was a felt need among the leaders involved for greater mutual awareness of their efforts to mobilize the worldwide body of Christ for world evangelization by AD 2000. This cooperation has happened! How did it begin?
 ---

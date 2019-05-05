@@ -12,7 +12,8 @@ namespace :search do
       f.puts '---
 ---
 {
-  {% for page in site.html_pages %}{% if page.search_exclude != true %}"{{ forloop.index0 }}": {
+  # {% for page in site.html_pages %}{% if page.search_exclude != true %}"{{ forloop.index0 }}": {
+  {% for page in site.posts %}{% if page.search_exclude != true %}"{{ forloop.index0 }}": {
     "id": "{{ forloop.index0 }}",
     "title": "{{ page.title | replace: \'&amp;\', \'&\' }}",
     "content": "'+content+'",

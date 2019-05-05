@@ -5,8 +5,8 @@ date: 2011-12-07
 category: newsletters
 author: Luis Bush
 lang: en
-updated_on: 2019-03-21 10:02:40 -8000
-uploaded_on: 2019-03-21 10:02:40 -8000
+updated_on: 2019-03-21T10:02:40-07:00
+uploaded_on: 2019-03-21T10:02:40-07:00
 excerpt: It's been almost 10 years since I was in Beijing to meet with a group of top-level Christian leaders of networks of churches in China as part of the World Inquiry to "Let China Know the World and the World Know China". Recently, I returned to Beijing to get an update to the 2002 meeting. It was graciously organized and hosted by one of the leading third wave churches in the city. In the course of the original meetings the participants expressed their desire to send a message to Christians outside of China. This press release, read and carefully reviewed and endorsed for publication, represents a core part of that message as it came through in the papers, formal and informal discussion and the Inquiry process. It is outlined in three sections.
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">

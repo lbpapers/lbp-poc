@@ -4,8 +4,8 @@ title: "Primera Consulta Misiologica pro COMIBAM '87"
 date: 1986-06-04
 category: comibam
 lang: es
-updated_on: 2019-05-01 15:56:40 -8000
-uploaded_on: 2019-05-01 15:56:40 -8000
+updated_on: 2019-05-01T15:56:40-07:00
+uploaded_on: 2019-05-01T15:56:40-07:00
 author: Luis Bush
 excerpt: La Primera Consulta Teológica Iberoamericana sobre “La misión de la iglesia y las misiones mundiales”, auspiciada por COMIBAM (Congreso Misionero Iberoamericano) surgió cuando vimos la necesidad que se presentaba de continuar redefiniendo la terminología sobre misiones con bases bíblico8teológicas. Al definir los términos no sólo hemos pensado en COMIBAM como proceso, sino en toda la iglesia latinoamericana y de otros continentes.
 ---

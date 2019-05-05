@@ -5,8 +5,8 @@ date: 2013-03-20
 category: tw2020
 author: Luis Bush
 lang: en
-updated_on: 2019-05-01 15:48:34 -8000
-uploaded_on: 2019-05-01 15:48:34 -8000
+updated_on: 2019-05-01T15:48:34-07:00
+uploaded_on: 2019-05-01T15:48:34-07:00
 excerpt: "Global Context regarding Structures of Mission and TWC Movements are going to rise and fall with increased rapidity in the world in which we live. That is because the context around us is changing so rapidly. Organizational structures can’t hope to keep up with these rapid changes. As a documentation of past effectiveness, most organizational structure looks back, not forward."
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">

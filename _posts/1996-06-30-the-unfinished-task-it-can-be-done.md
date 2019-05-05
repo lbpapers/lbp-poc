@@ -5,8 +5,8 @@ date: 1996-06-30
 category: ad2000
 author: Luis Bush
 lang: en
-updated_on: 2019-05-01 15:57:43 -8000
-uploaded_on: 2019-05-01 15:57:43 -8000
+updated_on: 2019-05-01T15:57:43-07:00
+uploaded_on: 2019-05-01T15:57:43-07:00
 excerpt: God is on the move! He is superintending the events of our time. He is the source of the world’s growing spiritual thirst. That means that now is the time to act! It was nearly two thousand years ago that Jesus challenged His Church with the Great Commission to make disciples of all nations. Today, as we rapidly approach the 21st century, we are nearing a milestone that Christians once only dreamed of reaching.
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
