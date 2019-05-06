@@ -16,7 +16,7 @@ excerpt: En este día 14 del 4 mes de 2012 el pueblo de Dios en todo el mundo ha
 	    <h1>Día Mundial de Oración por los Niños y Jóvenes de la Ventana 4/14</h1>
 		<h2 id="article-date"><time datetime="2012-04-14">14 de Abril de 2012</time></h2>
 		<p id="first-paragraph"><strong>Introducción:</strong><br>En este día 14 del 4<sup>o</sup> mes de 2012 el pueblo de Dios en todo el mundo han sido llamados a afrontar el reto de la Ventana 4/14 a través de la oración unida, ferviente, centrado y a través del ayuno. Tenemos tanto sobre la mesa. Vamos a venir a la mesa juntos desde donde estemos cuando unimos nuestros corazones con el corazón de Dios a favor de los niños del mundo.</p>
-		<p><strong>Sobre la mesa se ​​encuentra el pan de la proposición de la Palabra de Dios</strong></p>
+		<p><strong>Sobre la mesa se encuentra el pan de la proposición de la Palabra de Dios</strong></p>
 		<ul>
 			<li>Deuteronomio 33:26 No hay nadie como el Dios de Jesurún, que para ayudarte cabalga en los cielos, entre las nubes, con toda su majestad.</li>
 			<li>Josué 21:45 Ni una sola de las admirables promesas que el Señor había hecho cayó en el vacío: todas se cumplieron.</li>
@@ -50,7 +50,7 @@ excerpt: En este día 14 del 4 mes de 2012 el pueblo de Dios en todo el mundo ha
 			<li>El desafío social</li>
 			<li>El Desafío del Ministerio</li>
 		</ol>
-		<p><strong>Sobre la mesa se ​​encuentra el futuro del cristianismo</strong></p>
+		<p><strong>Sobre la mesa se encuentra el futuro del cristianismo</strong></p>
 		<ul>
 			<li>Los niños de la Ventana 4/14 son el corazón de la cosecha, Wess Stafford</li>
 			<li>Durante esta década o "Ventana" la mayoría de los niños en este grupo demográfico desarrolla sus fundamentos morales y sus valores</li>
