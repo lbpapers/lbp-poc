@@ -4,17 +4,16 @@
 
 layout: home
 nav_exclude: true
-updated_since: 2019-05-03T12:45:11-07:00
-updated_on: 2019-05-06T21:17:02-07:00
+updated_on: 2019-05-07T11:56:53-07:00
 ---
-<p>A bug(syntax error due to double quotes) in search function finally identified and <strong>fixed</strong>!</p>
-<h1 style="border-top: 1px solid grey; margin-top: 2em; padding-top: 1em;">New or updated documents since <strong>{{ page.updated_since | date: '%B %d, %Y' }}</strong></h1>
+<h1 style="border-top: 1px solid grey; margin-top: 2em; padding-top: 1em;">Work in Progress</h1>
+<h4><strong>Documents in this section are not part of main, and should not be shared outside of working group.</strong></h4>
 <p>Latest update on {{ page.updated_on | date: '%B %d, %Y %T %Z' }}
 <p>If you have any question, please email at <a href="mailto:email@luisbushpapers.com">email@luisbushpapers.com</a></p>
 
 <div class="article-container">
 {% assign sorted_posts = site.posts | sort: 'updated_on' | reverse %}{% for post in sorted_posts %}
-    {% if post.updated_on > page.updated_since and post.status != 'wip' %}
+    {% if post.status == 'wip' %}
       <div class="article-list">
         <div class="article-category">
           {% if post.lang != 'en' %}{% for language in site.data.language-labels %}{% if language.name == post.lang %}<div class="language-indicator">{{language.label}}</div>{% endif %}{% endfor %}{% endif %}

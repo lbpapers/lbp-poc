@@ -1,3 +1,6 @@
+- name: test
+  label: "Calvin is testing"
+
 - name: 1040window
   label: "10/40 Window"
 
