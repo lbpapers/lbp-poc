@@ -82,18 +82,18 @@
 
         > div.language-indicator{
           position: absolute;
-          top: 9px;
-          right: -19px;
-          border-bottom-left-radius: .25em;
-          border-top-right-radius: .25em;
+          top: -12px;
+          right: -24px;
+          width: 100px;
+          text-align: center;
           font-size: 70%;
           background-color: #000050;
           color: white;
           margin: 0;
-          padding: 0 1.5em;
-          -ms-transform: rotate(45deg); /* IE 9 */
-          -webkit-transform: rotate(45deg); /* Safari 3-8 */
-          transform: rotate(45deg);
+          padding: 2em 0 0 1em;
+          -ms-transform: rotate(35deg); /* IE 9 */
+          -webkit-transform: rotate(35deg); /* Safari 3-8 */
+          transform: rotate(35deg);
         }
 
       }
