@@ -16,7 +16,7 @@ updated_on: 2019-05-06T21:17:02-07:00
 {% assign sorted_posts = site.posts | sort: 'updated_on' | reverse %}{% for post in sorted_posts %}
     {% if post.updated_on > page.updated_since %}
       <div class="article-list">
-        <div class="article-category">{% for cat-label in site.data.category-labels %}{% if cat-label.name == post.category %}{{ cat-label.label }}{% endif %}{% endfor %}</div>
+        <div class="article-category">{% for cat-label in site.data.category-labels %}{% if cat-label.name == post.category %}<strong>{{ cat-label.label }}</strong>{% endif %}{% endfor %}</div>
         <div class="article-summary">
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
           <figure class="author-date">
@@ -24,6 +24,7 @@ updated_on: 2019-05-06T21:17:02-07:00
             <div class="publication-date"><time datetime="{{post.date | date: '%F'}}">{{post.date | date: '%B %d, %Y'}}</time></div>
           </figure>
           <div class="excerpt">{{post.excerpt | strip_html | truncatewords:55 }}</div>
+          <div style="color: #900000; font-size: 65%; border-top: 1px solid black; margin-top: 2em; padding-top: .5em;"><strong>Updated on:</strong> {{ post.updated_on | date: '%B %d, %Y %T %Z' }}</div>
         </div>
       </div>
     {% endif %}
