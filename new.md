@@ -5,9 +5,11 @@
 layout: home
 nav_exclude: true
 updated_since: 2019-05-03T12:45:11-07:00
+updated_on: 2019-05-06T21:17:02-07:00
 ---
 <p>A bug(syntax error due to double quotes) in search function finally identified and fixed!</p>
 <h1 style="border-top: 1px solid grey; margin-top: 2em; padding-top: 1em;">New or updated documents since <strong>{{ page.updated_since | date: '%B %d, %Y' }}</strong></h1>
+<p>Latest update on {{ page.updated_on | date: '%B %d, %Y %T %Z' }}
 <p>If you have any question, please email at <a href="mailto:email@luisbushpapers.com">email@luisbushpapers.com</a></p>
 
 <div class="article-container">

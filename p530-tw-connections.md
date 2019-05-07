@@ -14,8 +14,10 @@ nav_order: 530
         <div class="article-category"></div>
         <div class="article-summary">
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
-          <div class="author">Author: {{ post.author }}</div>
-          <div class="publication-date">Publication Date: <time datetime="{{post.date | date: '%F'}}">{{post.date | date: '%B %d, %Y'}}</time></div>
+          <figure class="author-date">
+            <div class="author">{{ post.author }}</div>
+            <div class="publication-date"><time datetime="{{post.date | date: '%F'}}">{{post.date | date: '%B %d, %Y'}}</time></div>
+          </figure>
           <div class="excerpt">{{post.excerpt | strip_html | truncatewords:55 }}</div>
         </div>
       </div>
