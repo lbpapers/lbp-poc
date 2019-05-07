@@ -94,7 +94,7 @@ excerpt: The core of the unreached people of our world live in a rectangular-sha
 
 <figure class="resource-links">
   <ul>
-  <li>For more information about what you can do, <a src="{{ site.baseurl }}{% link _posts/1996-10-22-1040-window-what-you-can-do.md %}">click here.</a></li>
+  <li>For more information about what you can do, <a src="{{ site.baseurl }}{% link _posts/1040window/1996-10-22-1040-window-what-you-can-do.md %}">click here.</a></li>
     <li>Article source: <a href="http://www.ad2000.org/1040broc.htm">http://www.ad2000.org/1040broc.htm</a></li>
   </ul>
 </figure>
