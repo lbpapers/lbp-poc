@@ -4,6 +4,7 @@ title: "Sé uno de los 100,000 anfitriones de oración de Transforma Mundo 2020"
 date: 2013-02-16
 category: newsletters
 author: Luis Bush
+status: published
 lang: es
 updated_on: 2019-03-21T10:02:40-07:00
 uploaded_on: 2019-03-21T10:02:40-07:00

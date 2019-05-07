@@ -4,6 +4,7 @@ title: "Great Commission Manifesto"
 date: 1989-01-08
 category: ad2000
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-05-01T15:58:34-07:00
 uploaded_on: 2019-05-01T15:58:34-07:00

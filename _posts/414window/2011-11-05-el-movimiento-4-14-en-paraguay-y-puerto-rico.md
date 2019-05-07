@@ -4,6 +4,7 @@ title: "Movimiento 4/14 en Paraguay y Puerto Rico"
 date: 2011-11-05
 category: 414window
 author: Luis Bush
+status: published
 lang: es
 updated_on: 2019-05-01T16:39:53-07:00
 uploaded_on: 2019-05-01T16:39:53-07:00

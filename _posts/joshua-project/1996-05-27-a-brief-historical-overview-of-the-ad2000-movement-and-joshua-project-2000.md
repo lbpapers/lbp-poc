@@ -4,6 +4,7 @@ title: "A Brief Historical Overview of the AD2000 & Beyond Movement and Joshua P
 date: 1995-11-01
 category: joshua-project
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-04-01T03:45:53-07:00
 uploaded_on: 2019-04-01T03:45:53-07:00

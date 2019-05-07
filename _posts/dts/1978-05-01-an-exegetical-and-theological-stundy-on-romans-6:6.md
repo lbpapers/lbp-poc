@@ -4,7 +4,7 @@ title: "An Exegetical and Theological Stundy on Romans 6:6"
 date: 1978-05-01
 category: dts
 author: Luis Bush
-lang: es
+lang: en
 updated_on: 2019-05-07T11:48:51-07:00
 uploaded_on: 2019-05-07T11:48:56-07:00
 tags: "DTS"

@@ -4,6 +4,7 @@ title: "Report of Transform World Global Interest Group Meeting"
 date: 2004-09-09
 category: tw-connections
 author: Luis bush
+status: published
 lang: en
 updated_on: 2019-05-03T13:35:53-07:00
 uploaded_on: 2019-05-03T13:35:53-07:00

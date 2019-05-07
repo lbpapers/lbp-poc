@@ -4,6 +4,7 @@ title: "Movimiento de la Ventana 4/14 en África de Habla Francesa"
 date: 2012-03-12
 category: newsletters
 author: Luis Bush
+status: published
 lang: es
 updated_on: 2019-03-21T10:02:40-07:00
 uploaded_on: 2019-03-21T10:02:40-07:00

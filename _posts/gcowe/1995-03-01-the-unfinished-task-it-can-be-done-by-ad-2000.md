@@ -4,6 +4,7 @@ title: "The Unfinished Task It Can Be Done By AD 2000"
 date: 1995-03-01
 category: gcowe
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-05-01T15:55:48-07:00
 uploaded_on: 2019-05-01T15:55:48-07:00

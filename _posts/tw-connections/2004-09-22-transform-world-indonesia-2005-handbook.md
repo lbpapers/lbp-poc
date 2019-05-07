@@ -4,6 +4,7 @@ title: "Transform World Indonesia 2005 Handbook"
 date: 2004-09-22
 category: tw-connections
 author: Luis bush
+status: published
 lang: en
 updated_on: 2019-05-01T18:37:03-07:00
 uploaded_on: 2019-05-01T18:37:03-07:00

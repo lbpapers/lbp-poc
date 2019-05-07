@@ -4,6 +4,7 @@ title: "Respuesta Al Movimiento de La Ventana 4/14"
 date: 2012-08-13
 category: newsletters
 author: Luis Bush
+status: published
 lang: es
 updated_on: 2019-03-21T10:02:40-07:00
 uploaded_on: 2019-03-21T10:02:40-07:00

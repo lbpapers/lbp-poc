@@ -4,6 +4,7 @@ title: "The Asia Challenge - To Awaken the Churches"
 date: 1990-06-01
 category: ad2000
 author: Jack Frizen
+status: published
 lang: en
 updated_on: 2019-05-01T15:58:18-07:00
 uploaded_on: 2019-05-01T15:58:18-07:00

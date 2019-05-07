@@ -4,6 +4,7 @@ title: "2012 Fiji Prayer Convention Report"
 date: 2012-07-30
 category: newsletters
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-03-27T11:27:25-07:00
 uploaded_on: 2019-03-27T11:27:25-07:00

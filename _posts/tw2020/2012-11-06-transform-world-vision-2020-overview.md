@@ -4,6 +4,7 @@ title: "Transform World Vision 2020 Overview"
 date: 2012-11-06
 category: tw2020
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-05-02T07:29:55-07:00
 uploaded_on: 2019-05-02T07:29:55-07:00

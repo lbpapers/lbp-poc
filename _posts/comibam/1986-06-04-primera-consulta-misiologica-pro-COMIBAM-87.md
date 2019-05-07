@@ -4,15 +4,19 @@ title: "Primera Consulta Misiologica pro COMIBAM '87"
 date: 1986-06-04
 category: comibam
 lang: es
-updated_on: 2019-05-01T15:56:40-07:00
+updated_on: 2019-05-07T13:14:27-07:00
 uploaded_on: 2019-05-01T15:56:40-07:00
 author: Luis Bush
-excerpt: La Primera Consulta Teológica Iberoamericana sobre “La misión de la iglesia y las misiones mundiales”, auspiciada por COMIBAM (Congreso Misionero Iberoamericano) surgió cuando vimos la necesidad que se presentaba de continuar redefiniendo la terminología sobre misiones con bases bíblico8teológicas. Al definir los términos no sólo hemos pensado en COMIBAM como proceso, sino en toda la iglesia latinoamericana y de otros continentes.
+status: published
+excerpt: "La Primera Consulta Teológica Iberoamericana sobre “La misión de la iglesia y las misiones mundiales”, auspiciada por COMIBAM (Congreso Misionero Iberoamericano) surgió cuando vimos la necesidad que se presentaba de continuar redefiniendo la terminología sobre misiones con bases bíblico8teológicas. Al definir los términos no sólo hemos pensado en COMIBAM como proceso, sino en toda la iglesia latinoamericana y de otros continentes."
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Primera Consulta Misiologica pro COMIBAM '87</h1>
 <p>LA MISIÓN DE LA IGLESIA Y LAS MISIONES MUNDIALES</p>
 <p>Primera Consulta Teológica Iberoamericana Antigua, Guatemala 8 2 al 4 de junio de 1986</p>
+<figure class='pic-left'>
+  <img src="{{ site.baseurl }}/assets/images/1986-06-04/Primera-Consulta-Teológica-Iberoamericana-cover.png">
+</figure>
 <p>La Primera Consulta Teológica Iberoamericana sobre “La misión de la iglesia y las misiones mundiales”, auspiciada por COMIBAM (Congreso Misionero Iberoamericano) surgió cuando vimos la necesidad que se presentaba de continuar redefiniendo la terminología sobre misiones con bases bíblico8teológicas. Al definir los términos no sólo hemos pensado en COMIBAM como proceso, sino en toda la iglesia latinoamericana y de otros continentes.</p>
 <p>Esta Consulta se realizó en la ciudad de Antigua, Guatemala, del 2 al 4 de junio de
 1986, con la asistencia de dieciocho delegados de siete países latinoamericanos, todos sintiendo la carga enorme de la responsabilidad misionera de la iglesia. La grandeza

@@ -4,6 +4,7 @@ title: "Plan Pampano - Base para Multiplicar Discipulos y Etiopia"
 date: 2015-01-31
 category: plan-pampano
 author: Luis Bush
+status: published
 lang: es
 updated_on: 2019-05-06T19:51:36-07:00
 uploaded_on: 2019-05-06T19:51:40-07:00

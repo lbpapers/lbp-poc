@@ -4,6 +4,7 @@ title: "AD2000 Movement Synopsis"
 date: 1992-02-01
 category: ad2000
 author: Rick Wood
+status: published
 lang: en
 updated_on: 2019-05-01T15:57:53-07:00
 uploaded_on: 2019-05-01T15:57:53-07:00

@@ -4,6 +4,7 @@ title: "4/14 Window Strategy Handbook"
 date: 2010-01-05
 category: 414window
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-03-28T10:03:13-07:00
 uploaded_on: 2019-03-28T10:03:13-07:00

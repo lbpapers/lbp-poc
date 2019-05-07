@@ -4,6 +4,7 @@ title: "World Missions: The Asian Challenge"
 date: 1990-08-27
 category: ad2000
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-05-01T15:58:05-07:00
 uploaded_on: 2019-05-01T15:58:05-07:00

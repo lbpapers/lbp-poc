@@ -4,6 +4,7 @@ title: "GCOWE 1989 Pressing Forward to AD 2000"
 date: 1989-01-01
 category: gcowe
 author: Darrell Dorr
+status: published
 lang: en
 updated_on: 2019-05-01T15:55:31-07:00
 uploaded_on: 2019-05-01T15:55:31-07:00

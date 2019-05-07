@@ -4,6 +4,7 @@ title: "Press Release"
 date: 2011-12-07
 category: newsletters
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-03-21T10:02:40-07:00
 uploaded_on: 2019-03-21T10:02:40-07:00

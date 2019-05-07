@@ -4,6 +4,7 @@ title: "Día Mundial de Oración por los Niños y Jóvenes de la Ventana 4/14"
 date: 2012-04-14
 category: newsletters
 author: Luis Bush
+status: published
 lang: es
 updated_on: 2019-03-21T10:02:40-07:00
 uploaded_on: 2019-03-21T10:02:40-07:00

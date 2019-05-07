@@ -4,6 +4,7 @@ title: "Transform World Vision 2020"
 date: 2013-02-04
 category: newsletters
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-05-01T14:44:07-07:00
 uploaded_on: 2019-05-01T14:44:07-07:00

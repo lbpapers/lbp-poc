@@ -4,6 +4,7 @@ title: "The 10/40 Window - What You Can Do"
 date: 1996-10-22
 category: 1040window
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-04-16T05:47:48-07:00
 uploaded_on: 2019-04-16T05:47:48-07:00

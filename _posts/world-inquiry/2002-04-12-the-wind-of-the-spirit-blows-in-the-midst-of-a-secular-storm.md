@@ -4,6 +4,7 @@ title: "World Inquiry Argentina: The Wind of the Spirit Blows in the Midst of a 
 date: 2002-04-12
 category: world-inquiry
 author: Rino Bello and Hugo Baravalle
+status: published
 lang: en
 updated_on: 2019-05-04T21:51:39-07:00
 uploaded_on: 2019-05-04T21:51:47-07:00

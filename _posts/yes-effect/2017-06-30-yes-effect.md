@@ -4,6 +4,7 @@ title: "Yes Effect"
 date: 2017-06-30
 category: yes-effect
 author: Luis bush
+status: published
 lang: en
 updated_on: 2019-05-01T19:23:07-07:00
 uploaded_on: 2019-05-01T19:23:07-07:00

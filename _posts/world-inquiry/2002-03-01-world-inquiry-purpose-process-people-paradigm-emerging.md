@@ -4,6 +4,7 @@ title: "World Inquiry Purpose Process People Paradigm Emerging"
 date: 2002-03-01
 category: world-inquiry
 author: Luis bush
+status: published
 lang: en
 updated_on: 2019-05-03T14:39:01-07:00
 uploaded_on: 2019-05-03T14:39:01-07:00

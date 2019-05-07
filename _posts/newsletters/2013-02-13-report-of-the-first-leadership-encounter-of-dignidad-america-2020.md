@@ -4,6 +4,7 @@ title: "Report of the First Leadership Encounter of \"Dignidad América 2020\""
 date: 2013-02-13
 category: newsletters
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-03-21T10:02:40-07:00
 uploaded_on: 2019-03-21T10:02:40-07:00

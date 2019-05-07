@@ -4,6 +4,7 @@ title: "AD2000 International Office is Closed"
 date: 2001-01-05
 category: ad2000
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-05-01T15:57:26-07:00
 uploaded_on: 2019-05-01T15:57:26-07:00

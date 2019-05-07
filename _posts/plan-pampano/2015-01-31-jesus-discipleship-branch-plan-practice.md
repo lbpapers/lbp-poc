@@ -4,6 +4,7 @@ title: "Jesus' Discipleship Branch Plan - Practice"
 date: 2015-01-31
 category: plan-pampano
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-05-06T12:02:12-07:00
 uploaded_on: 2019-05-06T12:02:18-07:00

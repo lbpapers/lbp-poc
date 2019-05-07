@@ -4,6 +4,7 @@ title: "Transforma Chile en Contexto de la Visión de la Ventana 4/14 en Debate 
 date: 2011-11-22
 category: 414window
 author: Luis Bush
+status: published
 lang: es
 updated_on: 2019-05-01T17:33:57-07:00
 uploaded_on: 2019-05-01T17:33:57-07:00

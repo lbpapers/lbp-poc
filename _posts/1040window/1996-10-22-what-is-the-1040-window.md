@@ -4,6 +4,7 @@ title: "What is the 10/40 Window?"
 date: 1996-10-22
 category: 1040window
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-05-03T14:07:27-07:00
 uploaded_on: 2019-05-03T14:07:27-07:00

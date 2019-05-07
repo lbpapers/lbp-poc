@@ -4,6 +4,7 @@ title: "Una nueva temporada de cooperación a nivel regional de América Latina 
 date: 2012-04-21
 category: newsletters
 author: Luis Bush
+status: published
 lang: es
 updated_on: 2019-03-21T10:02:40-07:00
 uploaded_on: 2019-03-21T10:02:40-07:00

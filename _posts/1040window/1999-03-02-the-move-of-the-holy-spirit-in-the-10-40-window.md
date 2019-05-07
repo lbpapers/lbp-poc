@@ -4,6 +4,7 @@ title: "The Move of the Holy Spirit in the 10/40 Window"
 date: 1999-03-02
 category: 1040window
 author: Luis Bush, Beverly Pegues
+status: published
 lang: en
 updated_on: 2019-04-16T05:47:42-07:00
 uploaded_on: 2019-04-16T05:47:42-07:00

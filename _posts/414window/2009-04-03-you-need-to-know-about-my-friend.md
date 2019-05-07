@@ -4,6 +4,7 @@ title: "You Need to Know About My Friend"
 date: 2009-04-03
 category: 414window
 author: John Armstrong
+status: published
 lang: en
 updated_on: 2019-05-01T16:35:06-07:00
 uploaded_on: 2019-05-01T16:35:06-07:00

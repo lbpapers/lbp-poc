@@ -4,6 +4,7 @@ title: "Lausanne Manila Manifesto"
 date: 1989-07-20
 category: ad2000
 author: John Stott
+status: published
 lang: en
 updated_on: 2019-05-01T15:58:29-07:00
 uploaded_on: 2019-05-01T15:58:29-07:00

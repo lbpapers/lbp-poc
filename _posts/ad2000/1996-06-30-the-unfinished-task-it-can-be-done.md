@@ -4,6 +4,7 @@ title: "The Unfinished Task, It Can be Done"
 date: 1996-06-30
 category: ad2000
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-05-01T15:57:43-07:00
 uploaded_on: 2019-05-01T15:57:43-07:00

@@ -4,6 +4,7 @@ title: "Abiding Principles - Mission as Transformation"
 date: 2013-03-20
 category: tw2020
 author: Luis Bush
+status: published
 lang: en
 updated_on: 2019-05-01T15:33:04-07:00
 uploaded_on: 2019-05-01T15:33:04-07:00

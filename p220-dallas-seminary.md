@@ -6,7 +6,7 @@ nav_order: 220
 ---
 <h1 class="category-title">Dallas Theological Seminary</h1>
 
-{% assign category = 'dts' %}{% assign total_documents = site.posts | where: "categories", category | where_exp: "status", "post.status != wip" | size %}{% if total_documents == 0 %}
+{% assign category = 'dts' %}{% assign total_documents = site.posts | where: "categories", category | where_exp: "status", "post.status == published" | size %}{% if total_documents == 0 %}
   <figure style="position: fixed; top: 20%; left: 50%; margin-left: -250px; width: 400px;">
     <img src="{{ site.baseurl }}/assets/images/luis-and-doris-300px.png" style="display: block; margin: auto"><br>
     <img src="{{ site.baseurl }}/assets/images/staytuned.png" style="display: block; margin: auto">
@@ -16,7 +16,7 @@ nav_order: 220
 
   <div class="article-container">
   {% assign category_posts = site.posts | where: "categories", category %}
-   {% assign sorted_posts = category_posts | sort: 'title' %}{% for post in sorted_posts %}{% if post.status != 'wip' %}
+   {% assign sorted_posts = category_posts | sort: 'title' %}{% for post in sorted_posts %}{% if post.status == 'published' %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">
