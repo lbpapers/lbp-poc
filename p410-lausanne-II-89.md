@@ -14,8 +14,8 @@ nav_order: 400
   </figure>
 {% else %}
   <div class="article-container">
-  {% assign posts = site.posts | where: "categories", category %}
-   {% assign sorted_posts = site.posts | sort: 'title' %}{% for post in sorted_posts %}
+  {% assign category_posts = site.posts | where: "categories", category %}
+   {% assign sorted_posts = category_posts | sort: 'title' %}{% for post in sorted_posts %}
       <p>Description</p>
 
       <div class="article-list">

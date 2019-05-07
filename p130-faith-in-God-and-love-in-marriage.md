@@ -15,8 +15,8 @@ nav_order: 130
   <p>Description</p>
 
   <div class="article-container">
-  {% assign posts = site.posts | where: "categories", category %}
-   {% assign sorted_posts = site.posts | sort: 'title' %}{% for post in sorted_posts %}
+  {% assign category_posts = site.posts | where: "categories", category %}
+   {% assign sorted_posts = category_posts | sort: 'title' %}{% for post in sorted_posts %}
       <div class="article-list">
         <div class="article-category"></div>
         <div class="article-summary">
