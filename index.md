@@ -18,7 +18,10 @@ search_exclude: true
 <div class="article-container">
   {% assign sorted_posts = site.posts | sort: 'title' %}{% for post in sorted_posts %}
     <div class="article-list">
-      <div class="article-category">{% for cat-label in site.data.category-labels %}{% if cat-label.name == post.category %}<strong>{{ cat-label.label }}</strong>{% endif %}{% endfor %}</div>
+      <div class="article-category">
+        {% if post.lang != 'en' %}{% for language in site.data.language-labels %}{% if language.name == post.lang %}<div class="language-indicator">{{language.label}}</div>{% endif %}{% endfor %}{% endif %}
+        {% for cat-label in site.data.category-labels %}{% if cat-label.name == post.category %}<strong>{{ cat-label.label }}</strong>{% endif %}{% endfor %}
+      </div>
       <div class="article-summary">
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
         <figure class="author-date">
