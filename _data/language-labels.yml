@@ -1,0 +1,17 @@
+- name: en
+  label: English
+
+- name: es
+  label: Español
+
+- name: kr
+  label: 한국어
+
+- name: cn
+  label: 中文简体
+
+- name: tw
+  label: 中文繁體
+
+- name: pt
+  label: Português
