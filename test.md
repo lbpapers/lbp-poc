@@ -16,3 +16,9 @@ nav_exclude: true
   {% endfor %}
 </ul>
 <p>calvin kim</p>
+
+<P>
+{% for post in site.html_pages %}
+{{post.url | remove: "/"}}: "{{post.title}}"<br>
+{% endfor %}
+</p>

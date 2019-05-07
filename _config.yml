@@ -36,7 +36,6 @@ permalink: pretty
 search_enabled: true
 color_scheme: nil   # or dark
 
-
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 #ga_tracking: ____UA-2709176-10

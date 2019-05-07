@@ -1,0 +1,68 @@
+- name: 1040window
+  label: "10/40 Window"
+
+- name: 414window
+  label: "4/14 Window"
+
+- name: ad2000
+  label: "AD2000 Movement"
+
+- name: call-to-san-salvador
+  label: "Call to San Salvador"
+
+- name: ciu
+  label: "Cornerstone International University"
+
+- name: comibam
+  label: "COMIBAM"
+
+- name: dts
+  label: "Dallas Theological Seminary"
+
+- name: education-and-expectations
+  label: "Education and Expectations"
+
+- name: faith-in-God-and-love-in-marriage
+  label: "Faith in God and Love in Marriage"
+
+- name: family-and-heritage
+  label: "Family and Heritage"
+
+- name: gcowe
+  label: "GCOWE '95 and '97"
+
+- name: iglesia-nazaret-san-salvador
+  label: "Iglesia Nazaret, San Salvador"
+
+- name: joshua-project
+  label: "Joshua Project"
+
+- name: lausanne-II-89
+  label: "Lausanne II '89"
+
+- name: mision84
+  label: "Mision 84"
+
+- name: newsletters
+  label: "Newsletters"
+
+- name: partners-international
+  label: "Partners International"
+
+- name: plan-pampano
+  label: "Plan Pampano"
+
+- name: tw2020
+  label: "Transform World 2020"
+
+- name: tw-connections
+  label: "TW Connections"
+
+- name: world-inquiry
+  label: "World Inquiry"
+
+- name: yes-effect
+  label: "Yes Effect"
+
+- name: young-couple-in-chicago
+  label: "Young Couple in Chicago"

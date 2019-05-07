@@ -18,11 +18,11 @@ search_exclude: true
 <div class="article-container">
   {% assign sorted_posts = site.posts | sort: 'title' %}{% for post in sorted_posts %}
     <div class="article-list">
-      <div class="article-category">{{ post.category }}</div>
+      <div class="article-category">{% for cat-label in site.data.category-labels %}{% if cat-label.name == post.category %}{{ cat-label.label }}{% endif %}{% endfor %}</div>
       <div class="article-summary">
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
-        <div class="author">Author: {{ post.author }}</div>
-        <div class="publication-date">Publication Date: <time datetime="{{post.date | date: '%F'}}">{{post.date | date: '%B %d, %Y'}}</time></div>
+        <div class="author">{{ post.author }}</div>
+        <div class="publication-date"><time datetime="{{post.date | date: '%F'}}">{{post.date | date: '%B %d, %Y'}}</time></div>
         <div class="excerpt">{{post.excerpt | strip_html | truncatewords:55 }}</div>
       </div>
     </div>
