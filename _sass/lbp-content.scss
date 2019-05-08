@@ -86,14 +86,50 @@
           right: -24px;
           width: 100px;
           text-align: center;
-          font-size: 70%;
-          background-color: #000050;
-          color: white;
           margin: 0;
           padding: 2em 0 0 1em;
           -ms-transform: rotate(35deg); /* IE 9 */
           -webkit-transform: rotate(35deg); /* Safari 3-8 */
           transform: rotate(35deg);
+        }
+
+        > div.lang-en{
+          font-size: 70%;
+          background-color: #000050;
+          color: white;
+        }
+
+        > div.lang-es{
+          font-size: 70%;
+          background-color: #ffc400;
+          color: black;
+        }
+
+        > div.lang-pt{
+          font-size: 70%;
+          background-color: #006600;
+          color: white;
+        }
+
+        > div.lang-kr{
+          font-size: 70%;
+          background-color: #0047a0;
+          color: white;
+          font-family: 'Nanum Gothic', Arial, sans-serif;
+        }
+
+        > div.lang-cn{
+          font-size: 70%;
+          background-color: #df1b12;
+          color: white;
+          font-family: Arial, Helvetica, tahoma, verdana, 'Noto Sans SC', 宋体, SimSun, 华文细黑, STXihei, sans-serif;
+        }
+
+        > div.lang-tw{
+          font-size: 70%;
+          background-color: #000097;
+          color: white;
+          font-family: Arial, Helvetica, tahoma, verdana, 'Noto Sans TC', '宋體', SimSun, sans-serif;
         }
 
       }

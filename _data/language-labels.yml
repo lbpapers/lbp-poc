@@ -1,29 +1,23 @@
 - name: en
   label: English
-  color: "#ffffff"
-  background-color: "#000050"
+  css-label: lang-en
 
 - name: es
   label: Español
-  color: "#ffffff"
-  background-color: "#000050"
+  css-label: lang-es
 
 - name: kr
   label: 한국어
-  color: "#000000"
-  background-color: "#ffffff"
+  css-label: lang-kr
 
 - name: cn
   label: 中文简体
-  color: "#ffffff"
-  background-color: "#000050"
+  css-label: lang-cn
 
 - name: tw
   label: 中文繁體
-  color: "#ffffff"
-  background-color: "#000050"
+  css-label: lang-tw
 
 - name: pt
   label: Português
-  color: "#ffffff"
-  background-color: "#000050"
+  css-label: lang-pt
