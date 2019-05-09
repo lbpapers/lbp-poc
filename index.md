@@ -16,10 +16,10 @@ search_exclude: true
 <h4>Please bear in mind this site is still work in progress</h4>
 <p>If you have any question, please email at <a href="mailto:email@luisbushpapers.com">email@luisbushpapers.com</a></p>
 <div class="article-container">
-  {% assign sorted_posts = site.posts | sort: 'title' %}{% for post in sorted_posts %}
+  {% assign sorted_posts = site.posts | sort: 'title' %}{% for post in sorted_posts %}{% if post.status == 'published' %}
     <div class="article-list">
       <div class="article-category">
-        {% if post.lang != 'en' %}{% for language in site.data.language-labels %}{% if language.name == post.lang %}<div class="language-indicator">{{language.label}}</div>{% endif %}{% endfor %}{% endif %}
+        {% if post.lang != 'en' %}{% for language in site.data.language-labels %}{% if language.name == post.lang %}<div class="language-indicator {{language.css-label}}">{{language.label}}</div>{% endif %}{% endfor %}{% endif %}
         {% for cat-label in site.data.category-labels %}{% if cat-label.name == post.category %}<strong>{{ cat-label.label }}</strong>{% endif %}{% endfor %}
       </div>
       <div class="article-summary">
@@ -31,5 +31,5 @@ search_exclude: true
         <div class="excerpt">{{post.excerpt | strip_html | truncatewords:55 }}</div>
       </div>
     </div>
-  {% endfor %}
+  {% endif %}{% endfor %}
 </div>
