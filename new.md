@@ -15,7 +15,7 @@ updated_since: 2019-05-03T12:45:11-07:00
     {% if post.updated_on > page.updated_since and post.status != 'wip' %}
       <div class="article-list">
         <div class="article-category">
-          {% if post.lang != 'en' %}{% for language in site.data.language-labels %}{% if language.name == post.lang %}<div class="language-indicator">{{language.label}}</div>{% endif %}{% endfor %}{% endif %}
+          {% if post.lang != 'en' %}{% for language in site.data.language-labels %}{% if language.name == post.lang %}<div class="language-indicator {{language.css-label}}">{{language.label}}</div>{% endif %}{% endfor %}{% endif %}
           {% for cat-label in site.data.category-labels %}{% if cat-label.name == post.category %}<strong>{{ cat-label.label }}</strong>{% endif %}{% endfor %}
         </div>
         <div class="article-summary">
