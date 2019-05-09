@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Luz Para Las Naciones"
+title: "COMIBAM '87 Ponencia: Luz Para Las Naciones"
 date: 1987-11-29
 category: comibam
 lang: es
