@@ -6,12 +6,15 @@ category: gcowe
 author: Darrell Dorr
 status: published
 lang: en
-updated_on: 2019-05-01T15:55:31-07:00
+updated_on: 2019-05-10T06:33:41-07:00
 uploaded_on: 2019-05-01T15:55:31-07:00
 excerpt: With a flurry of new materials and a last-minute surprise, a global consultation advances the frontier missions movement. Expectations were high as 314 mission leaders from 50 countries descended on Singapore’s Amara Hotel during the first week of 1989. But if these participants in the Global Consultation on World Evangelization by AD 2000 and Beyond had high hopes, it was because consultation organizers and promoters had set the pace. David Barrett, editor of the World Christian Encyclopedia and Anglican missions researcher, had heralded the momentum leading up to the consultation as an accelerating “global evangelization movement.”
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Pressing Forward to AD 2000</h1>
+
+<h4>Darrell Dorr</h4>
+
 <p>With a flurry of new materials and a last-minute surprise, a global consultation advances the frontier missions movement</p>
 
 <p>Expectations were high as 314 mission leaders from 50 countries descended on Singapore’s Amara Hotel during the first week of 1989. But if these participants in the Global Consultation on World Evangelization by AD 2000 and Beyond had high hopes, it was because consultation organizers and promoters had set the pace. David Barrett, editor of the World Christian Encyclopedia and Anglican missions researcher, had heralded the momentum leading up to the consultation as an accelerating “global evangelization movement.” Panya Baba, director of the Evangelical Missionary Society in Nigeria and a member of the consultation’s program committee, declared, “What we are witnessing today as the AD 2000 plans start to work together is not an accident. It is the plan of the Holy Spirit.” And Ralph Winter, director of the U.S. Center for World Mission, had written, “Why would I call this the ‘meeting of the century’? Simple. Never before has so broadly-backed a global meeting of mission strategists been proposed for the single purpose of evaluating what could be done specifically by the end of this century—with both the hope and confidence that the task can be finished.”</p>

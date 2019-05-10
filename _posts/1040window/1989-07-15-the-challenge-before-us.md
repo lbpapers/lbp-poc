@@ -115,6 +115,7 @@ excerpt: How can we describe the challenge before us at the Lausanne II Congress
 
 <figure class="resource-links">
   <ul>
+    <li>Download PDF: <a href="{{site.url}}{{ site.baseurl }}/assets/pdf/1989-07-15/The-Challenge-Before-Us-Lasuanne-II-Manila-by-Luis-Bush.pdf">The-Challenge-Before-Us-Lasuanne-II-Manila-by-Luis-Bush.pdf</a></li>
     <li>Article source: <a href="https://www.lausanne.org/content/the-challenge-before-us">https://www.lausanne.org/content/the-challenge-before-us</a></li>
   </ul>
 </figure>

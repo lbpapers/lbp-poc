@@ -2,11 +2,11 @@
 layout: default-newsletters-en
 title: "A New Season of Korean-Hispanic Cooperation for the Sake of a New Generation"
 date: 2012-04-21
-category: newsletters
+category: 414window
 author: Luis Bush
 status: published
 lang: en
-updated_on: 2019-03-21T10:02:40-07:00
+updated_on: 2019-05-10T06:25:17-07:00
 uploaded_on: 2019-03-21T10:02:40-07:00
 excerpt: At the Latin American Regional 4/14 Window Conference held in Atlanta a new season of Korean-Hispanic cooperation is anticipated with the formation of the Korean 4/14 Window Alliance. "This is a historic moment. We are experiencing an uplift in the 4/14 Initiative as a result of the synergy of the Latin Americans and Koreans evidenced by the formation of a Korean 4/14 Window Alliance," said Pastor Nam Soo Kim, host of the first two 4/14 Window Global Summits.
 ---
@@ -33,16 +33,16 @@ excerpt: At the Latin American Regional 4/14 Window Conference held in Atlanta a
 		<p><strong>(1) How to respond to the challenge of violence in Latin America.</strong></p>
 		<img class="maxwidth45 align-left" src="{{ site.baseurl }}/assets/newsletters/images/2012/04/21/LB_English_2.jpg">
 		<p>The nature of the problem of violence and solutions offered by existing models in Latin America was explored by Luis Bush. As violence continues to increase, gangs grow and the average age of recruiting has dropped to more than one half of the entrants being from 12 to 14 years old, for which Luis proposed an intentional proactive preparation for child participation in peace processes throughout Latin America. Kids can make peace as has been well documented in the Majority World. Models of ways and means to prepare children to be peacemakers were presented from programs and projects of servant leaders from throughout Latin America that are highlighted in each of the remaining areas described in this report.</p>
-		<p><a href="http://luisbushpapers.com/newsletters/2012/04/21/una-nueva-temporada-de-cooperacion-a-nivel-regional-de-america-latina/files/Potenciales_Protagonizadores_de_Paz_por_Luis_Bush.pdf">Click here to read more about how to respond to the challenge of violence in Latin America (Spanish)</a><sup>1</sup></p>
+		<p><a href="{{ site.baseurl }}/assets/pdf/2012-04-21/Potenciales_Protagonizadores_de_Paz_por_Luis_Bush.pdf">Click here to read more about how to respond to the challenge of violence in Latin America (Spanish)</a><sup>1</sup></p>
 		<p>Doris Bush spoke on the 4/14 challenge and the local church.<br>
-		<a href="files/The_4_14_Window_Challenge_and_the_Local_Church.pdf">Click here to read more about howto respond to the challenge of violence in Latin America (English)</a><sup>2</sup></p>
+		<a href="{{ site.baseurl }}/assets/pdf/2012-04-21/The_4_14_Window_Challenge_and_the_Local_Church.pdf">Click here to read more about howto respond to the challenge of violence in Latin America (English)</a><sup>2</sup></p>
 		<p><strong>(2) How to develop a Strategic 4/14 Window Plan for a country</strong></p>
 		<img class="maxwidth70 align-right" src="{{ site.baseurl }}/assets/newsletters/images/2012/04/21/LB_Spanish_4.jpg">
 		<p>A delegation from Puerto Rico presented the strategic framework for a country or state 4/14 initiative:<br>
 <strong>Vision:</strong> the primary focus of the church is raising a generation 4/14 to transform the world;<br>
 <strong>Mission:</strong> Mobilizing the body of Christ to invest to reach, equip and mobilize the 4/14 generation and maximize their transformational impact;<br>
 <strong>Networking</strong> for social change: parents and family, government, education, media and technology, and the church.</p>
-		<p><a href="files/Como_Desarrollar_un_Plan_Estrategico_Movimiento_Ventana_4_14_Modelo_Puerto_Rico.1.pdf">Click here to read more about how to develop a Strategic 4/14 Window Plan (Spanish)</a><sup>3</sup></p>
+		<p><a href="{{ site.baseurl }}/assets/pdf/2012-04-21/Como_Desarrollar_un_Plan_Estrategico_Movimiento_Ventana_4_14_Modelo_Puerto_Rico.1.pdf">Click here to read more about how to develop a Strategic 4/14 Window Plan (Spanish)</a><sup>3</sup></p>
 		<img class="maxwidth80 align-center" src="{{ site.baseurl }}/assets/newsletters/images/2012/04/21/LB_English_3.jpg">
 		<p><strong>(3) How to engage the spheres of cultural influence, especially media, education, church and family.</strong></p>
 		<img class="maxwidth25 align-left" src="{{ site.baseurl }}/assets/newsletters/images/2012/04/21/LB_English_4.jpg">
@@ -61,7 +61,7 @@ excerpt: At the Latin American Regional 4/14 Window Conference held in Atlanta a
 		<p><strong>(4)How to conduct camps and intensive courses?</strong></p>
 		<img class="maxwidth42 align-right" src="{{ site.baseurl }}/assets/newsletters/images/2012/04/21/LB_Spanish_118.jpg">
 		<p><em>Transforming Nations-Discipling the 4/14 Generation</em> is is the name given to the curriculum used for an eight day intensive training of 4/14ers usually conducted in a camp setting. Yarley Nino and Lyssette Ruiz developed the curriculum which has already been implemented in camps in Hong Kong, Colombia, Panama,  Nicaragua and Puerto Rico with transformational impact. By understanding the spiritual capacity of children, our ministry completely changed the approach by prioritizing on the discipleship of children, adolescents and youth. <img class="maxwidth42 align-left" src="{{ site.baseurl }}/assets/newsletters/images/2012/04/21/LB_Spanish_19.jpg">One of the most valuable tools to achieve this has been through residential camps using the curriculum that integrates the fundamentals of Christian faith with the biblical worldview and the cultural mandate to go and serve and bring transformation to the spheres of cultural influence that shape a society: family, church, government, media, education, economy, health and science. We hope to continue multiplying in different countries of the world..  (Lyssette Ruiz <a href="mailto:lyssetterd@gmail.com">lyssetterd@gmail.com</a>)</p>
-		<p><a href="files/4_14_Window_Curiculum_by_YWAM_Puerto_Rico.pdf">[Click to receive the English version of the curriculum]</a><sup>4</sup></p>
+		<p><a href="{{ site.baseurl }}/assets/pdf/2012-04-21/4_14_Window_Curiculum_by_YWAM_Puerto_Rico.pdf">[Click to receive the English version of the curriculum]</a><sup>4</sup></p>
 		<p><strong>(5). How do Korean and Hispanic servants of God collaborate to raise up a new generation from the 4/14 Window to transform the world?</strong></p>
 		<img class="maxwidth33 align-right" src="{{ site.baseurl }}/assets/newsletters/images/2012/04/21/LB_Spanish_20.1.jpg">
 		<p><strong>a. Praying for the blessing of God</strong> on their lives, ministry and the shared mission of reaching the new generation.</p>
@@ -94,12 +94,11 @@ excerpt: At the Latin American Regional 4/14 Window Conference held in Atlanta a
 		<h2 id="References">Referencias</h2>
 
 		<ol class="references">
-			<li><a href="http://luisbushpapers.com/newsletters/2012/04/21/una-nueva-temporada-de-cooperacion-a-nivel-regional-de-america-latina/files/Potenciales_Protagonizadores_de_Paz_por_Luis_Bush.pdf">http://luisbushpapers.com/newsletters/2012/04/21/una-nueva-temporada-de-cooperacion-a-nivel-regional-de-america-latina/<br>files/Potenciales_Protagonizadores_de_Paz_por_Luis_Bush.pdf</a></li>
-			<li><a href="http://luisbushpapers.com/newsletters/2012/04/21/new-season-of-korean-hispanic-cooperation-for-the-sake-of-a-new-generation/files/The_4_14_Window_Challenge_and_the_Local_Church.pdf">http://luisbushpapers.com/newsletters/2012/04/21/new-season-of-korean-hispanic-cooperation-for-the-sake-of-a-new-generation/<br>files/The_4_14_Window_Challenge_and_the_Local_Church.pdf</a></li>
-			<li><a href="http://luisbushpapers.com/newsletters/2012/04/21/una-nueva-temporada-de-cooperacion-a-nivel-regional-de-america-latina/files/Como_Desarrollar_un_Plan_Estrategico_Movimiento_Ventana_4_14_Modelo_Puerto_Rico.1.pdf">http://luisbushpapers.com/newsletters/2012/04/21/una-nueva-temporada-de-cooperacion-a-nivel-regional-de-america-latina/<br>files/Como_Desarrollar_un_Plan_Estrategico_Movimiento_Ventana_4_14_Modelo_Puerto_Rico.1.pdf</a></li>
-			<li><a href="http://luisbushpapers.com/newsletters/2012/04/21/new-season-of-korean-hispanic-cooperation-for-the-sake-of-a-new-generation/files/4_14_Window_Curiculum_by_YWAM_Puerto_Rico.pdf">http://luisbushpapers.com/newsletters/2012/04/21/new-season-of-korean-hispanic-cooperation-for-the-sake-of-a-new-generation/<br>files/4_14_Window_Curiculum_by_YWAM_Puerto_Rico.pdf</a></li>
+			<li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2012-04-21/Potenciales_Protagonizadores_de_Paz_por_Luis_Bush.pdf">{{ site.url }}{{ site.baseurl }}/assets/pdf/2012-04-21/Potenciales_Protagonizadores_de_Paz_por_Luis_Bush.pdf</a></li>
+			<li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2012-04-21/The_4_14_Window_Challenge_and_the_Local_Church.pdf">{{ site.url }}{{ site.baseurl }}/assets/pdf/2012-04-21/The_4_14_Window_Challenge_and_the_Local_Church.pdf</a></li>
+			<li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2012-04-21/Como_Desarrollar_un_Plan_Estrategico_Movimiento_Ventana_4_14_Modelo_Puerto_Rico.1.pdf">{{ site.url }}{{ site.baseurl }}/assets/pdf/2012-04-21/Como_Desarrollar_un_Plan_Estrategico_Movimiento_Ventana_4_14_Modelo_Puerto_Rico.1.pdf</a></li>
+			<li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2012-04-21/4_14_Window_Curiculum_by_YWAM_Puerto_Rico.pdf">{{ site.url }}{{ site.baseurl }}/assets/pdf/2012-04-21/4_14_Window_Curiculum_by_YWAM_Puerto_Rico.pdf</a></li>
 		</ol>
 	</article>
-	{% include newsletter-footer-en.html %}
 </div>
 </article>
