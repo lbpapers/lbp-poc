@@ -8,7 +8,6 @@ updated_on: 2019-05-07T11:56:53-07:00
 ---
 <h1 style="border-top: 1px solid grey; margin-top: 2em; padding-top: 1em;">Work in Progress</h1>
 <h4><strong>Documents in this section are not part of main, and should not be shared outside of working group.</strong></h4>
-<p>Latest update on {{ page.updated_on | date: '%B %d, %Y %T %Z' }}
 <p>If you have any question, please email at <a href="mailto:email@luisbushpapers.com">email@luisbushpapers.com</a></p>
 
 <div class="article-container">

@@ -6,7 +6,7 @@ category: ad2000
 author: Luis Bush
 status: published
 lang: en
-updated_on: 2019-05-01T15:58:34-07:00
+updated_on: 2019-05-10T04:55:47-07:00
 uploaded_on: 2019-05-01T15:58:34-07:00
 excerpt: We, the 314 participants from 50 nations gathered for the Global Consultation for World Evangelization by AD 2000 and Beyond, come from many different churches, denominations and ministries under the direction of the Holy Spirit for what we consider to be a singular moment in the history of the Church. We identify ourselves as a gathering of Christians who by faith alone has accepted Jesus Christ, true God and true man, revealed in the infallible and holy Scriptures as our Lord and Savior. We are committed to biblical righteousness in our behavior and to growth in holiness.
 ---
@@ -24,21 +24,21 @@ Singapore</p>
 
 <p>We turn from these sins and failures to express our belief that God has graciously opened to us a window of opportunity to completing the magnificent task He has given us. We boldly seize this crucial moment, more impressed with God's great power than any force arrayed against us.</p>
 
-<p>Cooperation & Partnership</p>
+<h3>Cooperation & Partnership</h3>
 
 <p>We have listened to each other and rejoice at what God is doing through many plans for world evangelization. We learned that there are over 2,000 separate plans relating to world evangelization.</p>
 
 <p>We see afresh that cooperation and partnership are absolute necessities if the Great Commission is going to be fulfilled by the Year 2000. For the sake of those who are lost and eternally separated from God, we have dared to pray and dream of what might happen if appropriate autonomy of churches and ministries could be balanced with significant partnership.</p>
 
-<p>Empowerment</p>
+<h3>Empowerment</h3>
 
 <p>We acknowledge that the evangelization of the world can be carried out only in the power of the Holy Spirit. Listening and ready, we declare our dependence upon the Holy Spirit and commit to undergird all efforts for world evangelization with personal and corporate prayer. We recognize that human energy cannot replace divine activity nor can spiritual success be measured in terms of human achievement. The effectiveness of our endeavors does not lie in human expertise but in the sovereign activity of the Holy Spirit.</p>
 
-<p>Compassion</p>
+<h3>Compassion</h3>
 
 <p>The Good News of Jesus Christ brings special meaning to suffering humanity. God's love brings hope to those who live under the bondage of sin, and who are victims of poverty and injustice. We believe that Christians involved in world evangelization should live among people as servants and minister to the needs of the whole person.</p>
 
-<p>Towards Fulfillment</p>
+<h3>Towards Fulfillment</h3>
 
 <p>The revelation of God in Christ is plain. The commission to His Church is clear. The unfinished task is apparent. The opportunity to work together is ours.</p>
 
