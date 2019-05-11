@@ -35,7 +35,7 @@ excerpt: It is with great joy and enthusiasm that I welcome you as members of th
 		<p>The Transform World Global Summit 2012 (TW GS 2012) Prospectus draft (link to download) will remain a draft until review and final agreement is made by the communities committed to advocate on behalf of, engage in and collaborate in implementing the agreed upon plans  by challenge, sphere of cultural influence and region in the succeeding seven years to 2020. Following TW GS 2012 the Prospectus will become the Transform World 2020 Handbook.</p>
 		<p>Yours in Christ,</p>
 
-		<p id="author">Luis Bush<br>International Facilitator, Transform World</p>
+		<p class="author">Luis Bush<br>International Facilitator, Transform World</p>
 
 		<h2 id="References">References</h2>
 

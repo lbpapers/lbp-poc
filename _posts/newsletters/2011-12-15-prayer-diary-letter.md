@@ -27,7 +27,7 @@ excerpt: For over thirty years, YWAM Publishing has had the privilege of publish
 	<p>May God bless you and your work for His kingdom in 2012!</p>
 	<p>Sincerely,</p>
 
-	<p id="author">Tom Bragg<br>
+	<p class="author">Tom Bragg<br>
 	Director<br>
 	YWAM Publishing</p>
 

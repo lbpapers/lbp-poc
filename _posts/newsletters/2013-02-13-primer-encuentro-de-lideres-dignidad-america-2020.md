@@ -43,7 +43,7 @@ Bogotá, Colombia, Febrero 4 and 5, 2013</h2>
 		<p>“Dignidad Colombia 2020” fue el nombre que dieron los anfitriones a su proyecto, como inspiración para que todos los cristianos de América declaren principios, hagan planes y creen modelos bajo el lema de “Dignidad América 2020.”  Los colombianos declararon “la Colombia que soñamos” una sociedad justa, tolerante, igualitaria, con evidencia de paz en la que prime la atención de las necesidades del ser humano, cuyos servidores públicos teman a Dios y cuiden del bien común, donde prevalezca la verdad en las acciones públicas y privadas.  Ellos organizaron sus propuestas bajo las rúbricas de una Colombia educadora, agraria, social, basada en la familia y llena de Dios.</p>
 		<p>Hubo deficiencias en el programa, diseñado para 120 participantes pero que tuvo que acomodar 230.  No hubo suficiente espacio de participación y diálogo entre los concurrentes.  Algunos protestaron la pleitesía rendida a las autoridades políticas colombianas, a quienes se les sugirió prácticamente que contarán con el apoyo político del pueblo evangélico.  Y hubo relativamente pocos líderes jóvenes, debido tal vez al alto calibre de líderes que participaron a costo propio.  Esa ausencia fue compensada por una expresión simbólica de desagravio a tres jóvenes líderes presentes que fueron comisionados a llevar adelante la antorcha de la Transformación.</p>
 
-		<p id="author">Informe de José L. González, Semilla</p>
+		<p class="author">Informe de José L. González, Semilla</p>
 
 	</article>
 	{% include newsletter-footer-es.html %}

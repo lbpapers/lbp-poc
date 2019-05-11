@@ -1,23 +1,23 @@
 ---
 layout: default
-title: "Costa Rican Evangelicals Poised for Mission Advance"
+title: "Alcance 2000: Costa Rican Evangelicals Poised for Mission Advance"
 date: 1989-08-01
 category: ad2000
 author: Luis Bush
 status: published
 lang: en
-updated_on: 2019-05-01T15:58:23-07:00
+updated_on: 2019-05-11T03:33:29-07:00
 uploaded_on: 2019-05-01T15:58:23-07:00
 tags: AD2000, "Costa Rica"
 excerpt: In 1989, 20 national and regional consultations have been held around the world focusing in on what can be done in world evangelization by the year 2000 and beyond. Luis Bush gives his first-hand experience of Alcance 2000 held in Costa Rica. Costa Rican evangelicals drew up strategic plans to develop the growing missions’ momentum in this tiny Central American nation at “Alcance 2000,” a mission’s congress held in San Jose, Costa Rica, in August 1989.
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
-<h1>Costa Rican Evangelicals Poised for Mission Advance</h1>
+<h1>Alcance 2000: Costa Rican Evangelicals Poised for Mission Advance</h1>
 <h3>INTERNATIONAL JOURNAL OF FRONTIER MISSIONS, VOL 7:1 JAN 1990</h3>
 
 <p>In 1989, 20 national and regional consultations have been held around the world focusing in on what can be done in world evangelization by the year 2000 and beyond. Luis Bush gives his first-hand experience of Alcance 2000 held in Costa Rica.</p>
 
-<p class="author">by Luis Bush</p>
+<p class="author">Luis Bush</p>
 
 <p>Costa Rican evangelicals drew up strategic plans to develop the growing missions’ momentum in this tiny Central American nation at “Alcance 2000,” a mission’s congress held in San Jose, Costa Rica, in August 1989.</p>
 

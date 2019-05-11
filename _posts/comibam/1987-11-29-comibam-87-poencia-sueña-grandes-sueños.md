@@ -12,7 +12,7 @@ excerpt: "En 1916 America Latina fue declarada campo misionero, en 1987 America 
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Sueña Grandes Sueños</h1>
-<h4>Luis Palau</h4>
+<p class="author">Luis Palau</p>
 
 <p>¡Cuán grandes la vision de tu vida! ¡Alguna vez has pensado en lo que Dios podría hacer en tu generación a través de ti!</p>
 

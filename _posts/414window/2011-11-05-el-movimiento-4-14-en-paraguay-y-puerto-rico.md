@@ -24,7 +24,7 @@ excerpt: El desafío de levantar una nueva generación de comunicadores desde Am
 	    <p>300 pastores y esposas participaron en la sesión de desayuno. En esta foto se ve Doris y José González conversando con el Pastor Nam Soo Kim y el presidente del comité timon de la Ventana 4/14 en Puerto Rico, Angel Esteban Martinez junto a su esposa, Carmen Yadira.</p>
 	    <img class="maxwidth66 align-right" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/05/Desayuno.1.png">
 		<p>Yarley Niño (izquierda)  sirvió como facilitadora para el evento 4/14 en Puerto Rico. Ella dirige JUCUM y Kings Kids en el Caribe, que consiste de 22 países. 700 personas se unieron a la cumbre. Conferencistas incluyeron a Darrow Miller y José González. El video sobre los jóvenes de la ventana 4/14 y la canción, titulada "El Corazón de la Cosecha", profesionalmente producida por John Ray y su equipo fue un éxito inmediato. <img class="maxwidth33 align-left" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/05/with_Yarley.1.jpg">Este video dramáticamente cuenta la historia de los niños que se convierten en seguidores de Cristo, que son discipulados y hacen diferencia en las diferentes esferas de influencia de la sociedad donde se encuentran.</p>
-		<p id="author">Luis and Doris</p>
+		<p class="author">Luis and Doris</p>
 
 		<p><strong>PRAYER POINT:</strong></p>
 		<ul>

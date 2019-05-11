@@ -14,7 +14,7 @@ excerpt: How can we describe the challenge before us at the Lausanne II Congress
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>The Challenge Before Us - Lausanne II Congress</h1>
 
-<h4>Luis Bush</h4>
+<p class="author">Luis Bush</p>
 
 <p>How can we describe the challenge before us at the Lausanne II Congress in Manila? Perhaps it can be described by something we have experienced. This was true for me one day right here in Manila, when I met Andrew. For two years, he had been proclaiming Christ in a community of some seven thousand people who made their living off the garbage dump of Manila.</p>
 

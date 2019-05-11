@@ -12,7 +12,7 @@ excerpt: When we contemplate the challenge of world evangelization by the year 2
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Eight Principles for World Evangelization by the Year 2000</h1>
-<h4>Luis Bush</h4>
+<p class="author">Luis Bush</p>
 
 <p>When we contemplate the challenge of world evangelization by the year 2000 we often think in terms of plans and, strategies and projects. Thomas Wang, International Director for the Lausanne Committee was telling me that up to now at least 400 plans for world evangelization by the year 2000 have been presented. Perhaps more than one more plan or project we need to step back and consider the principles that could result in world evangelization by the year 2000. Thomas Wang asked me to share this with the readers of the Lausanne Communique which I am grateful to do. As I have worked closely with the COMIBAM movement over the last three years these principles have emerged as crucial in that kind of a vision. In addition, these principles are demonstrated in what I perceive as the greatest movement of God's people at any time in history as recorded in the Word of God, commonly known as the Exodus.</p>
 

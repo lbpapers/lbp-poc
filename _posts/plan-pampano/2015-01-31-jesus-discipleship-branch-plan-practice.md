@@ -12,7 +12,7 @@ excerpt: "Jesus' Discipleship Branch Plan for Nurturers, presented in John chapt
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
   <h1>Jesus' Discipleship Branch Plan - Practice</h1>
-  <h4>Luis Bush</h4>
+  <p class="author">Luis Bush</p>
 
   <h3>Introduction:</h3>
 <p>Jesus' Discipleship Branch Plan for Nurturers, presented in John chapter 15:1-17, provides a sound biblical basis for lighting the fires of a disciple making movement by youth nurturing the 4/14ers so that they become God’s agents of mission.</p>

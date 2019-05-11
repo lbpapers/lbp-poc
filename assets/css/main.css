@@ -109,6 +109,13 @@ div.excerpt{
   line-height: 1.5em;
 }
 
+article.document-container p.author{
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 0.1em;
+}
+
 nav h3{
   font-size: 60%;
 }

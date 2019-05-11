@@ -51,7 +51,7 @@ excerpt: It's been almost 10 years since I was in Beijing to meet with a group o
 		</ol>
 		<p>We, participants in this consultation, sensed in the Spirit that this is not only a tipping point in the life of China as a nation but that this is also a tipping point in the life of the Church in China. We sense that God is bringing forth a new stream of the Church in China and the influence of the Church is growing increasingly on the Chinese society.</p>
 
-		<p id="author">Luis Bush</p>
+		<p class="author">Luis Bush</p>
 	</article>
 	{% include newsletter-footer-en.html %}
 </div>

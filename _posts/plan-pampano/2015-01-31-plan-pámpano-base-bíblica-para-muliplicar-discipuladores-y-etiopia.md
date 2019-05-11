@@ -12,7 +12,7 @@ excerpt: "La pregunta ante nosotros es ¿cómo encender el fuego de un movimient
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
   <h1>Plan Pampano - Base para Multiplicar Discipulos y Etiopia</h1>
-  <h4>Luis Bush</h4>
+  <p class="author">Luis Bush</p>
 
 <h3>Introducción:</h3>
 <p>La pregunta ante nosotros es ¿cómo encender el fuego de un movimiento de discipulado para que se conviertan en agentes de misión usado por Dios en sus comunidades y nación?</p>

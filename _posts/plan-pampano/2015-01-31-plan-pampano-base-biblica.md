@@ -12,7 +12,7 @@ excerpt: "El Discipulado de Jesús, Plan Pámpano para los Discípulos, expresad
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
   <h1>Plan Pampano - Base Biblica</h1>
-  <h4>Luis Bush</h4>
+  <p class="author">Luis Bush</p>
 
 <h3>Introducción:</h3>
 

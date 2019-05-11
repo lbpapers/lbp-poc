@@ -12,7 +12,7 @@ excerpt: "Organized by: ACIERA: Christian Alliance of Evangelical Churches in th
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
   <h1>World Inquiry Argentina: The Wind of the Spirit Blows in the Midst of a Secular Storm</h1>
-  <h4>Rino Bello, Hugo Baravalle</h4>
+  <p class="author">Rino Bello, Hugo Baravalle</p>
 
   <p>Organized by: ACIERA: Christian Alliance of Evangelical Churches in the Argentine Republic The World Inquiry was conducted in the cities of Buenos Aires and Rosario by Luis Bush in January 2002 and then facilitated at the Encounter for Pastors for the Evangelization of the Nation (ENPEN) which took place in the city of Mar del Plata April 9 to 12. For two and a half hours Bush, Rino Bello and Jorge Ibarbalz facilitated the World Inquiry among more than 1500 Christian leaders registered for ENPEN who represented the entire country, including the cities, towns and rural areas.</p>
 

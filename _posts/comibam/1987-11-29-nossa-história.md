@@ -12,7 +12,7 @@ excerpt: "A Cooperação Missionária Ibero-americana surgiu do primeiro Congres
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Luz Para Las Naciones</h1>
-<h4>COMBAM Brasil</h4>
+<p class="author">COMBAM Brasil</p>
 
 <p>A Cooperação Missionária Ibero-americana surgiu do primeiro Congresso Missionário Ibero-americano, realizado em São Paulo, Brasil, em 1987.</p>
 

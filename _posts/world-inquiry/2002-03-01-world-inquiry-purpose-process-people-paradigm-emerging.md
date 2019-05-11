@@ -12,7 +12,7 @@ excerpt: "Jesus said to his followers, in reference to God the Father: “Seek f
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
   <h1>World Inquiry Purpose Process People Paradigm Emerging</h1>
-  <h4>Luis Bush</h4>
+  <p class="author">Luis Bush</p>
 
   <p>Jesus said to his followers, in reference to God the Father: “Seek first his kingdom and his righteousness” (Mt. 6:33a). Seeking the Kingdom of God results in personal and cultural transformation which has emerged as a unifying vision for the mission of the Church at the beginning of the twenty-first century. God is on a mission of transformation. A global transformation movement has begun. It's God's movement. This book reports on some of the contributions, the considerations, the context and conclusions regarding transformation as mission.</p>
 

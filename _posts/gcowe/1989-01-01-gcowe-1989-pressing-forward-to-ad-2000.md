@@ -13,7 +13,7 @@ excerpt: With a flurry of new materials and a last-minute surprise, a global con
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Pressing Forward to AD 2000</h1>
 
-<h4>Darrell Dorr</h4>
+<p class="author">Darrell Dorr</p>
 
 <p>With a flurry of new materials and a last-minute surprise, a global consultation advances the frontier missions movement</p>
 

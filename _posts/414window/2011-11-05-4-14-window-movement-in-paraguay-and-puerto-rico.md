@@ -29,7 +29,7 @@ excerpt: The challenge of Raising up a New Generation of Latin American Christia
 		<p>Yarley Nino (far left) served as facilitator for the Puerto Rico 4/14 event. She directs YWAM and Kings Kids in the 22 countries of the Caribbean. 700 people joined the 4/14 Summit. Speakers included Darrow Miller, Jose Gonzalez. <em>Heart of the Harvest </em>4/14 Window video and song by John Ray became an instant hit with participants, young and old.  It tells the story of children becoming Christ followers, being raised up and released into the different spheres of cultural influence in society where they are seen making a difference.</p>
 		<img class="maxwidth33 align-left" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/05/with_Yarley.1.jpg">
 		<p>Thanks for joining us and many in raising up a new generation from the 4/14 Window to transform the world.</p>
-		<p id="author">Luis and Doris</p>
+		<p class="author">Luis and Doris</p>
 
 		<p><strong>PRAYER POINT:</strong></p>
 		<ul>

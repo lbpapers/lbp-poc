@@ -41,7 +41,7 @@ You're invited! Become one of the 100,000 Prayer Gathering Hosts that we are ask
 
 		<p>We encourage you to join us as a Prayer Gathering Host for this historic event!</p>
 
-		<p id="author">Luis Bush</p>
+		<p class="author">Luis Bush</p>
 
 		<h2 id="References">References</h2>
 

@@ -36,7 +36,7 @@ If you have any questions regarding the logistics please review the document TW 
 		<p>Transformation God’s way begins with a sense of crisis and a calling from God. We come together with anticipation that He will show us the way to respond.</p>
 		<p>Yours in Jesus,</p>
 
-		<p id="author">Luis Bush<br>
+		<p class="author">Luis Bush<br>
 		International Facilitator |Transform World</p>
 		<ol class="references">
 			<li>Try to fix broken links above</li>

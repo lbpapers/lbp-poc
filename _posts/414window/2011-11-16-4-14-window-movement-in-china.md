@@ -37,7 +37,7 @@ excerpt: The purpose of the trip to China was to encourage the raising up of a n
     <img class="maxwidth42 align-left" src="{{ site.baseurl }}/assets/newsletters/images/2011/11/16/Luis3.png">
     <p><strong>4/14 Window South China Conference</strong><br>Thirty pastors and church leaders from the Three-Self Church joined 100 House Church leaders and several others from the host city. The facilitator wrote, “It is a new breakthrough to see both house and official leaders coming together for a similar event. It is a new day as most of the major families are represented. It is an amazing meeting.”</p>
     <p>Thanks for joining us and many others in raising up a new generation from the 4/14 Window to transform the world!</p>
-    <p id="author">Luis and Doris</p>
+    <p class="author">Luis and Doris</p>
     <p><strong>PRAYER POINT: PLEASE PRAY</strong></p>
     <ul>
       <li>For the upcoming journey of Doris and Luis November 15 to 30 to Uruguay, Chile, and Argentina to raise up a new generation from the 4/14 Window to transform the world. The trip includes a national 4/14 Conference for 700 pastors and church leaders in Uruguay; a 4/14 Window gathering focused on the seven spheres of cultural influence; the introductory remarks at a debate on the Protection of the Child in Chile</li>

@@ -28,7 +28,7 @@ excerpt: Dios Todopoderoso ha puesto delante de Chuck Colson tres grandes objeti
 		<p>Chuck Colson ha reconocido la necesidad y la oportunidad de centrarse en un largo plazo estratégica cuando escribió lo siguiente. La gran necesidad de nuestros días es el de impulsar un movimiento para equipar a los creyentes para fomentar la transformación cristiana de las mentes, vidas, relaciones, ministerios y esferas de influencia en todo el mundo. ¿Y quién debería estar a la vanguardia de ese movimiento? Los líderes del mañana, los <strong>creyentes de 4 a 14 años</strong> firmemente arraigados en la fe actuando como las manos y los pies de Cristo. Por tanto es más importante que nunca centrar nuestros esfuerzos en alcanzar a esta generación."</p>
 		<p> Hoy día existe una necesidad urgente de renovación de nuestra cultura en los Estados Unidos. La Iglesia ha sido intimidada y silenciada. Tenemos que levantarnos y alzar nuestra voz para romper el silencio. Estamos proponiendo trabajar juntos para lograr la visión como creyentes que servimos en iglesias renovadas para bendición de nuestra comunidad y cultura y el avance del Reino de Dios. Hoy es el día. Este es el momento de también levantar una nueva generación de la <strong>Ventana 4/14</strong> para transformar nuestros países.</p>
 
-		<p id="author">Luis y Doris</p>
+		<p class="author">Luis y Doris</p>
 	</article>
 	{% include newsletter-footer-es.html %}
 </div>

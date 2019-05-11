@@ -65,11 +65,11 @@ Estamos viviendo un momento  crítico en la historia mundial. A medida que las n
 
 		<p> Queremos que te unas a nosotros del 24-27 de marzo, haz click <a href="http://transformworld2020.com.s96484.gridserver.com/host/">aquí</a><sup>6</sup> para registrarte como un anfitrión de reunión de oración.</p>
 
-		<p id="author">Luis Bush<br>
+		<p class="author">Luis Bush<br>
 		<span class="authors-title">Transforma Mundo</span><br>
 		<span class="authors-title">Singapore</span></p>
 
-		<p id="author">Mike Bickle<br>
+		<p class="author">Mike Bickle<br>
 		<span class="authors-title">Casa de Oración Internacional</span><br>
 		<span class="authors-title">Kansas City, Missouri</span></p>
 

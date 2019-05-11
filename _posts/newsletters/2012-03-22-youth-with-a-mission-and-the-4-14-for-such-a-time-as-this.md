@@ -92,7 +92,7 @@ Youth With A Mission (YWAM) is placed in a position and posture to fuel the 4/14
 		<p>Recent President of the Evangelical Fellowship of Mission Agencies, Paul McKaughan, who has served as a member of our accountability/support committee for more than twenty five years made this statement about YWAM in the mid-1990's: "It is probably the most significant seed bed for leadership in the Christian movement today and indeed is the largest long term mission agency in the world.  So many people of vision now in pastorates and other leadership positions have been impacted by and have come out of that ministry. It is this that makes YWAM one of, if not the most influential movement in our Christian world today. The question becomes can they sustain it as they mature in the 21st?" In our view not only have they sustained their momentum but they have surpassed the expectations of years gone by.</p>
 		<p>It is our conviction that prioritizing their missional focus on the 4/14 Window in the next phase of their ministry YWAM will maximize their positive transformational impact in the nations and omega zones of this world.</p>
 
-		<p id="author">Luis and Doris</p>
+		<p class="author">Luis and Doris</p>
 
 		<h2 id="References">References</h2>
 

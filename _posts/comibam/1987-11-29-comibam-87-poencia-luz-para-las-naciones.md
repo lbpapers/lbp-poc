@@ -12,7 +12,7 @@ excerpt: "En 1916 America Latina fue declarada campo misionero, en 1987 America 
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Luz Para Las Naciones</h1>
-<h4>Luis Bush</h4>
+<p class="author">Luis Bush</p>
 
 <h3>Introducción:</h3>
 

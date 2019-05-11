@@ -43,7 +43,7 @@ Bogotá, Colombia, Febrero 4 and 5, 2013</h2>
 		<p>“Dignidad Colombia 2020” the project advanced by the hosts was presented as an inspiration for all to declare principles, make plans and create models under the rubric of “Dignidad América 2020.”  The Colombians declared “The Colombia we dream” to be a “just, tolerant, egalitarian and peaceful” society, where “the care of human needs is primary”, whose public servants fear God and put first the common good, where truth prevails in private and public actions.  They outlined their plans with proposals for a Colombian they described as “educational, agrarian, social, family-centered and under God.”</p>
 		<p>There were some deficiencies in the program, intended for 120 but attended by 230.  There lacked sufficient space for the participation and dialogue among the attendees. Some protested the exaggerated tribute paid to the Colombian authorities, which at times seemed to promise the political support of the evangelical people.  And there were relatively few young leaders, no doubt due to the high level of leadership invited and the fact that they came at their own expense. That absence was compensated by a symbolic expression of repentance carried out before three young leaders, who were commissioned to carry forward the “torch of Transformation.”</p>
 
-		<p id="author">Prepared by José L. González, Semilla</p>
+		<p class="author">Prepared by José L. González, Semilla</p>
 
 	</article>
 	{% include newsletter-footer-en.html %}

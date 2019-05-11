@@ -24,7 +24,7 @@ excerpt: Thank you for taking time to open our news on the Christian Worldview C
 		<p>Thank you so much for your prayers and for your love for Chuck and Patty.</p>
 		<p>Yours in Jesus,</p>
 
-		<p id="author">Luis and Doris</p>
+		<p class="author">Luis and Doris</p>
 
 	</article>
 	{% include newsletter-footer-en.html %}
