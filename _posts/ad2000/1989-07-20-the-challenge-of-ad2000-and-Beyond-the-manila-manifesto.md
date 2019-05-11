@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Challenge of AD 2000 and Beyond: The Manila Manifesto"
+title: "The Challenge of AD2000 and Beyond: The Manila Manifesto"
 date: 1989-07-20
 category: ad2000
 author: John Stott and others

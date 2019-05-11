@@ -9,14 +9,14 @@
 	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 
   <title>{{ page.title }} - {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/css/newsletters.css" | absolute_url }}">
-  <link rel="stylesheet" href="{{ "/assets/css/just-the-docs.css" | absolute_url }}">
-  <link rel="stylesheet" href="{{ "/assets/css/typography.css" | absolute_url }}">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | absolute_url }}">
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/newsletters.css">
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/just-the-docs.css">
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/typography.css">
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/main.css">
   {% if site.search_enabled != nil %}
-  <script type="text/javascript" src="{{ "/assets/js/vendor/lunr.min.js" | absolute_url }}"></script>
+  <script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/assets/js/vendor/lunr.min.js"></script>
   {% endif %}
-  <script type="text/javascript" src="{{ "/assets/js/just-the-docs.js" | absolute_url }}"></script>
+  <script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/assets/js/just-the-docs.js"></script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="msapplication-TileColor" content="#900000">

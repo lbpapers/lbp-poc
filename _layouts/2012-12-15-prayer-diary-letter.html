@@ -1,101 +1,23 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<head>
-	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-	<link rel="manifest" href="/site.webmanifest">
-	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-	<meta name="msapplication-TileColor" content="#da532c">
-	<meta name="theme-color" content="#ffffff">
-
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-
-	<title>{{ page.title }} - {{ site.title }}</title>
-	{% if site.search_enabled != nil %}
-	<script type="text/javascript" src="{{ "/assets/js/vendor/lunr.min.js" | absolute_url }}"></script>
-	{% endif %}
-	<script type="text/javascript" src="{{ "/assets/js/just-the-docs.js" | absolute_url }}"></script>
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Newsletter from Luis Bush">
-	<meta name="author" content="Luis Bush">
-	<link rel="stylesheet" href="{{ "/assets/css/just-the-docs.css" | absolute_url }}">
-	<link rel="stylesheet" href="{{ "/assets/css/newsletters.css" | absolute_url }}">
-	<style>
-			#newsletter{
-					max-width: 700px;
-					position: relative;
-					overflow: hidden;
-			}
-
-			aside{
-					max-width: 60px;
-					height: 100%;
-					position: absolute;
-					left: 0px;
-					background-color: #26ABE2;
-					padding: 10px;
-			}
-
-			aside > img{
-					max-width: 40px;
-			}
-
-			header{
-					margin-left: 60px;
-					padding-left: 20px;
-					background-color: white;
-					padding-bottom: 1em;
-			}
-
-			article{
-					margin-left: 60px;
-			}
-
-			@media only screen and (max-width: 600px){
-				 #newsletter{
-						max-width: 600px;
-						padding: 0px;
-				}
-
-				aside{
-						max-width: 40px;
-						padding: 5px;
-				}
-
-				aside > img{
-						max-width: 20px;
-				}
-
-				header{
-						margin-left: 20px;
-				}
-
-				article{
-						margin-left: 20px;
-				}
-			}
-	</style>
-</head>
+{% include 2012-12-15-newsletter-head.html %}
 <body>
 	<div class="page-wrap">
     <div class="side-bar">
-      <a href="{{ site.url }}{{ site.baseurl }}" class="site-title fs-6 lh-tight">{{ site.title }}</a>
-      <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></s
-pan>
+      <a href="{{ site.url }}{{ site.baseurl }}/" class="site-title fs-6 lh-tight">{{ site.title }}</a>
+      <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
       <div class="navigation main-nav js-main-nav">
         {% include nav.html %}
-      </div>
+        <div>&nbsp;</div>
+			</div>
     </div>
-		<div class="main-content-wrap">
+		<div class="main-content-wrap js-main-content" tabindex="0">
 			<div class="page-header">
 				<div class="main-content">
 					{% if site.search_enabled != nil %}
 					<div class="search js-search">
 						<div class="search-input-wrap">
-							<input type="text" class="js-search-input search-input" placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}" autocomplete="off">
+							<input type="text" class="js-search-input search-input" tabindex="0" placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}" autocomplete="off">
 							<svg width="14" height="14" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="search-icon"><title>Search</title><g fill-rule="nonzero"><path d="M17.332 20.735c-5.537 0-10-4.6-10-10.247 0-5.646 4.463-10.247 10-10.247 5.536 0 10 4.601 10 10.247s-4.464 10.247-10 10.247zm0-4c3.3 0 6-2.783 6-6.247 0-3.463-2.7-6.247-6-6.247s-6 2.784-6 6.247c0 3.464 2.7 6.247 6 6.247z"/><path d="M11.672 13.791L.192 25.271 3.02 28.1 14.5 16.62z"/></g></svg>
 						</div>
 						<div class="js-search-results search-results-wrap"></div>
@@ -111,25 +33,26 @@ pan>
 				</div>
 			</div>
 			<div class="main-content">
-			{% unless page.url == "/" %}
-				{% if page.parent %}
-					<nav class="breadcrumb-nav">
-						<ol class="breadcrumb-nav-list">
-							{% if page.grand_parent %}
-								<li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.grand_parent }}</a></li>
-								<li class="breadcrumb-nav-list-item"><a href="{{ second_level_url }}">{{ page.parent }}</a></li>
-							{% else %}
-								<li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.parent }}</a></li>
-							{% endif %}
-							<li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
-						</ol>
-					</nav>
-				{% endif %}
-			{% endunless %}
-				<div class="page-content">
+				{% unless page.url == "/" %}
+					{% if page.parent %}
+						<nav class="breadcrumb-nav">
+							<ol class="breadcrumb-nav-list">
+								{% if page.grand_parent %}
+									<li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.grand_parent }}</a></li>
+									<li class="breadcrumb-nav-list-item"><a href="{{ second_level_url }}">{{ page.parent }}</a></li>
+								{% else %}
+									<li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.parent }}</a></li>
+								{% endif %}
+								<li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
+							</ol>
+						</nav>
+					{% endif %}
+				{% endunless %}
+				<div id="main-content" class="page-content" role="main">
 					{{ content }}
 				</div>
 			</div>
 		</div>
 	</div>
+</body>
 </html>

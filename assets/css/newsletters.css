@@ -150,20 +150,6 @@
         padding-bottom: 0.17em;
 }
 
-#newsletter h3, .h3{
-        color: #202020;
-        display: block;
-        font-family: Georgia;
-        font-size: 14px;
-        font-weight: normal;
-        line-height: 100%;
-        margin-top: 0px;
-        margin-right: 0px;
-        margin-bottom: 10px;
-        margin-left: 0px;
-        text-align: left;
-}
-
 #newsletter h4, .h4{
         color: #202020;
         display: block;
@@ -186,20 +172,6 @@
 
 #newsletter #first-paragraph{
         margin-top: 40px;
-}
-
-#newsletter #author{
-        margin-top: 20px;
-        margin-bottom: 20px;
-        font-weight: bold;
-        font-style: italic;
-}
-
-#newsletter .author{
-        margin-top: 20px;
-        margin-bottom: 20px;
-        font-weight: bold;
-        font-style: italic;
 }
 
 #newsletter .authors-title{
