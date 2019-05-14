@@ -16,21 +16,21 @@ excerpt: "En 1916 America Latina fue declarada campo misionero, en 1987 America 
 
 <h3>Introducción:</h3>
 
-<p>En 1916 America Latina fue declarada campo misionero, en 1987 America Latina se declara cuerpo misionero. En 1918 misionerosforáneosse reunieron para consultar la forma de enviar misioneros a America Latina. En1987 misioneros nacionales se reúnen para consultar sabre coma enviar misioneros desde America Latina.</p>
+<p>En 1916 America Latina fue declarada campo misionero, en 1987 America Latina se declara cuerpo misionero. En 1918 misionerosforáneosse reunieron para consultar la forma de enviar misioneros a America Latina. En 1987 misioneros nacionales se reúnen para consultar sabre coma enviar misioneros desde America Latina.</p>
 
 <p>Jesucristo dijo 'Vosotros sois la luz del mundo". Samas llamados para nuestro amo, maestro y Señor para que seamos luz a las naciones del mundo. Este es el lema para COMIBAM 87: "LUZ PARA LAS NACIONES".</p>
 
-<p>Cristóbal Colon, después de navegar varios días, presionado para las marineras de la Nina, la Pinta y la Santa Maria para regresar a España, agoto su denuedo humano. Estaba para volver, cuando en la noche oscura, aparece una luz que le da fe para seguir adelante. Paco después viene el grito que todos esperaban: "iTierra! ¡tierra!"</p>
+<p>Cristóbal Colon, después de navegar varios días, presionado para las marineras de la Nina, la Pinta y la Santa Maria para regresar a España, agoto su denuedo humano. Estaba para volver, cuando en la noche oscura, aparece una luz que le da fe para seguir adelante. Paco después viene el grito que todos esperaban: "¡Tierra! ¡tierra!"</p>
 
-<p>Casi 500 años después,el Pueblo de Dios de esos países,miran la luz de la Palabra de Dios y del Espíritu Santo y claman:"iLas naciones! ¡Las naciones!"</p>
+<p>Casi 500 años después, el Pueblo de Dios de esos países, miran la luz de la Palabra de Dios y del Espíritu Santo y claman: "¡Las naciones! ¡Las naciones!"</p>
 
-<p>En Italia se prepara las Colombiadas y en España Sevilla '92. Este último es para celebrar las 500 arias de enlace Ibero-Latino, con diplomáticos, artistas y comerciantes de los países de la península lbera y de los países latinoamericanos. En COMIBAM'87 anticipamos 500añosycelebramos un encuentro enfocadoen un mismo Señor, Jesucristo; una misma fe evangélica cristiana y una misma vision de ser luz para las naciones.</p>
+<p>En Italia se prepara las Colombiadas y en España Sevilla '92. Este último es para celebrar las 500 arias de enlace Ibero-Latino, con diplomáticos, artistas y comerciantes de los países de la península lbera y de los países latinoamericanos. En COMIBAM '87 anticipamos 500 años y celebramos un encuentro enfocado en un mismo Señor, Jesucristo; una misma fe evangélica cristiana y una misma vision de ser luz para las naciones.</p>
 
 <p>En 1493, Cristóbal Colon fue consultado par las poderosas de su dia y resultó la famosa "raya" dibujada sabre un mapa de las Americas. Según ellos, todo lo que estaba al occidente de aquella raya pertenecía a España, y lo del oriente era de Portugal. Hoy, tanto las Hispanos de las Americas come los de habla Portuguesa de Brasil, nos reunimos con las de España y Portugal come un solo cuerpo. Congregados coma Cuerpo de Jesucristo, para consultar sabre como implementar el mandate de Cristo de ser luz a las naciones.</p>
 
 <p>¿No venirnos a COMIBAM para preguntar “si’ o “no”, sine para preguntar Como? cómo hacer para ser luz para las naciones?</p>
 
-<p>Señor, reunidos aquí en Sao Paulo, muéstranos tu Palabra, por tu Espíritu y por el consejo de muchos que te aman, como es que podemos cumplir con tu llamado a ser luz para las naciones. Señor, estamos dispuestos. Henos aquí para hacertu voluntad, a pesar de algunos cambios que tendríamos que hacer. Cambios de actitudes, reordenamiento de nuestras prioridades, ajustes en nuestras actividades eclesiásticas, aunque esto implique cambios en nuestra mentalidad.</p>
+<p>Señor, reunidos aquí en Sao Paulo, muéstranos tu Palabra, por tu Espíritu y por el consejo de muchos que te aman, como es que podemos cumplir con tu llamado a ser luz para las naciones. Señor, estamos dispuestos. Henos aquí para hacer tu voluntad, a pesar de algunos cambios que tendríamos que hacer. Cambios de actitudes, reordenamiento de nuestras prioridades, ajustes en nuestras actividades eclesiásticas, aunque esto implique cambios en nuestra mentalidad.</p>
 
 <p>lsaias 49:1-3, 5-6.</p>
 
@@ -38,25 +38,25 @@ excerpt: "En 1916 America Latina fue declarada campo misionero, en 1987 America 
 
 <h3>1. ¿A Quién está hecho el llamado de ser luz para las naciones?</h3>
 
-<p>El pasaje en Isaías 49 enfatiza más que nada a quien se dirige el llamamiento de serluz para las naciones. Es para aquel quien es:</p>
+<p>El pasaje en Isaías 49 enfatiza más que nada a quien se dirige el llamamiento de ser luz para las naciones. Es para aquel quien es:</p>
 <ul>
-  <li>llamado desde elvientre,</li>
-  <li>nombrado por elSeñor,</li>
+  <li>llamado desde el vientre,</li>
+  <li>nombrado por el Señor,</li>
   <li>cubierto con la sombra de su mano,</li>
-  <li>puesto por saetabruñida,</li>
-  <li>guardado en sualjaba,</li>
+  <li>puesto por saeta bruñida,</li>
+  <li>guardado en su aljaba,</li>
   <li>dicho por Dios: "Misiervo erestú"</li>
-  <li>en quien Dios segloriará.</li>
+  <li>en quien Dios se gloriará.</li>
 </ul>
-<p>Dios ha comisionado a supueblo. Es aquelqueélconsiderasersiervo: "Pocoes paramí que tu seas mi siervo" (Is. 49:6).</p>
+<p>Dios ha comisionado a su pueblo. Es aquel que él considera ser siervo: "Poco es para mí que tu seas mi siervo" (Is. 49:6).</p>
 
-<p>Encada generaciónDiosentrega laantorcha aaquelpueblo quedebecumplir consu mandatedeserluz para las naciones. En este texto es Israel, pueblo de Dios, siervo de Dios a quien fue entregada la antorcha. "...te di para serluz para las naciones." Te di la antorcha encendida. Pero esta antorcha paso de las manos de Israel a Jesucristo, quien admitió ser elsiervo profetizado por el mismo Isaías en los capítulos 42 al 57 cuandodijo: ''Yo soy la Luz delmundo".</p>
+<p>En cada generación Dios entrega la antorcha a aquel pueblo que debe cumplir con su mandate de ser luz para las naciones. En este texto es Israel, pueblo de Dios, siervo de Dios a quien fue entregada la antorcha. "...te di para ser luz para las naciones." Te di la antorcha encendida. Pero esta antorcha paso de las manos de Israel a Jesucristo, quien admitió ser el siervo profetizado por el mismo Isaías en los capítulos 42 al 57 cuando dijo: ''Yo soy la Luz del mundo".</p>
 
-<p>Luego Cristo entrego aquella antorcha a sus discípulos, diciéndoles: 'Vosotros sois la luz del mundo." "Me seréis testigo en de la tierra." Jerusalén,entodaJudea,enSamariayhastaloultimo</p>
+<p>Luego Cristo entrego aquella antorcha a sus discípulos, diciéndoles: 'Vosotros sois la luz del mundo." "Me seréis testigo en de la tierra." Jerusalén, en toda Judea, en Samaria y hasta lo ultimo</p>
 
-<p>Después, la antorcha fue entregada a la Iglesia del Señor (Hechos 13:47) para que se convirtiera en el Pueblo del Señor, elsiervodelsaias49:6,dadoporDiosaserluzpara las naciones.</p>
+<p>Después, la antorcha fue entregada a la Iglesia del Señor (Hechos 13:47) para que se convirtiera en el Pueblo del Señor, el siervo de lsaias 49:6, dado por Dios a ser luz para las naciones.</p>
 
-<p>La antorcha dela iglesianaciente enelmediaoriente fue pasado a la Iglesiade Europa, y se podríadecirque en las últimas 100 alias paso a los norteamericanos. Ahora, desde 1980, el ano en que el número de evangélicoseneltercermundofueigualalnúmerode lasevangélicosdelospaísesnoratlánticos;principioa pasar a los países tercermundistas. Estamos entrando en una nueva era de misiones. Ya el porcentaje de evangélicos en el tercer mundo creció del 50% de todoslos evangélicos en el mundo en·1980 a 66% en 1985, apenas cinco alias después. El aumento de misioneros de America Latina, África, y Asia surge; rápidamente. A este ritmo de crecimiento, en el año 2000 ·serán 67,000misioneros de los países Asiáticos, sin contar los de África y America Latina. Es nuestro tumo de tomar aquella antorcha.</p>
+<p>La antorcha de la iglesia naciente en el media oriente fue pasado a la Iglesia de Europa, y se podría decir que en las últimas 100 alias paso a los norteamericanos. Ahora, desde 1980, el ano en que el número de evangélicos en el tercer mundo fue igual al número de las evangélicos de los países noratlánticos; principio a pasar a los países tercermundistas. Estamos entrando en una nueva era de misiones. Ya el porcentaje de evangélicos en el tercer mundo creció del 50% de todoslos evangélicos en el mundo en · 1980 a 66% en 1985, apenas cinco alias después. El aumento de misioneros de America Latina, África, y Asia surge; rápidamente. A este ritmo de crecimiento, en el año 2000 · serán 67,000 misioneros de los países Asiáticos, sin contar los de África y America Latina. Es nuestro tumo de tomar aquella antorcha.</p>
 
 <p>En COMIBAM 87, como iberoamericanos, estamos tomando aquella antorcha y diciendo si al Señor: "Señor, estamos dispuestos a ser tu siervo, tu instrumento para llevar aquella antorcha y ser luz para las naciones".</p>
 

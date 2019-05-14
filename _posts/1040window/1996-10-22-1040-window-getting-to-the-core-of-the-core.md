@@ -6,7 +6,7 @@ category: 1040window
 author: Luis Bush
 status: published
 lang: en
-updated_on: 2019-04-25T09:56:44-07:00
+updated_on: 2019-05-14T11:13:00-07:00
 uploaded_on: 2019-04-25T09:56:44-07:00
 excerpt: The core of the unreached people of our world live in a rectangular-shaped window! Often called "The Resistant Belt", the window extends from West Africa to East Asia, from ten degrees north to forty degrees north of the equator. This specific region, which has increasingly become known as The 10/40 Window, encompasses the majority of the world's Muslims, Hindus, and Buddhists -- billions of spiritually impoverished souls.
 ---
@@ -95,7 +95,7 @@ excerpt: The core of the unreached people of our world live in a rectangular-sha
 
 <figure class="resource-links">
   <ul>
-  <li>For more information about what you can do, <a src="{{ site.baseurl }}{% link _posts/1040window/1996-10-22-1040-window-what-you-can-do.md %}">click here.</a></li>
+  <li>For more information about what you can do, <a href="{{ site.baseurl }}{% link _posts/1040window/1996-10-22-1040-window-what-you-can-do.md %}">click here.</a></li>
     <li>Article source: <a href="http://www.ad2000.org/1040broc.htm">http://www.ad2000.org/1040broc.htm</a></li>
   </ul>
 </figure>
