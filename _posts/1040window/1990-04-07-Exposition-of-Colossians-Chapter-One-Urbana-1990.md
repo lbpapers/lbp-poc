@@ -13,7 +13,7 @@ excerpt: "Jesus Christ, Lord of the universe, hope for the world. I discovered t
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>Exposition of Colossians Chapter One, Urbana 1990</h1>
 
-<h4>Luis Bush</h4>
+<p class="author">Luis Bush</p>
 
 <h3>Introduction:</h3>
 <p>Jesus Christ, Lord of the universe, hope for the world. I discovered the meaning of that statement in what has happened in Argentina in recent years. An Argentine citizen, with a British mother and Argentinian father when, the Falkland Island crisis hit, I found myself in a crisis. Serving in a church in El Salvador at the time they were all rooting for Argentina. Knowing of my background they asked me: "Who do you think those islands belong to?" After thinking about it I said: "I think those islands belong to the Lord Jesus Christ. He is the Lord of the universe and the Lord of those Islands."" An Argentinian Nobel prize winner by the name of Borges who tried to capture the significance of the Falkland Islands crisis said it was just like two bald men fighting over a comb.</p>
