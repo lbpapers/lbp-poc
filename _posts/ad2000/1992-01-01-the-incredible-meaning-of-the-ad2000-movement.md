@@ -112,4 +112,10 @@ excerpt: Many people, especially in America, think of missions and world evangel
 <p>The AD 2000 Movement is a dynamic institution tailor made to meet the latest trends in missions. It is tapping into the tremendous surge of interest around the world in giving all people everywhere the opportunity to receive Christ as savior by AD 2000. It is also a movement that is raising up international leadership from dozens of countries. AD 2000 is a unique global mission enterprise motivated and carried forward at the initiative of thousands of people from all over the world who have God's heart to see all peoples reached. These are people who desire to work together to see the job completed more rapidly and easily than if they worked separately. It is important for the western church to take this movement seriously as the third- world begins to take over the leadership of the mission movement to penetrate every people group with the gospel by the year 2000.</p>
 
 <p>But it is still not too late for the church in America to get mobilized into this world-wide movement. Some 170 countries at Lausanne II in 1989 expressed in the final paragraph under the 11th affirmation of the Manila Manifesto -- "We commit ourselves to evangelize the world during the last decade of this millennium. There is nothing magical about the date, yet should we not do our best to reach this goal? Christ commands us to take the gospel to all." And certainly if D.L.Moody were in our midst he would add: "It can be done, it ought to be done, it must be done!"</p>
+
+<figure class="resource-links">
+  <ul>
+  <li>Article source: <a href="http://www.missionfrontiers.org/issue/article/the-ad2000-movement">http://www.missionfrontiers.org/issue/article/the-ad2000-movement</a></li>
+  </ul>
+</figure>
 </article>
