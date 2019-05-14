@@ -8,7 +8,7 @@ status: published
 lang: en
 updated_on: 2019-05-14T15:08:25-07:00
 uploaded_on: 2019-05-14T15:08:21-07:00
-excerpt: This year we celebrate the bicentenary of William Carey who is known as the father of modern day missions. Carey arrived in India in 1792. One hundred years later A.T. Pierson made the statement: At this centenary of William Carey; God's signals flash like lightning and boom like thunder around the sky. By every mightiest argument and most persuasive appeal; by every motive drawn from a world's need and our opportunity; by every open door and loud cry; by every Scripture prophecy and promise, and by every unfolding of Providence, Christ is just now saying to His Church
+excerpt: "This year we celebrate the bicentenary of William Carey who is known as the father of modern day missions. Carey arrived in India in 1792. One hundred years later A.T. Pierson made the statement: At this centenary of William Carey; God's signals flash like lightning and boom like thunder around the sky. By every mightiest argument and most persuasive appeal; by every motive drawn from a world's need and our opportunity; by every open door and loud cry; by every Scripture prophecy and promise, and by every unfolding of Providence, Christ is just now saying to His Church"
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>How Can All Peoples Be Reached By The Year 2000?</h1>
