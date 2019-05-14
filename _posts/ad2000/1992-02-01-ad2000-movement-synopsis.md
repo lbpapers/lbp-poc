@@ -6,7 +6,7 @@ category: ad2000
 author: Rick Wood
 status: published
 lang: en
-updated_on: 2019-05-01T15:57:53-07:00
+updated_on: 2019-05-14T11:50:48-07:00
 uploaded_on: 2019-05-01T15:57:53-07:00
 tags: AD2000
 excerpt: The AD 2000 and Beyond Movement grew out of a desire to respond both to the imperative of the Great Commission and to the unique opportunity to mobilize all of God's people to reach the unreached by the year 2000, as God's people everywhere have established unprecedented faith goals for AD 2000. The intention was to encourage cooperation among existing churches, movements and structures to work together towards this same vision. The expected result was the establishment of a mission-minded church planting movement within every unreached and unevangelized people and city by AD 2000, so that all people might have a valid opportunity to experience the love, truth and saving power of Jesus Christ in fellowship with other believers.
@@ -14,6 +14,11 @@ excerpt: The AD 2000 and Beyond Movement grew out of a desire to respond both to
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>AD2000 Movement Synopsis</h1>
 
+<p class="author">Rick Wood</p>
+
+<figure class="pic-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1992-02-01/AD2000-Movement-Launch-Picture.jpg">
+</figure>
 <p>The AD 2000 and Beyond Movement grew out of a desire to respond both to the imperative of the Great Commission and to the unique opportunity to mobilize all of God's people to reach the unreached by the year 2000, as God's people everywhere have established unprecedented faith goals for AD 2000.</p>
 
 <p>By July 1990, researchers reported more than 2000 evangelization plans focused on the year 2000. One third of these are from the two-thirds-world. With all the interest in the year 2000, it became apparent that the worldwide body of Christ needs to coordinate its efforts for world evangelization.</p>
