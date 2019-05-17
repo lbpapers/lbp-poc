@@ -6,8 +6,8 @@ category: ad2000
 author: Luis Bush
 status: published
 lang: en
-updated_on: 2019-05-16T07:28:41-07:00
-uploaded_on: 2019-05-16T07:28:38-07:00
+updated_on: 2019-05-16T07:45:17-07:00
+uploaded_on: 2019-05-16T07:45:14-07:00
 excerpt:  "Less than two years from now, the Global Consultation on World Evangelization by the Year 2000 and Beyond, GCOWE '95, will be held here in Seoul, Korea. It is only fitting that the Korean church, as host to this event projected to bring together Christian leaders form some 200 countries has become one of the pacesetters in the development of national AD2000 strategies."
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
