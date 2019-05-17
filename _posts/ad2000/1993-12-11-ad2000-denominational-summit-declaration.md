@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "AD2000 Denominational Summit Declaration"
-date: 1993-11-01
+date: 1993-12-11
 category: ad2000
 author: Avery Willis Jr.
 status: published
 lang: en
-updated_on: 2019-05-17T05:20:17-07:00
+updated_on: 2019-05-17T08:22:06-07:00
 uploaded_on: 2019-05-17T05:20:11-07:00
 excerpt:  "Less than two years from now, the Global Consultation on World Evangelization by the Year 2000 and Beyond, GCOWE '95, will be held here in Seoul, Korea. It is only fitting that the Korean church, as host to this event projected to bring together Christian leaders form some 200 countries has become one of the pacesetters in the development of national AD2000 strategies."
 ---
@@ -87,6 +87,8 @@ Vice President, Foreign Mission Board, Southern Baptist Convention
 <figure class="resource-links">
   <ul>
   <li>Article source: <a href="http://www.ad2000.org/gcowe95/denosumm.html">http://www.ad2000.org/gcowe95/denosumm.html</a></li>
+  <li>Download presentation slide: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1993-12-11/AD2K-Denominational-Leaders-Summit.pdf">AD2K-Denominational-Leaders-Summit.pdf</a></li>
+  <li>Download presentation slide: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1993-12-11/AD2K-Denominational-Leaders-Summit.pptx">AD2K-Denominational-Leaders-Summit.pptx</a></li>
   </ul>
 </figure>
 </article>
