@@ -13,7 +13,7 @@ excerpt:  "“The opening of the Muslim world for the gospel,” writes Patrick 
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>GCOWE '95, Global Consultation on World Evangelization by the Year 2000 & Beyond in Seoul, Korea</h1>
 
-<p class="author">Rick Wood</p>
+<p class="author">Luis Bush</p>
 
 <h3>Introduction</h3>
 
