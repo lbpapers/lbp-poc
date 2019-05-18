@@ -3,10 +3,10 @@ layout: default
 title: "GCOWE '95, Global Consultation on World Evangelization by the Year 2000 & Beyond in Seoul, Korea"
 date: 1994-05-01
 category: ad2000
-author: Rick Wood
+author: Luis Bush
 status: published
 lang: en
-updated_on: 2019-05-18T06:45:04-07:00
+updated_on: 2019-05-18T07:29:28-07:00
 uploaded_on: 2019-05-18T06:45:01-07:00
 excerpt:  "“The opening of the Muslim world for the gospel,” writes Patrick Johnstone, “cannot be organized by human effort or stratagems but only by prayer. Our weapons are spiritual, not carnal. Pray for an army of intercessors to be raised up that a breakthrough as decisive and sudden as that in China and the former USSR may also occur in theMuslim world.”"
 ---
@@ -127,7 +127,8 @@ excerpt:  "“The opening of the Muslim world for the gospel,” writes Patrick 
 
 <figure class="resource-links">
   <ul>
-  <li>Download PDF: <a href="http://www.missionfrontiers.org/issue/article/ad-2000-update">http://www.missionfrontiers.org/issue/article/ad-2000-update</a></li>
+  <li>Article source: <a href="http://www.missionfrontiers.org/issue/article/ad-2000-update">http://www.missionfrontiers.org/issue/article/ad-2000-update</a></li>
+  <li>Download PDF: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1994-05-01/GCOWE-95-Global-Consultation-in-Seoul-Korea.pdf">GCOWE-95-Global-Consultation-in-Seoul-Korea.pdf</a></li>
   </ul>
 </figure>
 </article>
