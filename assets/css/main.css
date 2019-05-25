@@ -79,6 +79,7 @@ nav ul.navigation-list li.navigation-list-item{
 
 .introduction{
   max-width: 1000px;
+  padding-bottom: 2em;
 }
 
 .introduction > figure{
