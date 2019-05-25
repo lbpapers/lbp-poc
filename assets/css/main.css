@@ -115,6 +115,12 @@ article.document-container p.author{
   text-transform: uppercase;
   font-weight: 300;
   letter-spacing: 0.1em;
+  line-height: normal;
+}
+
+article.document-container p.author span.author-title{
+  text-transform: none;
+  letter-spacing: normal;
 }
 
 nav h3{
