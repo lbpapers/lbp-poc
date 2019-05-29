@@ -8,7 +8,7 @@ status: published
 lang: en
 updated_on: 2019-05-29T05:45:38-07:00
 uploaded_on: 2019-05-29T05:45:36-07:00
-excerpt: "The Mobilizing New Missionaries Network of the AD 2000 Movement exists to &quot;help the Body of Christ mobilize a new mission force for unreached peoples in our generation.&quot; The focus of the network is to help bring about an international alliance of cooperative national missions movements working to raise up new missionaries. The primary target of the Mobilizing New Missionaries Network is the unreached peoples of the world with their staggering needs for gospel proclamation, church planting, and the establishment of the Kingdom of God in their midst."
+excerpt: "The Mobilizing New Missionaries Network of the AD2000 Movement exists to &quot;help the Body of Christ mobilize a new mission force for unreached peoples in our generation.&quot; The focus of the network is to help bring about an international alliance of cooperative national missions movements working to raise up new missionaries. The primary target of the Mobilizing New Missionaries Network is the unreached peoples of the world with their staggering needs for gospel proclamation, church planting, and the establishment of the Kingdom of God in their midst."
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>GCOWE '95: The Mobilizing New Missionaries Network</h1>
