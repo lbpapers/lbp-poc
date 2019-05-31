@@ -6,7 +6,7 @@ category: ad2000
 author: Luis Bush
 status: published
 lang: en
-updated_on: 2019-05-30T05:21:56-07:00
+updated_on: 2019-05-31T02:35:47-07:00
 uploaded_on: 2019-05-30T05:21:52-07:00
 excerpt: "At the beginning of this decade, researchers reported that more than 2000 different evangelization plans by Christian organizations and denominations focused on the year 2000. The AD2000 & Beyond Movement first gained attention at the international missions conference Lausanne II in Manila in 1989. The Movement then spread rapidly around the globe to help catalyze these evangelism plans that focus on the year 2000."
 ---
@@ -24,7 +24,7 @@ excerpt: "At the beginning of this decade, researchers reported that more than 2
 
 <p>The leaders of the Movement neither predict nor prophesy "closure" by the year 2000. But they are calling the church to face realistically its commission to make disciples of all peoples and to pursue that priority with greater zeal and unity than ever before.</p>
 
-<p>The role of the AD2000 Movement may be capsulized in three C's: Catalyst. The AD2000 & Beyond Movement is a mobilizing entity which endeavors to bring together existing churches, movements and structures in the common goals of evangelism and church planting. Coordinator. The AD2000 & Beyond Movement facilitates cooperative mission efforts while functioning in a coordinating role. Communicator. The AD2000 & Beyond Movement provides a crucial communications link between Christian leaders from every region of the world and from many elements within the body of Christ.</p>
+<p>The role of the AD2000 Movement may be capsulized in three C's: <strong>Catalyst</strong>. The AD2000 & Beyond Movement is a mobilizing entity which endeavors to bring together existing churches, movements and structures in the common goals of evangelism and church planting. <strong>Coordinator</strong>. The AD2000 & Beyond Movement facilitates cooperative mission efforts while functioning in a coordinating role. <strong>Communicator</strong>. The AD2000 & Beyond Movement provides a crucial communications link between Christian leaders from every region of the world and from many elements within the body of Christ.</p>
 
 <p>The structure of the AD2000 & Beyond Movement has four features which give it strength and vitality:</p>
 
@@ -38,11 +38,11 @@ excerpt: "At the beginning of this decade, researchers reported that more than 2
 <figure class="pic-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gcowe95-logo.gif">
 </figure>
-<p>The AD2000 & Beyond Movement sponsored the May 17-25, 1995 Global Consultation on World Evangelization (GCOWE '95). Nearly 4,000 Christian leaders representing 186 countries gathered to formulate evangelism plans focusing on the year 2000. GCOWE '95 probably was attended by people from more countries than any other Christian gathering in the history of the world. More countries were represented than even the 1988 Olympic games, also held in Seoul, which attracted athletes from 160 countries.</p>
+<p>The AD2000 & Beyond Movement sponsored the May 17-25, 1995 <strong>Global Consultation on World Evangelization (GCOWE '95)</strong>. Nearly 4,000 Christian leaders representing 186 countries gathered to formulate evangelism plans focusing on the year 2000. GCOWE '95 probably was attended by people from more countries than any other Christian gathering in the history of the world. More countries were represented than even the 1988 Olympic games, also held in Seoul, which attracted athletes from 160 countries.</p>
 
 <p>GCOWE '95 was a rite of passage for the missionary-sending movements from Asia, Africa and Latin America. For example, three-quarters of the consultation's financing and two-thirds of the delegates were from the non-Western world. A powerful demonstration of a new missionary force took place at the Seoul Olympic Stadium where the consultation delegates joined 70,000 Korean Christian youth of whom 60,000 dedicated themselves in writing to bring about global evangelization in their generation.</p>
 
-<p>For the remaining years of the millennium, the AD2000 & Beyond Movement launched Joshua Project 2000 and National AD2000 Initiatives. Joshua Project 2000 is a global cooperative strategy which has identified 1,739 peoples most needing a church-planting effort. Joshua Project 2000 is bringing together workers to research these peoples, produce prayer profiles, enlist prayer teams and mobilize church-planting teams. The goal of Joshua Project 2000 is to make a priority of establishing, as a minimum, a pioneer church-planting movement within every ethno-linguistic people of over 10,000 individuals by December 31, 2000.</p>
+<p>For the remaining years of the millennium, the AD2000 & Beyond Movement launched <strong>Joshua Project 2000 and National AD2000 Initiatives</strong> Joshua Project 2000 is a global cooperative strategy which has identified 1,739 peoples most needing a church-planting effort. Joshua Project 2000 is bringing together workers to research these peoples, produce prayer profiles, enlist prayer teams and mobilize church-planting teams. The goal of Joshua Project 2000 is to make a priority of establishing, as a minimum, a pioneer church-planting movement within every ethno-linguistic people of over 10,000 individuals by December 31, 2000.</p>
 
 <p>National AD2000 Initiatives are the best expressions of the practical outworking of the AD2000 & Beyond Movement. As of 1999, most countries of the world have some kind of National AD2000 Initiative. The aim of these initiatives is to see the body of Christ in every nation mobilized and working in coordinated efforts toward the completion of the unfinished task of evangelization in their own country, making a significant contribution to evangelism and church planting in the least evangelized peoples and countries of the world by the year AD2000 and beyond. The two predominant measurable goals of the National AD2000 Initiatives are: 1) To see as a priority and minimum, a pioneer church planting movement within every major ethno-linguistic people in the nation, country and mega-city of the world by the end of the year 2000 and, 2) To see the establishment of a saturation church planting project in each and every nation also by the end of the millennium.</p>
 
