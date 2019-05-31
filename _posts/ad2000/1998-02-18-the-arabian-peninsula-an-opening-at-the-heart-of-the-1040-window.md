@@ -4,9 +4,9 @@ title: "The Arabian Peninsula: An Opening at the Heart of the 10/40 Window"
 date: 1999-06-30
 category: ad2000
 author: Luis Bush
-status: wip
+status: published
 lang: en
-updated_on: 2019-05-30T05:34:53-07:00
+updated_on: 2019-05-31T02:19:12-07:00
 uploaded_on: 2019-05-30T05:34:49-07:00
 excerpt: "Though the Arabian Peninsula is often misunderstood, it presents a picture of great need and great opportunity today. Can you hear the Arabian Peninsula calling, &quot;Come and help us&quot; (Acts 16;2)?"
 ---
@@ -27,7 +27,7 @@ AD2000 & Beyond Movement</span></p>
 <p>After his return Talal began to share his new faith, and his brother accepted Christ, Encouraged, he continued to share with others in the family. Then one of his cousins threatened to kill him and forced him to recite the Islamic creed and denounce his faith. Not knowing where to turn, he agreed and his cousin let him go.</p>
 
 <blockquote class="boxed">
-  <p>See I am dong a new thing Now it springs up Do you not perceive it? I am making a way in the desert and streams in the wastland.</p>
+  <p>See I am dong a new thing Now it springs up Do you not perceive it? I am making a way in the desert and streams in the wasteland.</p>
 </blockquote>
 
 <figure class="pic-right">
@@ -43,9 +43,9 @@ AD2000 & Beyond Movement</span></p>
 
 <blockquote class="aside">
   <p><strong>U.A.E.</strong><br>
-  The United Arab Emirates (UAE) is a confederation of seven kingdoms, or emirates, on the north-eastern coast of the Arabian Penninsula. They are linked by their dependance on oil revenues, which have brought them from poverty to prosperity in only 25 years. The UAE was formerly seven separate monarchies protected by the United Kingdom, but the emirates united as a confederation in 1971. Sunni Islam is the state religion, but religous minorities have freedom of worship.</p>
+  The United Arab Emirates (UAE) is a confederation of seven kingdoms, or emirates, on the north-eastern coast of the Arabian Peninsula. They are linked by their dependance on oil revenues, which have brought them from poverty to prosperity in only 25 years. The UAE was formerly seven separate monarchies protected by the United Kingdom, but the emirates united as a confederation in 1971. Sunni Islam is the state religion, but religious minorities have freedom of worship.</p>
 </blockquote>
-<p><strong>Is the Middle East</strong> - and specfically the Arabian Peninsula - truly reachable? Most western Christians believe it is not. But after you read this article I hope you will agree with an increasing number of Arab nationals and internationals who respond to that question with a resounding "Yes!"</p>
+<p><strong>Is the Middle East</strong> - and specifically the Arabian Peninsula - truly reachable? Most western Christians believe it is not. But after you read this article I hope you will agree with an increasing number of Arab nationals and internationals who respond to that question with a resounding "Yes!"</p>
 
 <figure class="pic-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998-02-18/ap3.jpg">
@@ -78,7 +78,7 @@ AD2000 & Beyond Movement</span></p>
 
 <p><strong>The heart of God for the people of the Peninsula</strong> - Many Christians think of the Old Testament as the story of God's dealing with Israel, His chosen people. But from Creation to Abraham, there was no unique "People of God." Throughout this vast expanse of time, God was dealing with "the nations" (Gen. 111). That included the ancestors of today's Arabs, the people of the Arabian Peninsula.</p>
 
-<p>When God called Abraham, a man who lived in a pagan culture, He promised that through Abraham "all notions" would be blessed (Gen. 12:3). Solomon, following God's instructions, built his Temple for "oIl nations" (2 Chr 6:32-33). Isaiah, representing the Old Testament prophets, reaffirms God's desire that "all nations" should turn to Him (isa. 49:6, 56:1,3).</p>
+<p>When God called Abraham, a man who lived in a pagan culture, He promised that through Abraham "all notions" would be blessed (Gen. 12:3). Solomon, following God's instructions, built his Temple for "all nations" (2 Chr 6:32-33). Isaiah, representing the Old Testament prophets, reaffirms God's desire that "all nations" should turn to Him (isa. 49:6, 56:1,3).</p>
 
 <p>In the New Testament, Christ's parting charge to His disciples was that they should carry the Good News of His love to all people everywhere. That Great Commission certainly included - and includes today - the neighbors to the east of Palestine.. the people of the Arabian Peninsula.</p>
 
@@ -147,7 +147,7 @@ AD2000 & Beyond Movement</span></p>
 
 <blockquote class="aside">
   <p><strong>Yemen</strong><br>
-Yemen occupies the southern tip of the Arabian Penninsula. The varied topography includes hot costal plains, cool mountains and scorching deserts. Yemen's economy is agricultural and pastoral, with increasing export of oil. Until 1990, the widely differing North and South were separate nations. Unification brought ideological and even military clashes between the more fundamentalist North and more liberal South. Islam is the state religion, yet the North and South disagree as to the status of reglious freedom; the North favors Islamic fundamentalism and the South wants a more moderate stance.</p>
+Yemen occupies the southern tip of the Arabian Peninsula. The varied topography includes hot costal plains, cool mountains and scorching deserts. Yemen's economy is agricultural and pastoral, with increasing export of oil. Until 1990, the widely differing North and South were separate nations. Unification brought ideological and even military clashes between the more fundamentalist North and more liberal South. Islam is the state religion, yet the North and South disagree as to the status of religious freedom; the North favors Islamic fundamentalism and the South wants a more moderate stance.</p>
 </blockquote>
 
 <p><strong>Global prayer focus on the Arabian Peninsula is increasing dramatically</strong> - Christians within the Peninsula comment: "We have seen great gains in the last five years in this part of the Middle East. More people are praying for this part of the world than ever before in history! That gives us confidence, and a spiritual mandate to enter and be fruitful in the land. With this kind of heavenly prayer cover we know the Arabs who we care about so much will have a chance to hear. Your prayers continue with our servants on the ground led by the Holy Spirit to set the people free!"</p>
@@ -165,20 +165,20 @@ Yemen occupies the southern tip of the Arabian Penninsula. The varied topography
 </figure>
 <p><strong>The History of the People of the Arabian Peninsula</strong> begins in Genesis 10 where the beginnings of nations are described. The bulk of the population of Arabia are descendants of Shem (ie. Semitic peoples - the Hebrews, Arabs, Arameans). There were two primary peoples who inhabited Arabia. One was largely nomadic, wandering with their flocks over the great deserts, which lie, between the river Euphrates and the center of the peninsula. The other group was the inhabitants of the rain-fed uplands of Yemen. Camels were domesticated in Arabia between 1500-1200BC.</p>
 
-<p>The Arabs were the nomadic peoples of the central northern part of Arabia. The word itself is probably derived from a Semitic root related to nomadism. It was the Romans who used the term Arabia to cover the whole of the peninsula. It was with these nomadic peopIes that Ishmael and his twelve sons - together with the children of Esau - joined. There are still Bedoum tribes in Northern Arabia named after two of the sons of Ishmael.</p>
+<p>The Arabs were the nomadic peoples of the central northern part of Arabia. The word itself is probably derived from a Semitic root related to nomadism. It was the Romans who used the term Arabia to cover the whole of the peninsula. It was with these nomadic peoples that Ishmael and his twelve sons - together with the children of Esau - joined. There are still Bedoum tribes in Northern Arabia named after two of the sons of Ishmael.</p>
 
 <blockquote class="aside">
   <p><strong>Bahrain</strong><br>
-  Bahrain consists of a group of islands located in the Arabian Gulf northeast of the Arabian Penninsula. A causeway links the largest island (also known as Bahrain) to mainland Saudi Arabia. The islands are flat and hot, mainly sand covered limestone; with generally poor and infertile soil.</p>
+  Bahrain consists of a group of islands located in the Arabian Gulf northeast of the Arabian Peninsula. A causeway links the largest island (also known as Bahrain) to mainland Saudi Arabia. The islands are flat and hot, mainly sand covered limestone; with generally poor and infertile soil.</p>
 </blockquote>
 
 <figure class="pic-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998-02-18/ap5.gif">
 </figure>
 
-<p>The southern peoples of Arabia are also basically Semitic peopIes, descendants of Joktan and Cush. The source of their wealth in earlier times was their position on trade routes from India, East Africa, South East Asia and China, as well as their supplies of frankincense. Later in the 4th century BC, Himyaritic peoples from the Horn of Africa dominated the area. Navigation of the Red Sea was difficult and dangerous owing to coral reefs and pirates. Most of the goods traded were carried by camel from South Yemen up to the Mediterranean Sea. This lucrative trade produced a wealthy and civilized community in Yemen. The Queen of Sheba, who paid a very famous visit to Solomon, was a Queen of Yemen. Halfway between Yemen and the Mediterranean cultures lies a small desert settlement called Mecca. Mecca was a staging past for this caravan trade.</p>
+<p>The southern peoples of Arabia are also basically Semitic peoples, descendants of Joktan and Cush. The source of their wealth in earlier times was their position on trade routes from India, East Africa, South East Asia and China, as well as their supplies of frankincense. Later in the 4th century BC, Himyaritic peoples from the Horn of Africa dominated the area. Navigation of the Red Sea was difficult and dangerous owing to coral reefs and pirates. Most of the goods traded were carried by camel from South Yemen up to the Mediterranean Sea. This lucrative trade produced a wealthy and civilized community in Yemen. The Queen of Sheba, who paid a very famous visit to Solomon, was a Queen of Yemen. Halfway between Yemen and the Mediterranean cultures lies a small desert settlement called Mecca. Mecca was a staging past for this caravan trade.</p>
 
-<p>Judaism, and to a lesser extent Chnstianity, had penetrated into the area by the 6th century AD. But most of the peoples of northern Arabia were worshippers of spirits. They made pilgrimages to sacred stones. These places were thought to be residences of spirits, jinn or afrit. Slowly monotheism was beginning to be increasingly accepted. </p>
+<p>Judaism, and to a lesser extent Christianity, had penetrated into the area by the 6th century AD. But most of the peoples of northern Arabia were worshippers of spirits. They made pilgrimages to sacred stones. These places were thought to be residences of spirits, jinn or afrit. Slowly monotheism was beginning to be increasingly accepted. </p>
 
 <blockquote class="aside double-width" style="margin: 1em;">
   <h3>Unreached People Groups</h3>
@@ -208,35 +208,44 @@ Yemen occupies the southern tip of the Arabian Penninsula. The varied topography
 <ul>
   <li><strong>Key verses:</strong> Isaiah 42:8-12 'I am the LORD; that is my name! I will not give my glory to another or my praise to idols. See, the former things have taken place, and new things I declare: before they spring into being I announce them to you. Sing to the LORD a new song, his praise from the ends of the earth, you who go down to the sea, and all that is in it, you islands, and all who live in them. Let the desert and its towns raise their voices; let the settlements where Kedar lives rejoice. Let the people of Sela sing for jog; let them shout from the mountaintops. Let them give glory to the LORD and proclaim his praise in the islands."</li>
 
-  <li><strong>Mission Statement:</strong> Our Mission as a body of believers in this country is to live a holy life of prayer, dedication and love before God, in order to encourage our brothers and sisters and to love and reach the unreached people amoung whom we live.</li>
+  <li><strong>Mission Statement:</strong> Our Mission as a body of believers in this country is to live a holy life of prayer, dedication and love before God, in order to encourage our brothers and sisters and to love and reach the unreached people among whom we live.</li>
 
-  <li><strong>Evangelistic Outreach:</strong> A church planting movement for every people and major tribe in the Peninsula. The gospel available to every person in the Peninsula. A church united and zealous for reaching the unreached both in and outside the Peninsula. ("My dream is that the Christians in the Peninsula will love the people of the Peninsula)" "My dream is to see a church started for every tribe." "My dream is to see people reach out to every villiage.")</li>
+  <li><strong>Evangelistic Outreach:</strong> A church planting movement for every people and major tribe in the Peninsula. The gospel available to every person in the Peninsula. A church united and zealous for reaching the unreached both in and outside the Peninsula. ("My dream is that the Christians in the Peninsula will love the people of the Peninsula)" "My dream is to see a church started for every tribe." "My dream is to see people reach out to every village.")</li>
 
   <li><strong>Cities:</strong> A regular gathering of church leaders in each of the major cities, and an outreach to each of the major people groups overseen by a united church in each of the main cities. </li>
 
-  <li><strong>God's Word and Literature:</strong> The Bible available in the language of every person. ("My dream is that the Lord will extend to the Arabian Peninsula a special measure of grace and mery to receive a Gospel message without resistance or deception of Satan." "My dream is that every mall will have a bookstore selling Bibles.")</li>
+  <li><strong>God's Word and Literature:</strong> The Bible available in the language of every person. ("My dream is that the Lord will extend to the Arabian Peninsula a special measure of grace and mercy to receive a Gospel message without resistance or deception of Satan." "My dream is that every mall will have a bookstore selling Bibles.")</li>
 
-  <li><strong>Mobilization of Women:</strong> We seek to mobilize and equip women who will target each of the above-mentioned unreached people goups. ("My dream is that the women of the Arabian Peninsula have liberty in Christ.") </li>
+  <li><strong>Mobilization of Women:</strong> We seek to mobilize and equip women who will target each of the above-mentioned unreached people groups. ("My dream is that the women of the Arabian Peninsula have liberty in Christ.") </li>
 </ul>
 
-<blockquote class="aside right">
+<blockquote class="aside left">
   <p><strong>Kuwait</strong><br>
-  Kuwait is wedged in the desert between Iraq and Saudi Arabia, at the northwest end of the Arabian Gulf. There are no rivers and rain is light. In the quest for drinking water, the world's largest desalination plants were built in Kuwait in 1950. A former British protectorate, Kuwait gained independance in 1961, and since 1992 an Emir has controlled cabinet in the newly re-established parliment. Sunni Islam is the state religion. Immigrant religious minorities are permitted some worship facilities. Expatriate Christians gained recognition for thier prayer and relief aid during and after the 1990 Iraqi occupation. Frustrating restrictions imposed on Christian gatherings have since been eased.</p>
+  Kuwait is wedged in the desert between Iraq and Saudi Arabia, at the northwest end of the Arabian Gulf. There are no rivers and rain is light. In the quest for drinking water, the world's largest desalination plants were built in Kuwait in 1950. A former British protectorate, Kuwait gained independence in 1961, and since 1992 an Emir has controlled cabinet in the newly re-established parliament. Sunni Islam is the state religion. Immigrant religious minorities are permitted some worship facilities. Expatriate Christians gained recognition for their prayer and relief aid during and after the 1990 Iraqi occupation. Frustrating restrictions imposed on Christian gatherings have since been eased.</p>
 </blockquote>
 
 <style type="text/css">
   table{
-    width: 500px;
+    width: 700px;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+
+  table tbody{
+    border-top: 2px solid #3b3b3b;
+    border-bottom: 2px solid #3b3b3b;
+  }
+
+  table th, table td{
+    padding: 4px;
   }
 
   table td{
-    padding: 4px;
     text-align: right;
   }
-
 </style>
 <table>
-  <thead><tr><th colspan="6"><strong><em>Populations</em></strong> Local vs Foreign by Country</th></tr>
+  <thead><tr><th colspan="6"><strong><em>Populations</em></strong> Local vs Foreign by Country</th><td style="width:2%"></td></tr>
     <tr><th><strong>Country</strong></th><th><strong>Total Pop.</strong></th><th><strong>Locals</strong></th><th><strong>% Locals</strong></th><th><strong>Expatriates</strong></th><th><strong>% Expat.</strong></th></tr>
     </thead>
     <tbody>
@@ -254,21 +263,67 @@ Yemen occupies the southern tip of the Arabian Penninsula. The varied topography
     </tfoot>
 </table>
 
-<table>
-  <tr><td align=center colspan="6"><strong><em>Populations</em></strong> Local vs Foreign by Country</td></tr>
-  <tr><td><strong>Country</strong></td><td align=right><strong>Total Pop.</strong></td><td align=right><strong>Locals</strong></td><td align=right><strong>% Locals</strong></td><td align=right><strong>Expatriates</strong></td><td align=right><strong>% Expat.</strong></td></tr>
-  <tr><td>UAE</td><td align=right>2,666,000</td><td align=right>660,000</td><td align=right>24.76%</td><td align=right>2,006,000</td><td align=right>75.24%</td></tr>
-  <tr><td>Qatar</td><td align=right>568,000</td><td align=right>167,000</td><td align=right>29.40%</td><td align=right>401,000</td><td align=right>70.60%</td></tr>
-  <tr><td>Kuwait</td><td align=right>1,778,000</td><td align=right>728,000</td><td align=right>40.94%</td><td align=right>1,050,000</td><td align=right>59.06%</td></tr>
-  <tr><td>Bahrain</td><td align=right>594,000</td><td align=right>367,000</td><td align=right>61.78%</td><td align=right>227,000</td><td align=right>38.22%</td></tr>
-  <tr><td>Saudi Arabia</td><td align=right>19,385,000</td><td align=right>13,624,000</td><td align=right>70.28%</td><td align=right>5,761,000</td><td align=right>29.72%</td></tr>
-  <tr><td>Oman</td><td align=right>2,216,000</td><td align=right>1,606,000</td><td align=right>72.47%</td><td align=right>610,000</td><td align=right>27.53%</td></tr>
-  <tr><td>Yemen</td><td align=right>16,102,000</td><td align=right>15,620,000</td><td align=right>97.01%</td><td align=right>482,000</td><td align=right>2.99%</td></tr>
-  <tr></tr>
-  <tr><td>Totals</td><td align=right>43,309,000</td><td align=right>32,772,000</td><td align=right>75.67%</td><td align=right>10,537,000</td><td align=right>24.33%</td></tr>
-  <tr><td>Christians</td><td></td><td></td><td></td><td align=right>421,000</td><td align=right>4.00%</td></tr>
-  </table>
+<h3>Why we should focus on the Arabian Peninsula</h3>
 
+<p>Because God loves these people and has given us promises that He will move in this area (Isaiah 42, 60:7-8). Also, because it is a place where there are tribes who have never heard and we need to tell them in order to 'hasten the Day' that Jesus can come back (2 Peter 3:12 and Matt. 24:14). A new spirit of unity is growing in the region, laying the foundation for even greater partnership. An Arab national Christian has said, "We have thought less than even one half of what God is about to do here."</p>
+
+<blockquote class="aside right">
+  <p><strong>Oman</strong><br>
+  The Sultanate of Oman is a mountainous land on the southeast coast of the Arabian Peninsula. It controls the Hormuz Straits, entrance to the Arabian Gulf. The wise distribution of Oman's wealth has improved the standard of living. Oman was a feudal monarchy until 1970, when it became an absolute monarchy. No political parties are permitted, but there is considerable personal freedom and political stability. Islam is the state religion, and the entire Muslim majority remains largely unreached with the Gospel. Oil wealth, rising education levels, and opening to the outside world have broadened the minds of Omanis, possibly making them more receptive to spiritual change.</p>
+</blockquote>
+
+<p>It is time for God's people around the world to get involved. National Christian initiatives are growing. The ground has been prepared through careful study. Cooperation and partnership are increasing. Intensive global prayer is increasingly focusing on the Arab world. A respected international working in the area has said that he expects a spiritual harvest in the Arab world in the near future "because of growing awareness and prayers of the saints around the world."</p>
+
+
+<p>Expectations of nationals and expatriates is growing. On long-term Christian worker in the area summarized it this way: "We are in the generation in which the Arab world will see a dramatic spiritual breakthrough." An Arab historian/theologian told me: "I believe an outpouring of God's Spirit is coming soon to the church in the Arab world. I have been a student of church history for many years. Every other region has experienced revival except ours! Now it's our turn."</p>
+
+<p>So be it, Lord!</p>
+
+<h3>What can you do?</h3>
+
+<p><strong>Become a partner</strong> in reaching the Arabian Peninsula for Christ. The opportunities are limitless...</p>
+
+<ul>
+  <li><strong>Partner in interest</strong> by becoming aware of what God is doing in the Arab world today. Some excellent resources include the videos The Arab World: The Real Story, available from The Arabian Peninsula, P0 Box 1037, 3500 Limassol, Cyprus. E-mail: mailserv@spidernet.com.cy,<> and Behind the Sun, available from Open Doors International.</li>
+
+  <li><strong>Partner in prayer</strong> by forming a prayer group for the Arabian Peninsula in your neighborhood or church. Establish triplet praying for the people and strategic towns of the Arabian Peninsula. Adopt a strategic town of the Arabian Peninsula or a people from the Joshua Project 2000 list. You might even make a prayer journey to a strategic town for onsite prayer.<br>
+  Contact: Christian Information Network (Phone: 719-522-1040, Fax: 719-548-9000, E-mail: info@cin1040.net) for prayer profiles for<> most of the Joshua Project 2000 peoples, available for $99 per set.</li>
+
+      <blockquote class="aside right">
+        <p><strong>Saudi Arabia</strong><br>
+        Saudi Arabia is an Islamic kingdom occupying most of the Arabian Peninsula. Saudi Arabia is almost entirely desert but contains 25% of the world's known oil reserves. The nation is ruled by an absolute monarchy, with the semi-feudal state tightly controlled by the large royal family. Saudi Arabia was the birthplace of Islam 1,400 years ago, and Islam now controls nearly every area of life, both public and private. Official worship services for Christians or non-muslims are strictly prohibited within Saudi Arabia.</p>
+      </blockquote>
+
+  <li><strong>Partner in personnel</strong> by establishing a personal link to the Arabian Peninsula. Send/support a tent-maker, non-resident missionary or long-term missionary team. Invite them into your home, write them regularly, and support them through your resources and prayers.</li>
+
+  <li><strong>Partner in advocacy</strong> by becoming an advocate for one of the unreached peoples of the Arabian Peninsula or one of the strategic towns. Use your influence and whatever forums are available to share the needs and invite others to become partners as well.</li>
+
+  <li><strong>Partner with SAT-7</strong>, a dynamic new satellite television service for Christians<> in the Middle East and North Africa. Programs are culturally sensitive and appropriate to the religious and political background of the region. SAT-7, which has been enthusiastically received by viewers all across the region, now broadcasts nine hours each week, and will extend to a daily schedule in several languages by the end of the decade. Contact:<br>
+          <strong>SAT-7</strong><br>
+          PO Box 113<br>
+          Wayne, PA 19087 USA<br>
+          Phone: 610-995-9151<br>
+          Fax: 610-995-9155<br>
+          E-mail: ron.ensminger@sat7.org</li>
+
+  <li><strong>Partner by giving generously</strong> to projects and programs within the Arabian Peninsula, such as radio programs Jesus Film projects, literature distribution, Bible production and distribution. Provide support far programs to mobilize, motivate and educate God's people. Contact:<br><br>
+
+      <strong>Trans World Radio</strong><br>
+      Wetzlar 35573, Germany<br>
+      Office: [49](6441) 957-312. Fax: [49](6441)957-170<br>
+      E-mail: 673-7944@mcimail.com<br><br>
+
+      <strong>FEBA Radio</strong><br>
+      Ivy Arch Road, Worthing, W.Sussex BN14 8IBX England<br>
+      E-mail: tford@feba.org.uk<br>
+      Web page: <a href="http://www.feba.org.uk">http://www.feba.org.uk</a><br><br>
+
+      <strong>HCJB World Radio</strong><br>
+      P0 Box 39600, Colorado Springs, CO 80949-9800 USA<br>
+      Phone: 719-590-9800. Fax: 719-590-9801<br>
+      E-mail: rstubbe@hcjb.org<br>
+      Web page: <a href="http://www.hcjb.org">http://www.hcjb.org</a><br></li>
+</ul>
 
 <figure class="resource-links">
   <ul>
