@@ -28,6 +28,7 @@ excerpt: The 4/14 Window refers to the demographic group ages 4 to 14, which is 
 <figure class="resource-links">
   <ul>
     <li>Download Handbook in PDF: <a href="{{ site.baseurl }}/assets/pdf/2010-01-05/4-14-window-strategy-handbook.pdf">4-14-window-strategy-handbook.pdf</a></li>
+    <li>Originally published at https://4to14window.com/2018/09/26/4-14-window-strategy-handbook/ (link broken)</li>
   </ul>
 </figure>
 </article>
