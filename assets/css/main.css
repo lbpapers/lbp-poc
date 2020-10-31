@@ -1,5 +1,3 @@
----
----
 *{
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -22,12 +20,12 @@ body{
 }
 .navigation{
   width: 350px;
-  background: #08102a url('{{site.baseurl}}/assets/images/nav-bg-dark.jpg') no-repeat right top;
+  background: #08102a url('/assets/images/nav-bg-dark.jpg') no-repeat right top;
 }
 
 .site-title{
   color: white;
-  background: transparent url('{{site.baseurl}}/assets/images/nav-site-title-bg-dark.png') no-repeat right top;
+  background: transparent url('/assets/images/nav-site-title-bg-dark.png') no-repeat right top;
   background-clip: border-box;
   border-bottom: 0;
   font-weight: 900;
