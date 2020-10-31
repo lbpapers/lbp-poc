@@ -6,13 +6,14 @@ nav_order: 220
 ---
 <h1 class="category-title">Dallas Theological Seminary</h1>
 
-{% assign category = 'dts' %}{% assign total_documents = site.posts | where: "categories", category | where_exp: "status", "post.status == published" | size %}{% if total_documents == 0 %}
-  <figure style="position: fixed; top: 20%; left: 50%; margin-left: -250px; width: 400px;">
+<p>Dallas Theological Seminary is committed to glorifying God by teaching truth and loving well through pastoral ministry, counseling, education, leadership development, cross-cultural mission, arts and culture, and Bible-centered curriculum with a dynamic spiritual emphasis and a strong commitment to missions. While reaping the program’s benefits for four and a half years, I was simultaneously working the night shift at a local business and pastoring a small Spanish-speaking church in West Dallas.</p>
+
+{% assign category = 'dts' %}{% assign total_documents = site.posts | where: "categories", category | where: "status", "published" | size %}{% if total_documents == 0 %}
+  <figure style="position: fixed; top: 35%; left: 50%; margin-left: -250px; width: 400px;">
     <img src="{{ site.baseurl }}/assets/images/luis-and-doris-300px.png" style="display: block; margin: auto"><br>
     <img src="{{ site.baseurl }}/assets/images/staytuned.png" style="display: block; margin: auto">
   </figure>
 {% else %}
-  <p>Description</p>
 
   <div class="article-container">
   {% assign category_posts = site.posts | where: "categories", category %}
