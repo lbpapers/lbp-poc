@@ -18,7 +18,7 @@ excerpt:  "As I look back over the past six years since the AD2000 &amp; Beyond 
 <h3>By his breath the skies became fair; his hand pierced the gliding serpent. And these are but the outer fringe of his works (Job 16:13-14)</h3>
 
 <figure class="pic-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1997-07-24/Call-to-North-India-cover.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1997/07/24/Call-to-North-India-cover.png">
 </figure>
 <p>As I look back over the past six years since the AD2000 & Beyond Movement was launched, several key moments — “kairos” moments — stand out in my mind. The first was at the inaugural meeting of our movement in July, 1990, when it was recorded in our minutes that our primary target of concern would be the unevange- lized/unreached belt between 10 degrees north and 40 degrees north of the Equator and from West Africa to East Asia — an area of the world we designated the “10/40 Window.” The only possible way way to reach the people in the 10/40 Window was through concerted, global, fervent, focused prayer; so we prayed. Two worldwide seasons of prayer were conducted: first for the countries in the 10/40 Window in October, 1993; then for what we called the 100 “Gateway Cities” in October, 1995.</p>
 <p></p>
@@ -30,7 +30,7 @@ excerpt:  "As I look back over the past six years since the AD2000 &amp; Beyond 
 
 <figure class="resource-links">
   <ul>
-  <li>Download PDF: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1997-07-24/To-the-Uttermost-Part-The-Call-to-North-India-by-Luis-Bush.pdf">To-the-Uttermost-Part-The-Call-to-North-India-by-Luis-Bush.pdf</a></li>
+  <li>Download PDF: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1997/07/24/To-the-Uttermost-Part-The-Call-to-North-India-by-Luis-Bush.pdf">To-the-Uttermost-Part-The-Call-to-North-India-by-Luis-Bush.pdf</a></li>
   </ul>
 </figure>
 </article>

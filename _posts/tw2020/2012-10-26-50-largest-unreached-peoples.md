@@ -13,7 +13,7 @@ excerpt: "Christ’s concern is to reach the last and the least. Each of the sev
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <h1>50 Largest Unreached Peoples</h1>
 <h3 id="article-date"><time datetime="2012-10-26">October 26, 2012</time></h3>
-<figure class="pic-left"><img src="{{ site.baseurl }}/assets/images/2012-10-26/50-largest-unreached-people-group-cover.png"></figure>
+<figure class="pic-left"><img src="{{ site.baseurl }}/assets/images/2012/10/26/50-largest-unreached-people-group-cover.png"></figure>
 <p>Christ’s concern is to reach the last and the least. Each of the seven Transform World Challenges is called to have a special focus on these people groups and participate toward the expected outcomes. The Challenges are: Ideological Challenge of Islam; Family Challenge; Orphan Challenge; Poverty Challenge; Human Rights Challenge; Christ’s Missional Challenge; and the Celebration Challenge.</p>
 
 <p>For example, two of the expected outcomes of Christ’s Missional Challenge are to reach the 50 largest unreached people groups by 2020 and to engage the 50 largest unengaged people groups by 2020. An expected outcome of the Ideological Challenge is also to reach the 50 largest unreached people groups and engage the 50 largest unengaged people groups which are Islamic, in collaboration with Transform World 2020 Christ’s Missional Challenge and the Poverty Challenge. An expected outcome of the Poverty Challenge is to build transformational, self ‐ sustainable model communities among the fifty largest unreached people groups and the fifty largest unengaged people groups.</p>
@@ -24,7 +24,7 @@ excerpt: "Christ’s concern is to reach the last and the least. Each of the sev
 
 <figure class="resource-links">
   <ul>Download PDF:
-    <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2012-10-26/50-largest-unreached-profiles.pdf">{{ site.url }}{{ site.baseurl }}/assets/pdf/2012-10-26/50-largest-unreached-profiles.pdf</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2012/10/26/50-largest-unreached-profiles.pdf">{{ site.url }}{{ site.baseurl }}/assets/pdf/2012/10/26/50-largest-unreached-profiles.pdf</a></li>
     <li><a href="https://joshuaproject.net/assets/media/handouts/50-largest-unreached-profiles.pdf">https://joshuaproject.net/assets/media/handouts/50-largest-unreached-profiles.pdf</a></li>
   </ul>
 </figure>

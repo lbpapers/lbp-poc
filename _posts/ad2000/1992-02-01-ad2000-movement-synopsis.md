@@ -17,7 +17,7 @@ excerpt: The AD 2000 and Beyond Movement grew out of a desire to respond both to
 <p class="author">Rick Wood</p>
 
 <figure class="pic-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1992-02-01/AD2000-Movement-Launch-Picture.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1992/02/01/AD2000-Movement-Launch-Picture.jpg">
 </figure>
 <p>The AD 2000 and Beyond Movement grew out of a desire to respond both to the imperative of the Great Commission and to the unique opportunity to mobilize all of God's people to reach the unreached by the year 2000, as God's people everywhere have established unprecedented faith goals for AD 2000.</p>
 
@@ -74,7 +74,7 @@ excerpt: The AD 2000 and Beyond Movement grew out of a desire to respond both to
 
 <figure class="resource-links">
   <ul>
-    <li>Download PDF: <a href="{{ site.baseurl }}/assets/pdf/1992-02-01/The-AD2000-Movement-Synopsis.pdf">The-AD2000-Movement-Synopsis.pdf</a></li>
+    <li>Download PDF: <a href="{{ site.baseurl }}/assets/pdf/1992/02/01/The-AD2000-Movement-Synopsis.pdf">The-AD2000-Movement-Synopsis.pdf</a></li>
   </ul>
 </figure>
 </article>

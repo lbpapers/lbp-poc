@@ -13,10 +13,10 @@ excerpt: For over thirty years, YWAM Publishing has had the privilege of publish
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <div id="newsletter">
 <aside>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2011-12-15/icon_envelope.png">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2011/12/15/icon_envelope.png">
 </aside>
 <header style="margin-left: 60px; padding-left: 20px; background-color: white; padding-bottom: 1em;">
-	<img alt="4/14 Window" src="{{ site.url }}{{ site.baseurl }}/assets/images/2011-12-15/web_logo_v4_alternative.1.png">
+	<img alt="4/14 Window" src="{{ site.url }}{{ site.baseurl }}/assets/images/2011/12/15/web_logo_v4_alternative.1.png">
 </header>
 <article>
 	<p id="first-paragraph"><time datetime="2011-12">December 2011</time></p>
@@ -36,10 +36,10 @@ excerpt: For over thirty years, YWAM Publishing has had the privilege of publish
 
 	<ol class="references">
 		<li>Download sample pages 1 to 6 at <a href="http://4to14window.com/files/pdf/2012-Prayer-Diary-sample-pages.pdf">http://4to14window.com/files/pdf/2012-Prayer-Diary-sample-pages.pdf</a></li>
-		<li>Spanish sample: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2011-12-15/2012-prayer-diary-sample-Ag_in1.pdf">2012-prayer-diary-sample-Ag_in1.pdf</a></li>
-		<li>Spanish sample: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2011-12-15/2012-prayer-diary-sample-febrero-art.pdf">2012-prayer-diary-sample-febrero-art.pdf</a></li>
-		<li>Spanish sample: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2011-12-15/2012-prayer-diary-sample-julio-art.pdf">2012-prayer-diary-sample-julio-art.pdf</a></li>
-		<li>Spanish sample: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2011-12-15/2012-prayer-diary-sample-oct-art.pdf">2012-prayer-diary-sample-oct-art.pdf</a></li>
+		<li>Spanish sample: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2011/12/15/2012-prayer-diary-sample-Ag_in1.pdf">2012-prayer-diary-sample-Ag_in1.pdf</a></li>
+		<li>Spanish sample: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2011/12/15/2012-prayer-diary-sample-febrero-art.pdf">2012-prayer-diary-sample-febrero-art.pdf</a></li>
+		<li>Spanish sample: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2011/12/15/2012-prayer-diary-sample-julio-art.pdf">2012-prayer-diary-sample-julio-art.pdf</a></li>
+		<li>Spanish sample: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2011/12/15/2012-prayer-diary-sample-oct-art.pdf">2012-prayer-diary-sample-oct-art.pdf</a></li>
 	</ol>
 </article>
 

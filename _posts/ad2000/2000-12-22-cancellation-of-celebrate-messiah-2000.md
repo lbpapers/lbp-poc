@@ -16,7 +16,7 @@ excerpt: "You have not been out of my thoughts, since I sent you the email on Mo
 <h3>CM2000 Cancellation Update</h3>
 
 <figure class="pic-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2000-12-22/cover2.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2000/12/22/cover2.jpg">
 </figure>
 
 <p>Dear Colleagues:</p>

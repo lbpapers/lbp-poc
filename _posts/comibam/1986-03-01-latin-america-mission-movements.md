@@ -16,7 +16,7 @@ excerpt: If you were to choose a certain area of the world to become the most po
 <p>March 1986 / Vol.8 No. 3</p>
 <p>Luis Bush, Latin America, and the End of History</p>
 <figure class='pic-left'>
-  <img src="{{ site.baseurl }}/assets/images/1986-03-01/mission-frontiers-vol8-no3-cover.png">
+  <img src="{{ site.baseurl }}/assets/images/1986/03/01/mission-frontiers-vol8-no3-cover.png">
 </figure>
-<p>PDF: <a href="{{ site.baseurl }}/assets/pdf/1986-03-01/mission-frontiers-vol08-no03.pdf">mission-frontiers-vol08-no03.pdf</a></p>
+<p>PDF: <a href="{{ site.baseurl }}/assets/pdf/1986/03/01/mission-frontiers-vol08-no03.pdf">mission-frontiers-vol08-no03.pdf</a></p>
 </article>

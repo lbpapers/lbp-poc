@@ -15,7 +15,7 @@ excerpt: The 4/14 Window refers to the demographic group ages 4 to 14, which is 
 <h1>4/14 Window Strategy Handbook</h1>
 
 <figure style="float: right; width: 40%; margin-left: 2rem;">
-  <img src="{{ site.baseurl }}/assets/images/2010-01-05/414-child.png">
+  <img src="{{ site.baseurl }}/assets/images/2010/01/05/414-child.png">
 </figure>
 <p>The 4/14 Window refers to the demographic group ages 4 to 14, which is the most open and receptive group to spiritual and developmental input. God is calling us to a new missional focus: the 4/14 Window, the golden age of opportunity to transform the world. God is also calling us to radically change the way we view children and to respond to their strategic importance and rightful place in His kingdom. This often-ignored and suffering people group can be transformed into a precious window of opportunity.</p>
 
@@ -27,7 +27,7 @@ excerpt: The 4/14 Window refers to the demographic group ages 4 to 14, which is 
 
 <figure class="resource-links">
   <ul>
-    <li>Download Handbook in PDF: <a href="{{ site.baseurl }}/assets/pdf/2010-01-05/4-14-window-strategy-handbook.pdf">4-14-window-strategy-handbook.pdf</a></li>
+    <li>Download Handbook in PDF: <a href="{{ site.baseurl }}/assets/pdf/2010/01/05/4-14-window-strategy-handbook.pdf">4-14-window-strategy-handbook.pdf</a></li>
     <li>Originally published at https://4to14window.com/2018/09/26/4-14-window-strategy-handbook/ (link broken)</li>
   </ul>
 </figure>

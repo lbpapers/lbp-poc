@@ -48,7 +48,7 @@ excerpt:  "“The opening of the Muslim world for the gospel,” writes Patrick 
 
 <figure class="resource-links">
   <ul>
-  <li>Download PDF: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1994-04-01/Muslims-Being-Reached-Foremostly-Through-Extraordinary-Prayer.pdf">Muslims-Being-Reached-Foremostly-Through-Extraordinary-Prayer.pdf</a></li>
+  <li>Download PDF: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1994/04/01/Muslims-Being-Reached-Foremostly-Through-Extraordinary-Prayer.pdf">Muslims-Being-Reached-Foremostly-Through-Extraordinary-Prayer.pdf</a></li>
   </ul>
 </figure>
 </article>

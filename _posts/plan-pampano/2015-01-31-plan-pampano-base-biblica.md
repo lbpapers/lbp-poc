@@ -28,7 +28,7 @@ excerpt: "El Discipulado de Jesús, Plan Pámpano para los Discípulos, expresad
 
   <figure class="resource-links">
     <ul>Download PDF:
-      <li><a href="{{ site.baseurl }}/assets/pdf/2015-01-31/Discipulado-de-Jesús-Plan-Pampano.pdf">Discipulado-de-Jesús-Plan-Pampano.pdf</a></li>
+      <li><a href="{{ site.baseurl }}/assets/pdf/2015/01/31/Discipulado-de-Jesús-Plan-Pampano.pdf">Discipulado-de-Jesús-Plan-Pampano.pdf</a></li>
     </ul>
   </figure>
 </article>

@@ -38,7 +38,7 @@ excerpt: "In the final paragraph of Affirmation 11 titled: The Challenge of AD 2
 
 <figure class="resource-links">
   <ul>
-    <li>Download PDF: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1989-07-20/The-Challenge-of-AD2000-and-Beyond-in-The-Manila-Manifesto-Lausanne-II-1989.pdf">The-Challenge-of-AD2000-and-Beyond-in-The-Manila-Manifesto-Lausanne-II-1989.pdf</a></li>
+    <li>Download PDF: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1989/07/20/The-Challenge-of-AD2000-and-Beyond-in-The-Manila-Manifesto-Lausanne-II-1989.pdf">The-Challenge-of-AD2000-and-Beyond-in-The-Manila-Manifesto-Lausanne-II-1989.pdf</a></li>
   </ul>
 </figure>
 </article>

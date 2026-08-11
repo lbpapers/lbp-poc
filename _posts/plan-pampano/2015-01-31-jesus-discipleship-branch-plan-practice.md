@@ -27,7 +27,7 @@ excerpt: "Jesus' Discipleship Branch Plan for Nurturers, presented in John chapt
 
   <figure class="resource-links">
     <ul>Download PDF:
-      <li><a href="{{ site.baseurl }}/assets/pdf/2015-01-31/Practice-for-Jesus-Discipleship-Branch-Plan-for-Nurturers-by-Luis-Bush.pdf">Practice-for-Jesus-Discipleship-Branch-Plan-for-Nurturers-by-Luis-Bush.pdf</a></li>
+      <li><a href="{{ site.baseurl }}/assets/pdf/2015/01/31/Practice-for-Jesus-Discipleship-Branch-Plan-for-Nurturers-by-Luis-Bush.pdf">Practice-for-Jesus-Discipleship-Branch-Plan-for-Nurturers-by-Luis-Bush.pdf</a></li>
     </ul>
   </figure>
 </article>

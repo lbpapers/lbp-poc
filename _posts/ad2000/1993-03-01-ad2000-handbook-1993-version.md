@@ -20,7 +20,7 @@ excerpt:  "In a spirit of servanthood, the AD 2000 & Beyond Movement seeks to en
 <p>In a spirit of servanthood, the AD 2000 & Beyond Movement seeks to encourage, motivate and network men and women church leaders by inspiring them with the vision of reaching the unreached by the year 2000 through consultations, prayer efforts and written materials.</p>
 
 <figure class="pic-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1993-03-01/AD2000-Handbook-1993-cover.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1993/03/01/AD2000-Handbook-1993-cover.png">
 </figure>
 
 <p>The intention is to encourage cooperation among existing churches, movements and structures to work together towards this same vision.</p>
@@ -66,7 +66,7 @@ excerpt:  "In a spirit of servanthood, the AD 2000 & Beyond Movement seeks to en
 
 <figure class="resource-links">
   <ul>Download PDF for the full article:
-  <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1993-03-01/AD2000-Handbook-1993-Version.pdf">AD2000-Handbook-1993-Version.pdf</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1993/03/01/AD2000-Handbook-1993-Version.pdf">AD2000-Handbook-1993-Version.pdf</a></li>
   </ul>
 </figure>
 </article>

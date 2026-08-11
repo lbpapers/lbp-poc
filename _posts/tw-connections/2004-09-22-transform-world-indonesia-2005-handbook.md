@@ -14,7 +14,7 @@ excerpt: "Through the World Inquiry, a consultative process involving Christian 
 <h1>Transform World Indonesia 2005 Handbook</h1>
 
 <figure class="pic-left" style="width: 80%; min-width: 300px; max-width: 450px; margin-right: 2em;">
-  <img src="{{ site.baseurl }}/assets/images/2004-09-22/Transform-World-Indonesia-2005-Handbook-cover.png">
+  <img src="{{ site.baseurl }}/assets/images/2004/09/22/Transform-World-Indonesia-2005-Handbook-cover.png">
 </figure>
 
 <h3>Overview</h3>
@@ -40,7 +40,7 @@ excerpt: "Through the World Inquiry, a consultative process involving Christian 
 
 <figure class="resource-links">
   <ul>Download PDF:
-    <li><a href="{{ site.baseurl }}/assets/pdf/2004-09-22/Transform-World-Indonesia-2005-Handbook.pdf">Transform-World-Indonesia-2005-Handbook.pdf</a></li>
+    <li><a href="{{ site.baseurl }}/assets/pdf/2004/09/22/Transform-World-Indonesia-2005-Handbook.pdf">Transform-World-Indonesia-2005-Handbook.pdf</a></li>
   </ul>
 </figure>
 </article>

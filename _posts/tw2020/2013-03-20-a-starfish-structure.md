@@ -22,7 +22,7 @@ excerpt: "Global Context regarding Structures of Mission and TWC Movements are g
 <p>We have decided that we are not going to try to protect our “brand” of transformation. TWC does not seem to have any of those functional needs except to possibly enhance communication.</p>
 
 <figure class="pic-center">
-  <img src="{{ site.baseurl }}/assets/images/2013-03-20/Committed-Core.png">
+  <img src="{{ site.baseurl }}/assets/images/2013/03/20/Committed-Core.png">
 </figure>
 <h3>Committed Core</h3>
 <p>The base of a movement in today’s world is a committed core of people, who trust and respect one another and apply their gifts and creativity to God’s common existential calling on their lives. There will always be movement of people into and out of the motivational and empowering circle because of very permeable, shifting, and porous boundaries.</p>
@@ -31,7 +31,7 @@ excerpt: "Global Context regarding Structures of Mission and TWC Movements are g
 
 <figure class="resource-links">
   <ul>Download PDF:
-    <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2013-03-20/A-Startfish-Structure.pdf">A-Startfish-Structure.pdf</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2013/03/20/A-Startfish-Structure.pdf">A-Startfish-Structure.pdf</a></li>
   </ul>
 </figure>
 </article>

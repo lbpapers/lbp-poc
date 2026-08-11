@@ -14,7 +14,7 @@ excerpt: "Nosotros, los 1600 participantes y representantes de 110 naciones nos 
 <h1>Borrador Revisado del Manifiesto del Milenio</h1>
 
 <figure class="pic-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2000-12-22/cover2.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2000/12/22/cover2.jpg">
 </figure>
 
 <p>Nosotros, los 1600 participantes y representantes de 110 naciones nos hemos reunido en Jerusalén al final del milenio para celebrar a Jesús el Mesías. Nos regocijamos con todos los creyentes de ésta tierra de promesa, con Judíos Mesiánicos y con Arabes Cristianos, porque el evangélio del reino ha sido predicado desde Jerusalén a todas las partes de la tierra. Hoy día, Dios recibe gloria y alabanza de más gente, naciones y lenguajes que en cualquier otro momento de la historia humana. Y nos regocijamos aún más, por que se acerca el día en que un movimiento reproductor de la iglesia existirá dentro de cada sociedad de la tierra que le proporcionará a cada persona, un testimonio claro, culturalmente sensitivo y en su propio idioma del evangélio de Jesús (Hab 2:14, Hechos 1:8).</p>

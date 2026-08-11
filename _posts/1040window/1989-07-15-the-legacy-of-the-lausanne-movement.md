@@ -26,7 +26,7 @@ excerpt: "For over 40 years, the Lausanne Movement has ‘set the table’ and c
 
 <h3>The beginnings of the Lausanne Movement</h3>
 <figure class="pic-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1989-07-15/history-billy-graham.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1989/07/15/history-billy-graham.jpg">
 </figure>
 <p>Our story begins with the evangelist Dr Billy Graham. As he started preaching internationally, he developed a passion to ‘unite all evangelicals in the common task of the total evangelization of the world’.</p>
 
@@ -56,7 +56,7 @@ excerpt: "For over 40 years, the Lausanne Movement has ‘set the table’ and c
 
 <h3>Manila 1989: New Global Partnerships</h3>
 <figure class="pic-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1989-07-15/history-manila.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1989/07/15/history-manila.jpg">
 </figure>
 <p>In 1989, the Second International Congress on World Evangelization was held in Manila, Philippines. There was notable involvement from the Soviet Union, Eastern Europe, women, and laity. Manila 1989 served as a launch pad for further key strategies and milestones in global mission:</p>
 
@@ -72,13 +72,13 @@ excerpt: "For over 40 years, the Lausanne Movement has ‘set the table’ and c
 
 <h3>Cape Town 2010: A Platform for the Global Church</h3>
 <figure class="pic-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1989-07-15/history-capetown.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1989/07/15/history-capetown.jpg">
 </figure>
 <p>Christianity Today described the Third Lausanne Congress on World Evangelization in Cape Town as ‘a younger, more ethnically diverse, and more geographically varied consortium of evangelical leaders than ever before’. Cape Town 2010 was carefully assembled to depict an accurate demographic of the global church, giving particular voice to the church in the majority world.</p>
 
 <h3>Issue networks: Following the CTC road map</h3>
 <figure class="pic-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1989-07-15/history-issue-networks.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1989/07/15/history-issue-networks.jpg">
 </figure>
 <p>Over 30 pressing missional challenges, most with a corresponding issue network, were identified in <a href="https://www.lausanne.org/content/ctc/ctcommitment">The Cape Town Commitment</a> (CTC). These included the advance of the gospel among oral learners, in diaspora communities, in the world of ideas, and in every sphere of society including the marketplace, the academy, and the public square. The CTC captures what we believe the Holy Spirit is saying to the church in our times and serves as a road map for the activities of the Movement.</p>
 
@@ -92,7 +92,7 @@ excerpt: "For over 40 years, the Lausanne Movement has ‘set the table’ and c
 
 <h3>Engaging Generations of Younger Leaders</h3>
 <figure class="pic-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1989-07-15/history-ylg.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1989/07/15/history-ylg.jpg">
 </figure>
 <p>For every generation since 1987, Lausanne has held a Younger Leaders Gathering (YLG) to identify and bring together emerging influencers from around the world. The gatherings connect younger leaders with each other and with other senior global leaders to build up the next generation of influencers and encourage leadership development.</p>
 

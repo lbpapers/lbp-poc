@@ -30,8 +30,8 @@ excerpt: "In every culture there are seven spheres of cultural influence that ne
 
 <figure class="resource-links">
   <ul>Download PDF:
-    <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2013-03-20/Lens-No2-Vision-for-Social-Change_The-Seven-Spheres-of-Cultural-Influence.pdf">Lens-No2-Vision-for-Social-Change_The-Seven-Spheres-of-Cultural-Influence-small.pdf</a> (34MB)</li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2013-03-20/Lens-No2-Vision-for-Social-Change_The-Seven-Spheres-of-Cultural-Influence.pdf">Lens-No2-Vision-for-Social-Change_The-Seven-Spheres-of-Cultural-Influence.pdf</a> (150MB)</li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2013/03/20/Lens-No2-Vision-for-Social-Change_The-Seven-Spheres-of-Cultural-Influence.pdf">Lens-No2-Vision-for-Social-Change_The-Seven-Spheres-of-Cultural-Influence-small.pdf</a> (34MB)</li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/2013/03/20/Lens-No2-Vision-for-Social-Change_The-Seven-Spheres-of-Cultural-Influence.pdf">Lens-No2-Vision-for-Social-Change_The-Seven-Spheres-of-Cultural-Influence.pdf</a> (150MB)</li>
   </ul>
 </figure>
 </article>

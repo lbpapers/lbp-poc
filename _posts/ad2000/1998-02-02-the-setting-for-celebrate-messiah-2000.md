@@ -14,7 +14,7 @@ excerpt: "Today is the 22nd of February. The Jerusalem Post headline reads &quot
 <h1>The Setting for Celebrate Messiah 2000</h1>
 
 <figure class="pic-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2000-12-22/cover2.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2000/12/22/cover2.jpg">
 </figure>
 
 <h3>A Church for every people and the gospel for every person in the Holy Land establishes an appropriate setting for Celebrate Messiah 2000.</h3>

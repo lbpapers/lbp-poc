@@ -87,8 +87,8 @@ Vice President, Foreign Mission Board, Southern Baptist Convention
 <figure class="resource-links">
   <ul>
   <li>Article source: <a href="http://www.ad2000.org/gcowe95/denosumm.html">http://www.ad2000.org/gcowe95/denosumm.html</a></li>
-  <li>Download presentation slide: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1993-12-11/AD2K-Denominational-Leaders-Summit.pdf">AD2K-Denominational-Leaders-Summit.pdf</a></li>
-  <li>Download presentation slide: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1993-12-11/AD2K-Denominational-Leaders-Summit.pptx">AD2K-Denominational-Leaders-Summit.pptx</a></li>
+  <li>Download presentation slide: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1993/12/11/AD2K-Denominational-Leaders-Summit.pdf">AD2K-Denominational-Leaders-Summit.pdf</a></li>
+  <li>Download presentation slide: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1993/12/11/AD2K-Denominational-Leaders-Summit.pptx">AD2K-Denominational-Leaders-Summit.pptx</a></li>
   </ul>
 </figure>
 </article>

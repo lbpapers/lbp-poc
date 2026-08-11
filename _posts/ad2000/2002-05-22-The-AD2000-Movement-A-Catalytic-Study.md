@@ -16,7 +16,7 @@ excerpt: The catalytic nature of the AD2000 Movement, as a contextual and instit
 <p class="author">Luis Bush</p>
 
 <figure class="pic-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2002-05-22/ad2000-mission-overview.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2002/05/22/ad2000-mission-overview.png">
 </figure>
 <p>The catalytic nature of the AD2000 Movement, as a contextual and institutional platform for a vibrant world evangelization effort during the final decade of the second millennium incorporates sections based on catalytic aim, catalytic means, catalytic leaders and catalytic structures. AD2000 provides a contextual and institutional platform for demonstrating the constancy of the nature of catalytic impulses that come from conferences, renewal, and unique leaders seeking the glory of God. The AD2000 case study shows that, to the degree that a world evangelization movement draws catalytic impulses from an appropriate goal, structure, leadership and means, is the degree to which the movement itself becomes a servant-catalyst in mission.</p>
 
@@ -44,5 +44,5 @@ excerpt: The catalytic nature of the AD2000 Movement, as a contextual and instit
 
 <p>...</p>
 
-<p>Download PDF for full article: <a href="{{ site.baseurl }}/assets/pdf/2002-05-22/The-AD2000-Movement-A-Catalytic-Case-Study-by-Luis-Bush.pdf">The-AD2000-Movement-A-Catalytic-Case-Study-by-Luis-Bush.pdf</a></p>
+<p>Download PDF for full article: <a href="{{ site.baseurl }}/assets/pdf/2002/05/22/The-AD2000-Movement-A-Catalytic-Case-Study-by-Luis-Bush.pdf">The-AD2000-Movement-A-Catalytic-Case-Study-by-Luis-Bush.pdf</a></p>
 </article>

@@ -107,7 +107,7 @@ excerpt: "Organized by: ACIERA: Christian Alliance of Evangelical Churches in th
 
   <figure class="resource-links">
     <ul>Download PDF:
-      <li><a href="{{ site.baseurl }}/assets/pdf/2002-04-12/World-Inquiry-Argentina.pdf">World-Inquiry-Argentina.pdf</a></li>
+      <li><a href="{{ site.baseurl }}/assets/pdf/2002/04/12/World-Inquiry-Argentina.pdf">World-Inquiry-Argentina.pdf</a></li>
     </ul>
   </figure>
 </article>

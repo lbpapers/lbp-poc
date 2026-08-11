@@ -86,8 +86,8 @@ Costa Rican missionary effort has benefited from the country's peaceful democrac
 
 <figure class="resource-links">
   <ul>Download PDF from following links:
-    <li><a href="{{ site.baseurl }}/assets/pdf/1989-08-01/alcance-2000-conference-in-costa-rica-report-by-luis-bush.pdf">alcance-2000-conference-in-costa-rica-report-by-luis-bush.pdf</a></li>
-    <li><a href="{{ site.baseurl }}/assets/pdf/1989-08-01/ijfm-vol-7_1-jan-1990-bush.pdf">ijfm-vol-7_1-jan-1990-bush.pdf</a></li>
+    <li><a href="{{ site.baseurl }}/assets/pdf/1989/08/01/alcance-2000-conference-in-costa-rica-report-by-luis-bush.pdf">alcance-2000-conference-in-costa-rica-report-by-luis-bush.pdf</a></li>
+    <li><a href="{{ site.baseurl }}/assets/pdf/1989/08/01/ijfm-vol-7_1-jan-1990-bush.pdf">ijfm-vol-7_1-jan-1990-bush.pdf</a></li>
     <li><a href="http://www.ijfm.org/PDFs_IJFM/07_1_PDFs/Bush.pdf">http://www.ijfm.org/PDFs_IJFM/07_1_PDFs/Bush.pdf</a></li>
   </ul>
 </figure>

@@ -27,24 +27,24 @@ excerpt: "Launch of Second Phase of Transform World Movement brings definition a
 
 "Civilizations develop and flourish in response to the challenges they face with creative new ideas. When they are rigid, failing to respond to challenges, they decline." (A. Toynbee)
 
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-01.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-02.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-03.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-04.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-05.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-06.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-07.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-08.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-09.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-10.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-11.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-12.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-13.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-14.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-15.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-16.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-17.jpg"></figure>
-<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012-11-06/transform-world-vision-2020-overview-by-luis-bush-18.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-01.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-02.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-03.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-04.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-05.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-06.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-07.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-08.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-09.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-10.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-11.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-12.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-13.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-14.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-15.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-16.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-17.jpg"></figure>
+<figure class="pic-center"><img src="{{ site.baseurl }}/assets/images/2012/11/06/transform-world-vision-2020-overview-by-luis-bush-18.jpg"></figure>
 
 <figure class="resource-links">
   <ul>

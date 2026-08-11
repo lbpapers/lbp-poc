@@ -28,7 +28,7 @@ excerpt: "La pregunta ante nosotros es ¿cómo encender el fuego de un movimient
 
   <figure class="resource-links">
     <ul>Download PDF:
-      <li><a href="{{ site.baseurl }}/assets/pdf/2015-01-31/Plan-Pámpano-Base-Bíblica-para-Muliplicar-Discipuladores-y-Etiopia.pdf">Plan-Pámpano-Base-Bíblica-para-Muliplicar-Discipuladores-y-Etiopia.pdf</a></li>
+      <li><a href="{{ site.baseurl }}/assets/pdf/2015/01/31/Plan-Pámpano-Base-Bíblica-para-Muliplicar-Discipuladores-y-Etiopia.pdf">Plan-Pámpano-Base-Bíblica-para-Muliplicar-Discipuladores-y-Etiopia.pdf</a></li>
     </ul>
   </figure>
 </article>

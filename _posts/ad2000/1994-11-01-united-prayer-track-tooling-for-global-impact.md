@@ -87,7 +87,7 @@ excerpt:  "The United Prayer Track was formed in 1990 under the leadership of Dr
 <figure class="resource-links">
   <ul>Download PDF:
   <li><a href="https://www.ijfm.org/PDFs_IJFM/11_4_PDFs/07%20Dennison.pdf">https://www.ijfm.org/PDFs_IJFM/11_4_PDFs/07%20Dennison.pdf</a></li>
-  <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1994-11-01/United-Prayer-Track-Tooling-for-Global-Impact.pdf">United-Prayer-Track-Tooling-for-Global-Impact.pdf</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1994/11/01/United-Prayer-Track-Tooling-for-Global-Impact.pdf">United-Prayer-Track-Tooling-for-Global-Impact.pdf</a></li>
 
   </ul>
 </figure>

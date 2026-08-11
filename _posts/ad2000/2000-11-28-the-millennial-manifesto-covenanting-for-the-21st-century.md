@@ -14,7 +14,7 @@ excerpt: "We, the 1,700 registrants representing 106 nations, intended to gather
 <h1>The Millennial Manifesto: Covenanting for the 21st Century</h1>
 
 <figure class="pic-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2000-12-22/cover2.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2000/12/22/cover2.jpg">
 </figure>
 
 <p>We, the 1,700 registrants representing 106 nations, intended to gather in Jerusalem at the turn of the millennium to celebrate Jesus the Messiah. Although divine wisdom prevented us from meeting together with believers in Israel, the land of promise, including Messianic Jews, as well as Arab and Israeli Christians, we rejoice that the gospel of the kingdom has now spread from Jerusalem to all parts of the world. God now receives glory and praise from more peoples, nations, and languages than at any other time in human history. Furthermore, we rejoice that the day is within sight when a reproducing church movement will exist within the social structure of every people group on earth, providing every person in his or her own language with a clear and culturally sensitive witness to the gospel of Jesus. ( Hab 2:14; Ac 1:8) </p>

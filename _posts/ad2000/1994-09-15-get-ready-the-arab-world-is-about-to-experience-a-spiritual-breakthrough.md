@@ -93,7 +93,7 @@ excerpt:  "A question that world Christians should ask themselves is: “Is the 
 
 <figure class="resource-links">
   <ul>
-  <li>Download PDF: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1994-09-15/Get-Ready-The-Arab-World-is-About-to-Experience-a-Spiritual-Breakthrough.pdf">Get-Ready-The-Arab-World-is-About-to-Experience-a-Spiritual-Breakthrough.pdf</a></li>
+  <li>Download PDF: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1994/09/15/Get-Ready-The-Arab-World-is-About-to-Experience-a-Spiritual-Breakthrough.pdf">Get-Ready-The-Arab-World-is-About-to-Experience-a-Spiritual-Breakthrough.pdf</a></li>
   </ul>
 </figure>
 </article>

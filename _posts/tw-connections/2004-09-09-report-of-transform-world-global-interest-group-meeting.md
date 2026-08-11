@@ -38,7 +38,7 @@ excerpt: "I was introduced to Luis Bush several years ago by our mutual friend, 
 
 <figure class="resource-links">
   <ul>Download PDF:
-    <li><a href="{{ site.baseurl }}/assets/pdf/2004-09-09/Report-of-Transform-World-Global-Interest-Group-London-2004.pdf">Report-of-Transform-World-Global-Interest-Group-London-2004.pdf</a></li>
+    <li><a href="{{ site.baseurl }}/assets/pdf/2004/09/09/Report-of-Transform-World-Global-Interest-Group-London-2004.pdf">Report-of-Transform-World-Global-Interest-Group-London-2004.pdf</a></li>
   </ul>
 </figure>
 </article>

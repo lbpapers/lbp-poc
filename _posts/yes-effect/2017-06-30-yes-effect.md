@@ -12,7 +12,7 @@ excerpt: "In The Yes Effect, Dr. Bush shares his own story as well as inspiring 
 ---
 <article class="document-container" data-publication-date="{{page.date}}" data-uploaded-on="{{page.uploaded_on}}" data-updated-on="{{page.updated_on}}" data-category="{{page.category}}">
 <figure class="pic-left" style="width: 70%; min-width: 300px; max-width: 400px; margin: 4em;">
-  <img src="{{ site.baseurl }}/assets/images/2017-06-30/YesEffect_3D.png">
+  <img src="{{ site.baseurl }}/assets/images/2017/06/30/YesEffect_3D.png">
 </figure>
 
 <article style="display: block; max-width: 500px; margin-top: 5em; float: left;">

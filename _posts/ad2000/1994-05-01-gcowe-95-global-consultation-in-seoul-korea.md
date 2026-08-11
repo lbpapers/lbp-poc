@@ -128,7 +128,7 @@ excerpt:  "“The opening of the Muslim world for the gospel,” writes Patrick 
 <figure class="resource-links">
   <ul>
   <li>Article source: <a href="http://www.missionfrontiers.org/issue/article/ad-2000-update">http://www.missionfrontiers.org/issue/article/ad-2000-update</a></li>
-  <li>Download PDF: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1994-05-01/GCOWE-95-Global-Consultation-in-Seoul-Korea.pdf">GCOWE-95-Global-Consultation-in-Seoul-Korea.pdf</a></li>
+  <li>Download PDF: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1994/05/01/GCOWE-95-Global-Consultation-in-Seoul-Korea.pdf">GCOWE-95-Global-Consultation-in-Seoul-Korea.pdf</a></li>
   </ul>
 </figure>
 </article>

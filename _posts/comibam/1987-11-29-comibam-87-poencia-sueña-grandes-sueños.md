@@ -66,7 +66,7 @@ excerpt: "En 1916 America Latina fue declarada campo misionero, en 1987 America 
 
 <figure class="resource-links">
   <ul>
-  <li>PDF: <a href="{{ site.baseurl }}/assets/pdf/1987-11-29/COMIBAM-87-Plenarias-Luis-Palau.pdf">COMIBAM-87-Plenarias-Luis-Palau.pdf</a></li>
+  <li>PDF: <a href="{{ site.baseurl }}/assets/pdf/1987/11/29/COMIBAM-87-Plenarias-Luis-Palau.pdf">COMIBAM-87-Plenarias-Luis-Palau.pdf</a></li>
   </ul>
 </figure>
 </article>

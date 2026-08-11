@@ -39,7 +39,7 @@ excerpt: "Jesus Christ, Lord of the universe, hope for the world. I discovered t
 
 <figure class="resource-links">
   <ul>
-  <li>Download PDF for full article: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1990-04-07/Exposition-of-Colossians-1-by-Luis-Bush-URBANA-90.pdf">Exposition-of-Colossians-1-by-Luis-Bush-URBANA-90.pdf</a></li>
+  <li>Download PDF for full article: <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/1990/04/07/Exposition-of-Colossians-1-by-Luis-Bush-URBANA-90.pdf">Exposition-of-Colossians-1-by-Luis-Bush-URBANA-90.pdf</a></li>
   </ul>
 </figure>
 </article>

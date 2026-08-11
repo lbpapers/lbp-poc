@@ -97,7 +97,7 @@ excerpt: When we contemplate the challenge of world evangelization by the year 2
 
 <figure class="resource-links">
   <ul>
-    <li>Download PDF: <a href="{{ site.baseurl }}/assets/pdf/1987-11-02/Eight-Principles-for-World-Evangelization-by-the-Year-2000-by-Luis-Bush-1987.pdf">Eight-Principles-for-World-Evangelization-by-the-Year-2000-by-Luis-Bush-1987.pdf</a></li>
+    <li>Download PDF: <a href="{{ site.baseurl }}/assets/pdf/1987/11/02/Eight-Principles-for-World-Evangelization-by-the-Year-2000-by-Luis-Bush-1987.pdf">Eight-Principles-for-World-Evangelization-by-the-Year-2000-by-Luis-Bush-1987.pdf</a></li>
   </ul>
 </figure>
 </article>

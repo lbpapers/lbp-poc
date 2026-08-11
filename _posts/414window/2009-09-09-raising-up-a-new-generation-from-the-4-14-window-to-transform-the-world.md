@@ -15,7 +15,7 @@ excerpt: At the end of the last century I wrote a pamphlet entitled The 10/40 Wi
 <h1>Raising Up a New Generation from the 4/14 Window to Transform the World</h1>
 
 <figure style="float: right; width: 40%; margin-left: 2rem; border: solid black 1px">
-  <img src="{{ site.baseurl }}/assets/images/2009-09-09/4-14-booklet-cover.png">
+  <img src="{{ site.baseurl }}/assets/images/2009/09/09/4-14-booklet-cover.png">
 </figure>
 <p>At the end of the last century I wrote a pamphlet entitled The 10/40 Window: Getting to the Core of the Core.2 In the first years of this new century, I am urging a new missional focus: The 4/14 Window. Although in a different sense, it too can be called “the core of the core.” The 10/40 Window referenced a geographic frame; the 4/14 Window describes a demographic frame—a life season comprising the ten years between the ages of 4 and 14.</p>
 
@@ -30,7 +30,7 @@ excerpt: At the end of the last century I wrote a pamphlet entitled The 10/40 Wi
 
 <figure class="resource-links">
   <ul>
-    <li>Download Booklet: <a href="{{ site.baseurl }}/assets/pdf/2009-09-09/4-14 Window-Booklet-Full-Resolution.pdf">4-14 Window-Booklet-Full-Resolution.pdf</a></li>
+    <li>Download Booklet: <a href="{{ site.baseurl }}/assets/pdf/2009/09/09/4-14 Window-Booklet-Full-Resolution.pdf">4-14 Window-Booklet-Full-Resolution.pdf</a></li>
     <li>Buy a book: <a href="https://www.amazon.com/14-Window-Raising-Generation-Transform/dp/0984116907">https://www.amazon.com/14-Window-Raising-Generation-Transform/dp/0984116907</a></li>
   </ul>
 </figure>

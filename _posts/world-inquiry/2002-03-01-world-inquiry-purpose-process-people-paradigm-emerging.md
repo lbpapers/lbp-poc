@@ -38,7 +38,7 @@ excerpt: "Jesus said to his followers, in reference to God the Father: “Seek f
 
   <figure class="resource-links">
     <ul>Download PDF:
-      <li><a href="{{ site.baseurl }}/assets/pdf/2002-03-01/World-Inquiry-Purpose-Process-People-Paradigm-Emerging-by-Luis-Bush.pdf">World-Inquiry-Purpose-Process-People-Paradigm-Emerging-by-Luis-Bush.pdf</a></li>
+      <li><a href="{{ site.baseurl }}/assets/pdf/2002/03/01/World-Inquiry-Purpose-Process-People-Paradigm-Emerging-by-Luis-Bush.pdf">World-Inquiry-Purpose-Process-People-Paradigm-Emerging-by-Luis-Bush.pdf</a></li>
     </ul>
   </figure>
 </article>

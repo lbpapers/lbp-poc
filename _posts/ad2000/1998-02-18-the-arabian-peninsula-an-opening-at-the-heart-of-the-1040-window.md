@@ -18,7 +18,7 @@ excerpt: "Though the Arabian Peninsula is often misunderstood, it presents a pic
 AD2000 & Beyond Movement</span></p>
 
 <figure class="pic-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998-02-18/apmap.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998/02/18/apmap.jpg">
 </figure>
 <p>Talal grew up in a nation on the Arabian Peninsula. He came to faith through a dream, but as a new Christian he was unable to obtain a Bible or even meet another Christian.</p>
 
@@ -31,7 +31,7 @@ AD2000 & Beyond Movement</span></p>
 </blockquote>
 
 <figure class="pic-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998-02-18/ap2.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998/02/18/ap2.jpg">
 </figure>
 <p>After four years of searching for fellowship, Talal finally was able to make contact with us. He is still sharing his faith, but more quietly now. He and his brother have not had any fellowship in these four years. Talal feels guilty because he denied Christ We have tried to help and encourage him. Recently he said to me, "You live in a different world. For you being a Christian is easy; for me, it is hard!"</p>
 
@@ -48,7 +48,7 @@ AD2000 & Beyond Movement</span></p>
 <p><strong>Is the Middle East</strong> - and specifically the Arabian Peninsula - truly reachable? Most western Christians believe it is not. But after you read this article I hope you will agree with an increasing number of Arab nationals and internationals who respond to that question with a resounding "Yes!"</p>
 
 <figure class="pic-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998-02-18/ap3.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998/02/18/ap3.jpg">
 </figure>
 <p>Stereotypes abound in the Middle East, especially negative stereotypes about Arab people. It is an area of striking contradictions and conflicts:</p>
 
@@ -70,7 +70,7 @@ AD2000 & Beyond Movement</span></p>
 <p><strong>There are over one billion</strong> - ie. 22% of the world's population - Muslims in the world. Each is required to pray toward the city of Mecca five times every day. Each year more than two million of them make the Hajj, or pilgrimage, to Mecca.</p>
 
 <figure class="pic-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998-02-18/ap8.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998/02/18/ap8.jpg">
 </figure>
 <p>A massive Islamic missionary effort is coordinated by the Muslim World League in Mecca. Vast sums of money are used to propagate Islam around the world: aid to countries considered sympathetic, building mosques, sending missionaries, literature, radio, etc. The world's largest printing presses are located here, and they churn out 28 million copies of the Koran every year for worldwide distribution.</p>
 
@@ -141,7 +141,7 @@ AD2000 & Beyond Movement</span></p>
 <p><strong>The Arabian Peninsula is accessible</strong> - "He turned the desert into pools of water and the parched ground into flowing springs" (Ps. 107:35).</p>
 
 <figure class="pic-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998-02-18/ap9.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998/02/18/ap9.jpg">
 </figure>
 <p>The growing flow of internationals into the Arabian Peninsula (see chart) brings labor and expertise for building the nations' infrastructure and providing needed services. It also brings many Christians to the region. More than seven of every ten residents in Qatar and Bahrain are expatriates. There are at least 420,000 expatriate Christians in the entire Peninsula.</p>
 
@@ -161,7 +161,7 @@ Yemen occupies the southern tip of the Arabian Peninsula. The varied topography 
 <h3>The Historical Significance of the Arabian Peninsula</h3>
 
 <figure class="pic-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998-02-18/ap13.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998/02/18/ap13.jpg">
 </figure>
 <p><strong>The History of the People of the Arabian Peninsula</strong> begins in Genesis 10 where the beginnings of nations are described. The bulk of the population of Arabia are descendants of Shem (ie. Semitic peoples - the Hebrews, Arabs, Arameans). There were two primary peoples who inhabited Arabia. One was largely nomadic, wandering with their flocks over the great deserts, which lie, between the river Euphrates and the center of the peninsula. The other group was the inhabitants of the rain-fed uplands of Yemen. Camels were domesticated in Arabia between 1500-1200BC.</p>
 
@@ -173,7 +173,7 @@ Yemen occupies the southern tip of the Arabian Peninsula. The varied topography 
 </blockquote>
 
 <figure class="pic-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998-02-18/ap5.gif">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1998/02/18/ap5.gif">
 </figure>
 
 <p>The southern peoples of Arabia are also basically Semitic peoples, descendants of Joktan and Cush. The source of their wealth in earlier times was their position on trade routes from India, East Africa, South East Asia and China, as well as their supplies of frankincense. Later in the 4th century BC, Himyaritic peoples from the Horn of Africa dominated the area. Navigation of the Red Sea was difficult and dangerous owing to coral reefs and pirates. Most of the goods traded were carried by camel from South Yemen up to the Mediterranean Sea. This lucrative trade produced a wealthy and civilized community in Yemen. The Queen of Sheba, who paid a very famous visit to Solomon, was a Queen of Yemen. Halfway between Yemen and the Mediterranean cultures lies a small desert settlement called Mecca. Mecca was a staging past for this caravan trade.</p>
