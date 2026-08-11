@@ -54,7 +54,7 @@ excerpt: This final report on the 2012 Fiji Prayer Convention has been prepared 
 		<p>On the final evening Friday night the 6th of July 2012 Henrick Minder brought a challenge for the Christians to stand up and change their nation as mentioned in 2 Chron. 7:14. Henrick also quoted from 1 Tim 2:1 which says that praying for "kings and all those in authority" is of first importance and not where we usually put it, i.e. last. Rev. Geoff Armitage brought a message from Naaman (2 Kings 5) being healed of leprosy without, and the pride of his heart within. Everyone responded by dipping themselves seven times, in the river of God, as a prayer that the LORD would cleanse our hearts from the sin of pride. Lilian Schmid finished with a closing prayer: the Lord's Prayer in both the Fijian language and the English language and thanked everyone in Fiji for their generosity and their heart to transform their nation.</p>
 		<p>The final message came from Inosi Vono who called for the grace of forgiveness to be exercised by all present towards anyone who had caused them offense. In conclusion he asked all the Pastors present to come on to the stage and kneel and repent of denominationalism and pride that had been separating God's family. This was a blessed place to bring the Fiji International Prayer Convention to a conclusion. Let me conclude this report with the words of Psalm 107:15:</p>
 		<p><em>Let them give thanks to the LORD for his unfailing love and his wondrous deeds for men, for he breaks down gates of bronze and cuts through bars of iron.</em></p>
-		<p><a href="files/Link8.pdf">Special thanks to contributors of this report.</a><sup>8</sup></p>
+		<p><a href="http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link8.pdf">Special thanks to contributors of this report.</a><sup>8</sup></p>
 
 		<img style="max-width: 100%" src="{{ site.baseurl }}/assets/newsletters/images/2012/07/30/tw-footer.jpg">
 
@@ -62,14 +62,14 @@ excerpt: This final report on the 2012 Fiji Prayer Convention has been prepared 
 		<h2 id="References">References</h2>
 
 		<ol class="references">
-			<li><a href="http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link1.pdf">http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link1.pdf</a></li>
-			<li><a href="http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link2.pdf">http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link2.pdf</a></li>
-			<li><a href="http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link3.pdf">http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link3.pdf</a></li>
-			<li><a href="http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link4.pdf">http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link4.pdf</a></li>
-			<li><a href="http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link5.pdf">http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link5.pdf</a></li>
-			<li><a href="http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link6.pdf">http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link6.pdf</a></li>
-			<li><a href="http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link7.pdf">http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link7.pdf</a></li>
-			<li><a href="http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link8.pdf">http://luisbushpapers.com/newsletters/2012/07/30/2012-fiji-prayer-convention-report/files/Link8.pdf</a></li>
+			<li><a href="http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link1.pdf">http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link1.pdf</a></li>
+			<li><a href="http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link2.pdf">http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link2.pdf</a></li>
+			<li><a href="http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link3.pdf">http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link3.pdf</a></li>
+			<li><a href="http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link4.pdf">http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link4.pdf</a></li>
+			<li><a href="http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link5.pdf">http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link5.pdf</a></li>
+			<li><a href="http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link6.pdf">http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link6.pdf</a></li>
+			<li><a href="http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link7.pdf">http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link7.pdf</a></li>
+			<li><a href="http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link8.pdf">http://luisbushpapers.com/assets/newsletters/pdf/2012/07/30/Link8.pdf</a></li>
 		</ol>
 	</article>
 	{% include newsletter-footer-en.html %}
